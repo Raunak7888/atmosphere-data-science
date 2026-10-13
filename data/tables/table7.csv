@@ -1,0 +1,8 @@
+event_id,event_name,year,event_type,source_note
+china_air_plan,China air-pollution action plan,2013,policy,
+covid_lockdowns,COVID-19 lockdowns,2020,shock,
+eu_ets_launch,EU Emissions Trading System launched,2005,policy,
+financial_crisis,Global financial crisis (2008-09),2008,economic_shock,
+kyoto_adopted,Kyoto Protocol adopted,1997,treaty,
+kyoto_in_force,Kyoto Protocol enters into force,2005,treaty,
+paris_agreement,Paris Agreement adopted,2015,treaty,

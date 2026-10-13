@@ -1,0 +1,5977 @@
+entity,iso_code,year,co2_mt
+Africa,,1884,0.022
+Africa,,1885,0.037
+Africa,,1886,0.048
+Africa,,1887,0.048
+Africa,,1888,0.081
+Africa,,1889,0.132
+Africa,,1890,0.297
+Africa,,1891,0.297
+Africa,,1892,0.48
+Africa,,1893,1.799
+Africa,,1894,2.433
+Africa,,1895,3.338
+Africa,,1896,4.258
+Africa,,1897,4.778
+Africa,,1898,6.049
+Africa,,1899,5.518
+Africa,,1900,2.33
+Africa,,1901,3.909
+Africa,,1902,5.826
+Africa,,1903,7.896
+Africa,,1904,8.911
+Africa,,1905,10.263
+Africa,,1906,11.717
+Africa,,1907,12.93
+Africa,,1908,13.403
+Africa,,1909,15.385
+Africa,,1910,17.411
+Africa,,1911,16.865
+Africa,,1912,17.954
+Africa,,1913,19.606
+Africa,,1914,19.551
+Africa,,1915,19.606
+Africa,,1916,23.255
+Africa,,1917,25.344
+Africa,,1918,24.725
+Africa,,1919,25.443
+Africa,,1920,28.052
+Africa,,1921,27.986
+Africa,,1922,23.97
+Africa,,1923,29.045
+Africa,,1924,30.631
+Africa,,1925,32.185
+Africa,,1926,34.438
+Africa,,1927,33.841
+Africa,,1928,34.77
+Africa,,1929,35.802
+Africa,,1930,33.696
+Africa,,1931,29.464
+Africa,,1932,26.623
+Africa,,1933,28.491
+Africa,,1934,32.539
+Africa,,1935,35.91
+Africa,,1936,39.016
+Africa,,1937,41.844
+Africa,,1938,44.013
+Africa,,1939,46.853
+Africa,,1940,49.649
+Africa,,1941,54.023
+Africa,,1942,58.823
+Africa,,1943,60.12
+Africa,,1944,66.633
+Africa,,1945,67.527
+Africa,,1946,68.159
+Africa,,1947,67.935
+Africa,,1948,71.733
+Africa,,1949,77.324
+Africa,,1950,94.751
+Africa,,1951,101.052
+Africa,,1952,110.274
+Africa,,1953,111.985
+Africa,,1954,117.518
+Africa,,1955,129.395
+Africa,,1956,135.095
+Africa,,1957,141.586
+Africa,,1958,148.671
+Africa,,1959,147.841
+Africa,,1960,156.571
+Africa,,1961,161.994
+Africa,,1962,166.335
+Africa,,1963,176.335
+Africa,,1964,193.639
+Africa,,1965,213.634
+Africa,,1966,221.082
+Africa,,1967,237.045
+Africa,,1968,257.271
+Africa,,1969,277.717
+Africa,,1970,302.41
+Africa,,1971,331.582
+Africa,,1972,351.615
+Africa,,1973,377.704
+Africa,,1974,388.046
+Africa,,1975,386.833
+Africa,,1976,419.685
+Africa,,1977,432.652
+Africa,,1978,462.046
+Africa,,1979,498.671
+Africa,,1980,535.707
+Africa,,1981,548.511
+Africa,,1982,571.423
+Africa,,1983,594.289
+Africa,,1984,648.849
+Africa,,1985,665.46
+Africa,,1986,689.135
+Africa,,1987,689.027
+Africa,,1988,723.893
+Africa,,1989,696.668
+Africa,,1990,655.809
+Africa,,1991,684.249
+Africa,,1992,663.713
+Africa,,1993,704.59
+Africa,,1994,788.762
+Africa,,1995,842.296
+Africa,,1996,870.785
+Africa,,1997,892.643
+Africa,,1998,911.159
+Africa,,1999,897.515
+Africa,,2000,927.86
+Africa,,2001,917.322
+Africa,,2002,896.956
+Africa,,2003,988.111
+Africa,,2004,1043.504
+Africa,,2005,1055.713
+Africa,,2006,1084.853
+Africa,,2007,1113.892
+Africa,,2008,1166.199
+Africa,,2009,1160.896
+Africa,,2010,1216.281
+Africa,,2011,1264.906
+Africa,,2012,1263.516
+Africa,,2013,1280.567
+Africa,,2014,1360.819
+Africa,,2015,1335.946
+Africa,,2016,1367.232
+Africa,,2017,1377.318
+Africa,,2018,1391.187
+Africa,,2019,1456.083
+Africa,,2020,1369.249
+Africa,,2021,1475.349
+Africa,,2022,1459.114
+Africa,,2023,1481.814
+Africa,,2024,1502.099
+Africa (GCP),,1850,0.0
+Africa (GCP),,1851,0.0
+Africa (GCP),,1852,0.0
+Africa (GCP),,1853,0.0
+Africa (GCP),,1854,0.0
+Africa (GCP),,1855,0.0
+Africa (GCP),,1856,0.0
+Africa (GCP),,1857,0.0
+Africa (GCP),,1858,0.0
+Africa (GCP),,1859,0.0
+Africa (GCP),,1860,0.0
+Africa (GCP),,1861,0.0
+Africa (GCP),,1862,0.0
+Africa (GCP),,1863,0.0
+Africa (GCP),,1864,0.0
+Africa (GCP),,1865,0.0
+Africa (GCP),,1866,0.0
+Africa (GCP),,1867,0.0
+Africa (GCP),,1868,0.0
+Africa (GCP),,1869,0.0
+Africa (GCP),,1870,0.0
+Africa (GCP),,1871,0.0
+Africa (GCP),,1872,0.0
+Africa (GCP),,1873,0.0
+Africa (GCP),,1874,0.0
+Africa (GCP),,1875,0.0
+Africa (GCP),,1876,0.0
+Africa (GCP),,1877,0.0
+Africa (GCP),,1878,0.0
+Africa (GCP),,1879,0.0
+Africa (GCP),,1880,0.0
+Africa (GCP),,1881,0.0
+Africa (GCP),,1882,0.0
+Africa (GCP),,1883,0.0
+Africa (GCP),,1884,0.022
+Africa (GCP),,1885,0.037
+Africa (GCP),,1886,0.048
+Africa (GCP),,1887,0.048
+Africa (GCP),,1888,0.081
+Africa (GCP),,1889,0.132
+Africa (GCP),,1890,0.297
+Africa (GCP),,1891,0.297
+Africa (GCP),,1892,0.48
+Africa (GCP),,1893,1.799
+Africa (GCP),,1894,2.433
+Africa (GCP),,1895,3.338
+Africa (GCP),,1896,4.258
+Africa (GCP),,1897,4.778
+Africa (GCP),,1898,6.049
+Africa (GCP),,1899,5.518
+Africa (GCP),,1900,2.33
+Africa (GCP),,1901,3.909
+Africa (GCP),,1902,5.826
+Africa (GCP),,1903,7.896
+Africa (GCP),,1904,8.911
+Africa (GCP),,1905,10.263
+Africa (GCP),,1906,11.717
+Africa (GCP),,1907,12.93
+Africa (GCP),,1908,13.403
+Africa (GCP),,1909,15.385
+Africa (GCP),,1910,17.411
+Africa (GCP),,1911,16.865
+Africa (GCP),,1912,17.954
+Africa (GCP),,1913,19.606
+Africa (GCP),,1914,19.551
+Africa (GCP),,1915,19.606
+Africa (GCP),,1916,23.255
+Africa (GCP),,1917,25.344
+Africa (GCP),,1918,24.725
+Africa (GCP),,1919,25.443
+Africa (GCP),,1920,28.052
+Africa (GCP),,1921,27.986
+Africa (GCP),,1922,23.97
+Africa (GCP),,1923,29.045
+Africa (GCP),,1924,30.631
+Africa (GCP),,1925,32.185
+Africa (GCP),,1926,34.438
+Africa (GCP),,1927,33.841
+Africa (GCP),,1928,34.77
+Africa (GCP),,1929,35.802
+Africa (GCP),,1930,33.696
+Africa (GCP),,1931,29.464
+Africa (GCP),,1932,26.623
+Africa (GCP),,1933,28.491
+Africa (GCP),,1934,32.539
+Africa (GCP),,1935,35.91
+Africa (GCP),,1936,39.016
+Africa (GCP),,1937,41.844
+Africa (GCP),,1938,44.013
+Africa (GCP),,1939,46.853
+Africa (GCP),,1940,49.649
+Africa (GCP),,1941,54.023
+Africa (GCP),,1942,58.823
+Africa (GCP),,1943,60.12
+Africa (GCP),,1944,66.633
+Africa (GCP),,1945,67.527
+Africa (GCP),,1946,68.159
+Africa (GCP),,1947,67.935
+Africa (GCP),,1948,71.733
+Africa (GCP),,1949,77.324
+Africa (GCP),,1950,94.751
+Africa (GCP),,1951,101.052
+Africa (GCP),,1952,110.274
+Africa (GCP),,1953,111.985
+Africa (GCP),,1954,117.518
+Africa (GCP),,1955,129.395
+Africa (GCP),,1956,135.095
+Africa (GCP),,1957,141.586
+Africa (GCP),,1958,148.671
+Africa (GCP),,1959,147.841
+Africa (GCP),,1960,156.571
+Africa (GCP),,1961,161.994
+Africa (GCP),,1962,166.335
+Africa (GCP),,1963,176.335
+Africa (GCP),,1964,193.639
+Africa (GCP),,1965,213.634
+Africa (GCP),,1966,221.082
+Africa (GCP),,1967,237.045
+Africa (GCP),,1968,257.268
+Africa (GCP),,1969,277.717
+Africa (GCP),,1970,302.41
+Africa (GCP),,1971,331.582
+Africa (GCP),,1972,351.615
+Africa (GCP),,1973,377.704
+Africa (GCP),,1974,388.046
+Africa (GCP),,1975,386.833
+Africa (GCP),,1976,419.685
+Africa (GCP),,1977,432.652
+Africa (GCP),,1978,462.046
+Africa (GCP),,1979,498.671
+Africa (GCP),,1980,535.707
+Africa (GCP),,1981,548.503
+Africa (GCP),,1982,571.419
+Africa (GCP),,1983,594.285
+Africa (GCP),,1984,648.845
+Africa (GCP),,1985,665.456
+Africa (GCP),,1986,689.131
+Africa (GCP),,1987,689.023
+Africa (GCP),,1988,723.886
+Africa (GCP),,1989,696.66
+Africa (GCP),,1990,655.802
+Africa (GCP),,1991,684.242
+Africa (GCP),,1992,663.705
+Africa (GCP),,1993,704.579
+Africa (GCP),,1994,788.751
+Africa (GCP),,1995,842.286
+Africa (GCP),,1996,870.774
+Africa (GCP),,1997,892.632
+Africa (GCP),,1998,911.148
+Africa (GCP),,1999,897.504
+Africa (GCP),,2000,927.849
+Africa (GCP),,2001,917.311
+Africa (GCP),,2002,896.945
+Africa (GCP),,2003,988.1
+Africa (GCP),,2004,1043.497
+Africa (GCP),,2005,1055.702
+Africa (GCP),,2006,1084.842
+Africa (GCP),,2007,1113.881
+Africa (GCP),,2008,1166.188
+Africa (GCP),,2009,1160.885
+Africa (GCP),,2010,1216.27
+Africa (GCP),,2011,1264.895
+Africa (GCP),,2012,1263.505
+Africa (GCP),,2013,1280.556
+Africa (GCP),,2014,1360.808
+Africa (GCP),,2015,1335.935
+Africa (GCP),,2016,1367.218
+Africa (GCP),,2017,1377.307
+Africa (GCP),,2018,1391.176
+Africa (GCP),,2019,1456.068
+Africa (GCP),,2020,1369.238
+Africa (GCP),,2021,1475.342
+Africa (GCP),,2022,1459.103
+Africa (GCP),,2023,1481.803
+Africa (GCP),,2024,1502.087
+Asia,,1750,0.0
+Asia,,1751,0.0
+Asia,,1752,0.0
+Asia,,1753,0.0
+Asia,,1754,0.0
+Asia,,1755,0.0
+Asia,,1756,0.0
+Asia,,1757,0.0
+Asia,,1758,0.0
+Asia,,1759,0.0
+Asia,,1760,0.0
+Asia,,1761,0.0
+Asia,,1762,0.0
+Asia,,1763,0.0
+Asia,,1764,0.0
+Asia,,1765,0.0
+Asia,,1766,0.0
+Asia,,1767,0.0
+Asia,,1768,0.0
+Asia,,1769,0.0
+Asia,,1770,0.0
+Asia,,1771,0.0
+Asia,,1772,0.0
+Asia,,1773,0.0
+Asia,,1774,0.0
+Asia,,1775,0.0
+Asia,,1776,0.0
+Asia,,1777,0.0
+Asia,,1778,0.0
+Asia,,1779,0.0
+Asia,,1780,0.0
+Asia,,1781,0.0
+Asia,,1782,0.0
+Asia,,1783,0.0
+Asia,,1784,0.0
+Asia,,1785,0.0
+Asia,,1786,0.0
+Asia,,1787,0.0
+Asia,,1788,0.0
+Asia,,1789,0.0
+Asia,,1790,0.0
+Asia,,1791,0.0
+Asia,,1792,0.0
+Asia,,1793,0.0
+Asia,,1794,0.0
+Asia,,1795,0.0
+Asia,,1796,0.0
+Asia,,1797,0.0
+Asia,,1798,0.0
+Asia,,1799,0.0
+Asia,,1800,0.0
+Asia,,1801,0.0
+Asia,,1802,0.0
+Asia,,1803,0.0
+Asia,,1804,0.0
+Asia,,1805,0.0
+Asia,,1806,0.0
+Asia,,1807,0.0
+Asia,,1808,0.0
+Asia,,1809,0.0
+Asia,,1810,0.0
+Asia,,1811,0.0
+Asia,,1812,0.0
+Asia,,1813,0.0
+Asia,,1814,0.0
+Asia,,1815,0.0
+Asia,,1816,0.0
+Asia,,1817,0.0
+Asia,,1818,0.0
+Asia,,1819,0.0
+Asia,,1820,0.0
+Asia,,1821,0.0
+Asia,,1822,0.0
+Asia,,1823,0.0
+Asia,,1824,0.0
+Asia,,1825,0.0
+Asia,,1826,0.0
+Asia,,1827,0.0
+Asia,,1828,0.0
+Asia,,1829,0.0
+Asia,,1830,0.002
+Asia,,1831,0.003
+Asia,,1832,0.002
+Asia,,1833,0.002
+Asia,,1834,0.0
+Asia,,1835,0.0
+Asia,,1836,0.0
+Asia,,1837,0.0
+Asia,,1838,0.0
+Asia,,1839,0.0
+Asia,,1840,0.0
+Asia,,1841,0.0
+Asia,,1842,0.0
+Asia,,1843,0.0
+Asia,,1844,0.0
+Asia,,1845,0.0
+Asia,,1846,0.0
+Asia,,1847,0.0
+Asia,,1848,0.0
+Asia,,1849,0.0
+Asia,,1850,0.015
+Asia,,1851,0.0
+Asia,,1852,0.0
+Asia,,1853,0.0
+Asia,,1854,0.0
+Asia,,1855,0.044
+Asia,,1856,0.0
+Asia,,1857,0.0
+Asia,,1858,0.457
+Asia,,1859,0.703
+Asia,,1860,0.731
+Asia,,1861,0.608
+Asia,,1862,0.651
+Asia,,1863,0.715
+Asia,,1864,0.695
+Asia,,1865,0.83
+Asia,,1866,1.204
+Asia,,1867,0.635
+Asia,,1868,0.526
+Asia,,1869,0.746
+Asia,,1870,0.676
+Asia,,1871,0.898
+Asia,,1872,0.971
+Asia,,1873,0.929
+Asia,,1874,1.632
+Asia,,1875,2.7
+Asia,,1876,2.806
+Asia,,1877,2.888
+Asia,,1878,5.455
+Asia,,1879,5.668
+Asia,,1880,6.185
+Asia,,1881,6.344
+Asia,,1882,6.872
+Asia,,1883,7.6
+Asia,,1884,8.184
+Asia,,1885,8.531
+Asia,,1886,9.106
+Asia,,1887,10.529
+Asia,,1888,11.709
+Asia,,1889,13.774
+Asia,,1890,15.077
+Asia,,1891,17.193
+Asia,,1892,18.264
+Asia,,1893,20.401
+Asia,,1894,22.736
+Asia,,1895,26.29
+Asia,,1896,28.016
+Asia,,1897,30.471
+Asia,,1898,36.47
+Asia,,1899,38.626
+Asia,,1900,43.977
+Asia,,1901,50.337
+Asia,,1902,52.38
+Asia,,1903,55.036
+Asia,,1904,61.878
+Asia,,1905,62.977
+Asia,,1906,70.252
+Asia,,1907,97.164
+Asia,,1908,105.952
+Asia,,1909,109.17
+Asia,,1910,110.742
+Asia,,1911,117.722
+Asia,,1912,119.731
+Asia,,1913,137.316
+Asia,,1914,142.83
+Asia,,1915,136.618
+Asia,,1916,149.858
+Asia,,1917,161.955
+Asia,,1918,166.862
+Asia,,1919,183.547
+Asia,,1920,175.418
+Asia,,1921,171.785
+Asia,,1922,181.264
+Asia,,1923,199.194
+Asia,,1924,213.261
+Asia,,1925,215.426
+Asia,,1926,218.787
+Asia,,1927,236.765
+Asia,,1928,248.364
+Asia,,1929,258.312
+Asia,,1930,257.875
+Asia,,1931,248.62
+Asia,,1932,248.7
+Asia,,1933,272.989
+Asia,,1934,309.518
+Asia,,1935,337.161
+Asia,,1936,364.027
+Asia,,1937,385.361
+Asia,,1938,394.587
+Asia,,1939,418.704
+Asia,,1940,471.629
+Asia,,1941,478.236
+Asia,,1942,447.315
+Asia,,1943,440.022
+Asia,,1944,440.441
+Asia,,1945,327.97
+Asia,,1946,315.475
+Asia,,1947,380.22
+Asia,,1948,383.795
+Asia,,1949,382.434
+Asia,,1950,400.21
+Asia,,1951,454.439
+Asia,,1952,504.145
+Asia,,1953,539.902
+Asia,,1954,591.67
+Asia,,1955,674.382
+Asia,,1956,748.93
+Asia,,1957,843.198
+Asia,,1958,1137.608
+Asia,,1959,1373.324
+Asia,,1960,1538.123
+Asia,,1961,1392.969
+Asia,,1962,1342.04
+Asia,,1963,1422.531
+Asia,,1964,1506.772
+Asia,,1965,1649.181
+Asia,,1966,1796.336
+Asia,,1967,1824.344
+Asia,,1968,2015.224
+Asia,,1969,2288.607
+Asia,,1970,2696.906
+Asia,,1971,2952.501
+Asia,,1972,3128.201
+Asia,,1973,3350.604
+Asia,,1974,3410.21
+Asia,,1975,3576.883
+Asia,,1976,3802.953
+Asia,,1977,4047.53
+Asia,,1978,4229.859
+Asia,,1979,4404.124
+Asia,,1980,4398.616
+Asia,,1981,4372.236
+Asia,,1982,4516.32
+Asia,,1983,4697.412
+Asia,,1984,4971.183
+Asia,,1985,5260.703
+Asia,,1986,5486.271
+Asia,,1987,5722.182
+Asia,,1988,6182.026
+Asia,,1989,6396.979
+Asia,,1990,6582.485
+Asia,,1991,7373.495
+Asia,,1992,7206.709
+Asia,,1993,7533.513
+Asia,,1994,7885.157
+Asia,,1995,8256.111
+Asia,,1996,8596.897
+Asia,,1997,8721.442
+Asia,,1998,8473.977
+Asia,,1999,8965.377
+Asia,,2000,9330.988
+Asia,,2001,9518.094
+Asia,,2002,10033.99
+Asia,,2003,11036.212
+Asia,,2004,11688.357
+Asia,,2005,12547.688
+Asia,,2006,13390.617
+Asia,,2007,14118.133
+Asia,,2008,14843.06
+Asia,,2009,15377.568
+Asia,,2010,16536.467
+Asia,,2011,17768.818
+Asia,,2012,18438.48
+Asia,,2013,18685.477
+Asia,,2014,18961.438
+Asia,,2015,19070.406
+Asia,,2016,19202.404
+Asia,,2017,19775.838
+Asia,,2018,20366.35
+Asia,,2019,20926.584
+Asia,,2020,20691.949
+Asia,,2021,21520.502
+Asia,,2022,22237.812
+Asia,,2023,22997.092
+Asia,,2024,23392.488
+Asia (GCP),,1850,0.015
+Asia (GCP),,1851,0.0
+Asia (GCP),,1852,0.0
+Asia (GCP),,1853,0.0
+Asia (GCP),,1854,0.0
+Asia (GCP),,1855,0.044
+Asia (GCP),,1856,0.0
+Asia (GCP),,1857,0.0
+Asia (GCP),,1858,0.457
+Asia (GCP),,1859,0.703
+Asia (GCP),,1860,0.731
+Asia (GCP),,1861,0.608
+Asia (GCP),,1862,0.651
+Asia (GCP),,1863,0.715
+Asia (GCP),,1864,0.695
+Asia (GCP),,1865,0.679
+Asia (GCP),,1866,0.995
+Asia (GCP),,1867,0.408
+Asia (GCP),,1868,0.351
+Asia (GCP),,1869,0.479
+Asia (GCP),,1870,0.518
+Asia (GCP),,1871,0.7
+Asia (GCP),,1872,0.726
+Asia (GCP),,1873,0.69
+Asia (GCP),,1874,1.375
+Asia (GCP),,1875,2.348
+Asia (GCP),,1876,2.531
+Asia (GCP),,1877,2.441
+Asia (GCP),,1878,5.129
+Asia (GCP),,1879,5.543
+Asia (GCP),,1880,6.046
+Asia (GCP),,1881,6.161
+Asia (GCP),,1882,6.718
+Asia (GCP),,1883,7.438
+Asia (GCP),,1884,8.008
+Asia (GCP),,1885,8.337
+Asia (GCP),,1886,8.971
+Asia (GCP),,1887,10.284
+Asia (GCP),,1888,11.442
+Asia (GCP),,1889,13.371
+Asia (GCP),,1890,14.711
+Asia (GCP),,1891,16.79
+Asia (GCP),,1892,17.853
+Asia (GCP),,1893,19.976
+Asia (GCP),,1894,22.344
+Asia (GCP),,1895,25.917
+Asia (GCP),,1896,27.572
+Asia (GCP),,1897,30.156
+Asia (GCP),,1898,35.946
+Asia (GCP),,1899,37.956
+Asia (GCP),,1900,42.94
+Asia (GCP),,1901,49.388
+Asia (GCP),,1902,51.332
+Asia (GCP),,1903,53.831
+Asia (GCP),,1904,60.512
+Asia (GCP),,1905,61.446
+Asia (GCP),,1906,68.669
+Asia (GCP),,1907,95.284
+Asia (GCP),,1908,104.23
+Asia (GCP),,1909,107.213
+Asia (GCP),,1910,108.859
+Asia (GCP),,1911,115.359
+Asia (GCP),,1912,117.482
+Asia (GCP),,1913,134.425
+Asia (GCP),,1914,139.995
+Asia (GCP),,1915,134.178
+Asia (GCP),,1916,147.337
+Asia (GCP),,1917,158.764
+Asia (GCP),,1918,162.956
+Asia (GCP),,1919,178.289
+Asia (GCP),,1920,168.577
+Asia (GCP),,1921,163.688
+Asia (GCP),,1922,171.027
+Asia (GCP),,1923,186.143
+Asia (GCP),,1924,197.304
+Asia (GCP),,1925,198.857
+Asia (GCP),,1926,200.72
+Asia (GCP),,1927,216.646
+Asia (GCP),,1928,227.27
+Asia (GCP),,1929,237.369
+Asia (GCP),,1930,234.979
+Asia (GCP),,1931,226.343
+Asia (GCP),,1932,224.163
+Asia (GCP),,1933,245.782
+Asia (GCP),,1934,277.167
+Asia (GCP),,1935,301.475
+Asia (GCP),,1936,324.696
+Asia (GCP),,1937,339.7
+Asia (GCP),,1938,348.405
+Asia (GCP),,1939,366.582
+Asia (GCP),,1940,426.11
+Asia (GCP),,1941,442.225
+Asia (GCP),,1942,399.845
+Asia (GCP),,1943,387.581
+Asia (GCP),,1944,372.736
+Asia (GCP),,1945,241.814
+Asia (GCP),,1946,202.671
+Asia (GCP),,1947,246.147
+Asia (GCP),,1948,275.08
+Asia (GCP),,1949,340.625
+Asia (GCP),,1950,368.443
+Asia (GCP),,1951,428.335
+Asia (GCP),,1952,480.661
+Asia (GCP),,1953,512.755
+Asia (GCP),,1954,559.029
+Asia (GCP),,1955,624.252
+Asia (GCP),,1956,689.799
+Asia (GCP),,1957,781.574
+Asia (GCP),,1958,1070.589
+Asia (GCP),,1959,1302.717
+Asia (GCP),,1960,1448.027
+Asia (GCP),,1961,1298.687
+Asia (GCP),,1962,1232.943
+Asia (GCP),,1963,1299.194
+Asia (GCP),,1964,1362.267
+Asia (GCP),,1965,1476.741
+Asia (GCP),,1966,1597.787
+Asia (GCP),,1967,1619.313
+Asia (GCP),,1968,1779.167
+Asia (GCP),,1969,2020.828
+Asia (GCP),,1970,2412.296
+Asia (GCP),,1971,2618.93
+Asia (GCP),,1972,2768.66
+Asia (GCP),,1973,2923.351
+Asia (GCP),,1974,2967.92
+Asia (GCP),,1975,3143.782
+Asia (GCP),,1976,3296.27
+Asia (GCP),,1977,3514.515
+Asia (GCP),,1978,3694.783
+Asia (GCP),,1979,3836.061
+Asia (GCP),,1980,3845.441
+Asia (GCP),,1981,3821.237
+Asia (GCP),,1982,3953.197
+Asia (GCP),,1983,4103.815
+Asia (GCP),,1984,4349.275
+Asia (GCP),,1985,4590.286
+Asia (GCP),,1986,4772.83
+Asia (GCP),,1987,4992.786
+Asia (GCP),,1988,5404.823
+Asia (GCP),,1989,5574.634
+Asia (GCP),,1990,5761.38
+Asia (GCP),,1991,6004.44
+Asia (GCP),,1992,6223.938
+Asia (GCP),,1993,6465.919
+Asia (GCP),,1994,6758.348
+Asia (GCP),,1995,7118.254
+Asia (GCP),,1996,7440.22
+Asia (GCP),,1997,7581.172
+Asia (GCP),,1998,7294.443
+Asia (GCP),,1999,7695.168
+Asia (GCP),,2000,7927.166
+Asia (GCP),,2001,8079.179
+Asia (GCP),,2002,8583.849
+Asia (GCP),,2003,9491.552
+Asia (GCP),,2004,10037.268
+Asia (GCP),,2005,10828.094
+Asia (GCP),,2006,11564.241
+Asia (GCP),,2007,12281.686
+Asia (GCP),,2008,12864.319
+Asia (GCP),,2009,13317.202
+Asia (GCP),,2010,14362.529
+Asia (GCP),,2011,15542.228
+Asia (GCP),,2012,16061.427
+Asia (GCP),,2013,16345.718
+Asia (GCP),,2014,16580.381
+Asia (GCP),,2015,16605.201
+Asia (GCP),,2016,16688.727
+Asia (GCP),,2017,17182.279
+Asia (GCP),,2018,17777.24
+Asia (GCP),,2019,18223.221
+Asia (GCP),,2020,18046.271
+Asia (GCP),,2021,18740.865
+Asia (GCP),,2022,19455.877
+Asia (GCP),,2023,20111.111
+Asia (GCP),,2024,20432.227
+Asia (excl. China and India),,1750,0.0
+Asia (excl. China and India),,1751,0.0
+Asia (excl. China and India),,1752,0.0
+Asia (excl. China and India),,1753,0.0
+Asia (excl. China and India),,1754,0.0
+Asia (excl. China and India),,1755,0.0
+Asia (excl. China and India),,1756,0.0
+Asia (excl. China and India),,1757,0.0
+Asia (excl. China and India),,1758,0.0
+Asia (excl. China and India),,1759,0.0
+Asia (excl. China and India),,1760,0.0
+Asia (excl. China and India),,1761,0.0
+Asia (excl. China and India),,1762,0.0
+Asia (excl. China and India),,1763,0.0
+Asia (excl. China and India),,1764,0.0
+Asia (excl. China and India),,1765,0.0
+Asia (excl. China and India),,1766,0.0
+Asia (excl. China and India),,1767,0.0
+Asia (excl. China and India),,1768,0.0
+Asia (excl. China and India),,1769,0.0
+Asia (excl. China and India),,1770,0.0
+Asia (excl. China and India),,1771,0.0
+Asia (excl. China and India),,1772,0.0
+Asia (excl. China and India),,1773,0.0
+Asia (excl. China and India),,1774,0.0
+Asia (excl. China and India),,1775,0.0
+Asia (excl. China and India),,1776,0.0
+Asia (excl. China and India),,1777,0.0
+Asia (excl. China and India),,1778,0.0
+Asia (excl. China and India),,1779,0.0
+Asia (excl. China and India),,1780,0.0
+Asia (excl. China and India),,1781,0.0
+Asia (excl. China and India),,1782,0.0
+Asia (excl. China and India),,1783,0.0
+Asia (excl. China and India),,1784,0.0
+Asia (excl. China and India),,1785,0.0
+Asia (excl. China and India),,1786,0.0
+Asia (excl. China and India),,1787,0.0
+Asia (excl. China and India),,1788,0.0
+Asia (excl. China and India),,1789,0.0
+Asia (excl. China and India),,1790,0.0
+Asia (excl. China and India),,1791,0.0
+Asia (excl. China and India),,1792,0.0
+Asia (excl. China and India),,1793,0.0
+Asia (excl. China and India),,1794,0.0
+Asia (excl. China and India),,1795,0.0
+Asia (excl. China and India),,1796,0.0
+Asia (excl. China and India),,1797,0.0
+Asia (excl. China and India),,1798,0.0
+Asia (excl. China and India),,1799,0.0
+Asia (excl. China and India),,1800,0.0
+Asia (excl. China and India),,1801,0.0
+Asia (excl. China and India),,1802,0.0
+Asia (excl. China and India),,1803,0.0
+Asia (excl. China and India),,1804,0.0
+Asia (excl. China and India),,1805,0.0
+Asia (excl. China and India),,1806,0.0
+Asia (excl. China and India),,1807,0.0
+Asia (excl. China and India),,1808,0.0
+Asia (excl. China and India),,1809,0.0
+Asia (excl. China and India),,1810,0.0
+Asia (excl. China and India),,1811,0.0
+Asia (excl. China and India),,1812,0.0
+Asia (excl. China and India),,1813,0.0
+Asia (excl. China and India),,1814,0.0
+Asia (excl. China and India),,1815,0.0
+Asia (excl. China and India),,1816,0.0
+Asia (excl. China and India),,1817,0.0
+Asia (excl. China and India),,1818,0.0
+Asia (excl. China and India),,1819,0.0
+Asia (excl. China and India),,1820,0.0
+Asia (excl. China and India),,1821,0.0
+Asia (excl. China and India),,1822,0.0
+Asia (excl. China and India),,1823,0.0
+Asia (excl. China and India),,1824,0.0
+Asia (excl. China and India),,1825,0.0
+Asia (excl. China and India),,1826,0.0
+Asia (excl. China and India),,1827,0.0
+Asia (excl. China and India),,1828,0.0
+Asia (excl. China and India),,1829,0.0
+Asia (excl. China and India),,1830,0.002
+Asia (excl. China and India),,1831,0.003
+Asia (excl. China and India),,1832,0.002
+Asia (excl. China and India),,1833,0.002
+Asia (excl. China and India),,1834,0.0
+Asia (excl. China and India),,1835,0.0
+Asia (excl. China and India),,1836,0.0
+Asia (excl. China and India),,1837,0.0
+Asia (excl. China and India),,1838,0.0
+Asia (excl. China and India),,1839,0.0
+Asia (excl. China and India),,1840,0.0
+Asia (excl. China and India),,1841,0.0
+Asia (excl. China and India),,1842,0.0
+Asia (excl. China and India),,1843,0.0
+Asia (excl. China and India),,1844,0.0
+Asia (excl. China and India),,1845,0.0
+Asia (excl. China and India),,1846,0.0
+Asia (excl. China and India),,1847,0.0
+Asia (excl. China and India),,1848,0.0
+Asia (excl. China and India),,1849,0.0
+Asia (excl. China and India),,1850,0.015
+Asia (excl. China and India),,1851,0.0
+Asia (excl. China and India),,1852,0.0
+Asia (excl. China and India),,1853,0.0
+Asia (excl. China and India),,1854,0.0
+Asia (excl. China and India),,1855,0.044
+Asia (excl. China and India),,1856,0.0
+Asia (excl. China and India),,1857,0.0
+Asia (excl. China and India),,1858,0.062
+Asia (excl. China and India),,1859,0.066
+Asia (excl. China and India),,1860,0.087
+Asia (excl. China and India),,1861,0.111
+Asia (excl. China and India),,1862,0.1
+Asia (excl. China and India),,1863,0.105
+Asia (excl. China and India),,1864,0.118
+Asia (excl. China and India),,1865,0.263
+Asia (excl. China and India),,1866,0.564
+Asia (excl. China and India),,1867,0.635
+Asia (excl. China and India),,1868,0.526
+Asia (excl. China and India),,1869,0.746
+Asia (excl. China and India),,1870,0.676
+Asia (excl. China and India),,1871,0.898
+Asia (excl. China and India),,1872,0.971
+Asia (excl. China and India),,1873,0.929
+Asia (excl. China and India),,1874,1.632
+Asia (excl. China and India),,1875,2.7
+Asia (excl. China and India),,1876,2.806
+Asia (excl. China and India),,1877,2.888
+Asia (excl. China and India),,1878,3.688
+Asia (excl. China and India),,1879,3.984
+Asia (excl. China and India),,1880,4.298
+Asia (excl. China and India),,1881,4.505
+Asia (excl. China and India),,1882,4.676
+Asia (excl. China and India),,1883,5.159
+Asia (excl. China and India),,1884,5.454
+Asia (excl. China and India),,1885,6.071
+Asia (excl. China and India),,1886,6.334
+Asia (excl. China and India),,1887,7.463
+Asia (excl. China and India),,1888,8.3
+Asia (excl. China and India),,1889,9.752
+Asia (excl. China and India),,1890,10.645
+Asia (excl. China and India),,1891,12.421
+Asia (excl. China and India),,1892,13.017
+Asia (excl. China and India),,1893,14.858
+Asia (excl. China and India),,1894,17.119
+Asia (excl. China and India),,1895,19.256
+Asia (excl. China and India),,1896,20.408
+Asia (excl. China and India),,1897,22.217
+Asia (excl. China and India),,1898,27.345
+Asia (excl. China and India),,1899,28.572
+Asia (excl. China and India),,1900,32.048
+Asia (excl. China and India),,1901,37.157
+Asia (excl. China and India),,1902,37.865
+Asia (excl. China and India),,1903,40.234
+Asia (excl. China and India),,1904,45.318
+Asia (excl. China and India),,1905,46.047
+Asia (excl. China and India),,1906,50.703
+Asia (excl. China and India),,1907,55.498
+Asia (excl. China and India),,1908,58.308
+Asia (excl. China and India),,1909,60.776
+Asia (excl. China and India),,1910,62.246
+Asia (excl. China and India),,1911,68.309
+Asia (excl. China and India),,1912,74.181
+Asia (excl. China and India),,1913,81.598
+Asia (excl. China and India),,1914,84.414
+Asia (excl. China and India),,1915,78.057
+Asia (excl. China and India),,1916,86.21
+Asia (excl. China and India),,1917,94.913
+Asia (excl. China and India),,1918,92.755
+Asia (excl. China and India),,1919,102.575
+Asia (excl. China and India),,1920,100.272
+Asia (excl. China and India),,1921,95.517
+Asia (excl. China and India),,1922,104.389
+Asia (excl. China and India),,1923,114.705
+Asia (excl. China and India),,1924,123.788
+Asia (excl. China and India),,1925,129.387
+Asia (excl. China and India),,1926,135.185
+Asia (excl. China and India),,1927,149.073
+Asia (excl. China and India),,1928,160.7
+Asia (excl. China and India),,1929,168.323
+Asia (excl. China and India),,1930,165.918
+Asia (excl. China and India),,1931,157.865
+Asia (excl. China and India),,1932,162.302
+Asia (excl. China and India),,1933,183.411
+Asia (excl. China and India),,1934,207.525
+Asia (excl. China and India),,1935,223.122
+Asia (excl. China and India),,1936,247.866
+Asia (excl. China and India),,1937,269.326
+Asia (excl. China and India),,1938,282.843
+Asia (excl. China and India),,1939,294.965
+Asia (excl. China and India),,1940,328.53
+Asia (excl. China and India),,1941,310.677
+Asia (excl. China and India),,1942,266.173
+Asia (excl. China and India),,1943,284.384
+Asia (excl. China and India),,1944,289.742
+Asia (excl. China and India),,1945,219.205
+Asia (excl. China and India),,1946,227.144
+Asia (excl. China and India),,1947,285.204
+Asia (excl. China and India),,1948,292.191
+Asia (excl. China and India),,1949,264.166
+Asia (excl. China and India),,1950,260.432
+Asia (excl. China and India),,1951,288.518
+Asia (excl. China and India),,1952,308.892
+Asia (excl. China and India),,1953,337.508
+Asia (excl. China and India),,1954,358.483
+Asia (excl. China and India),,1955,405.167
+Asia (excl. China and India),,1956,451.483
+Asia (excl. China and India),,1957,495.792
+Asia (excl. China and India),,1958,517.182
+Asia (excl. China and India),,1959,551.725
+Asia (excl. China and India),,1960,627.992
+Asia (excl. China and India),,1961,701.929
+Asia (excl. China and India),,1962,749.835
+Asia (excl. China and India),,1963,823.305
+Asia (excl. China and India),,1964,906.645
+Asia (excl. China and India),,1965,995.191
+Asia (excl. China and India),,1966,1087.498
+Asia (excl. China and India),,1967,1204.553
+Asia (excl. China and India),,1968,1345.639
+Asia (excl. China and India),,1969,1503.501
+Asia (excl. China and India),,1970,1707.218
+Asia (excl. China and India),,1971,1851.327
+Asia (excl. China and India),,1972,1956.528
+Asia (excl. China and India),,1973,2133.24
+Asia (excl. China and India),,1974,2166.293
+Asia (excl. China and India),,1975,2159.52
+Asia (excl. China and India),,1976,2331.864
+Asia (excl. China and India),,1977,2447.853
+Asia (excl. China and India),,1978,2474.192
+Asia (excl. China and India),,1979,2602.422
+Asia (excl. China and India),,1980,2612.604
+Asia (excl. China and India),,1981,2580.987
+Asia (excl. China and India),,1982,2584.698
+Asia (excl. China and India),,1983,2651.461
+Asia (excl. China and India),,1984,2765.402
+Asia (excl. China and India),,1985,2865.908
+Asia (excl. China and India),,1986,2956.522
+Asia (excl. China and India),,1987,3010.198
+Asia (excl. China and India),,1988,3265.882
+Asia (excl. China and India),,1989,3394.168
+Asia (excl. China and India),,1990,3520.964
+Asia (excl. China and India),,1991,4138.964
+Asia (excl. China and India),,1992,3819.995
+Asia (excl. China and India),,1993,3941.966
+Asia (excl. China and India),,1994,4077.223
+Asia (excl. China and India),,1995,4144.434
+Asia (excl. China and India),,1996,4273.985
+Asia (excl. China and India),,1997,4351.117
+Asia (excl. China and India),,1998,4242.858
+Asia (excl. China and India),,1999,4454.234
+Asia (excl. China and India),,2000,4700.113
+Asia (excl. China and India),,2001,4792.781
+Asia (excl. China and India),,2002,4903.06
+Asia (excl. China and India),,2003,5132.562
+Asia (excl. China and India),,2004,5342.785
+Asia (excl. China and India),,2005,5470.304
+Asia (excl. China and India),,2006,5611.112
+Asia (excl. China and India),,2007,5749.984
+Asia (excl. China and India),,2008,5860.288
+Asia (excl. China and India),,2009,5882.75
+Asia (excl. China and India),,2010,6247.89
+Asia (excl. China and India),,2011,6482.97
+Asia (excl. China and India),,2012,6744.184
+Asia (excl. China and India),,2013,6747.768
+Asia (excl. China and India),,2014,6837.358
+Asia (excl. China and India),,2015,6980.549
+Asia (excl. China and India),,2016,7101.688
+Asia (excl. China and India),,2017,7350.104
+Asia (excl. China and India),,2018,7424.333
+Asia (excl. China and India),,2019,7601.896
+Asia (excl. China and India),,2020,7372.697
+Asia (excl. China and India),,2021,7560.324
+Asia (excl. China and India),,2022,7694.873
+Asia (excl. China and India),,2023,7762.328
+Asia (excl. China and India),,2024,7909.973
+Central America (GCP),,1850,0.0
+Central America (GCP),,1851,0.0
+Central America (GCP),,1852,0.0
+Central America (GCP),,1853,0.0
+Central America (GCP),,1854,0.0
+Central America (GCP),,1855,0.0
+Central America (GCP),,1856,0.385
+Central America (GCP),,1857,0.361
+Central America (GCP),,1858,0.338
+Central America (GCP),,1859,0.317
+Central America (GCP),,1860,0.298
+Central America (GCP),,1861,0.442
+Central America (GCP),,1862,0.592
+Central America (GCP),,1863,0.371
+Central America (GCP),,1864,0.611
+Central America (GCP),,1865,0.589
+Central America (GCP),,1866,0.592
+Central America (GCP),,1867,0.634
+Central America (GCP),,1868,0.6
+Central America (GCP),,1869,0.685
+Central America (GCP),,1870,0.639
+Central America (GCP),,1871,0.611
+Central America (GCP),,1872,0.622
+Central America (GCP),,1873,0.644
+Central America (GCP),,1874,0.653
+Central America (GCP),,1875,0.653
+Central America (GCP),,1876,0.562
+Central America (GCP),,1877,0.594
+Central America (GCP),,1878,0.695
+Central America (GCP),,1879,0.704
+Central America (GCP),,1880,0.598
+Central America (GCP),,1881,0.612
+Central America (GCP),,1882,0.617
+Central America (GCP),,1883,0.602
+Central America (GCP),,1884,0.595
+Central America (GCP),,1885,0.618
+Central America (GCP),,1886,0.585
+Central America (GCP),,1887,0.65
+Central America (GCP),,1888,0.727
+Central America (GCP),,1889,0.819
+Central America (GCP),,1890,0.824
+Central America (GCP),,1891,0.983
+Central America (GCP),,1892,1.094
+Central America (GCP),,1893,1.024
+Central America (GCP),,1894,1.128
+Central America (GCP),,1895,1.075
+Central America (GCP),,1896,0.89
+Central America (GCP),,1897,0.837
+Central America (GCP),,1898,0.903
+Central America (GCP),,1899,1.007
+Central America (GCP),,1900,1.01
+Central America (GCP),,1901,1.089
+Central America (GCP),,1902,1.061
+Central America (GCP),,1903,1.303
+Central America (GCP),,1904,1.438
+Central America (GCP),,1905,1.739
+Central America (GCP),,1906,2.037
+Central America (GCP),,1907,2.094
+Central America (GCP),,1908,2.074
+Central America (GCP),,1909,2.171
+Central America (GCP),,1910,2.667
+Central America (GCP),,1911,3.188
+Central America (GCP),,1912,3.728
+Central America (GCP),,1913,3.776
+Central America (GCP),,1914,3.553
+Central America (GCP),,1915,3.707
+Central America (GCP),,1916,4.278
+Central America (GCP),,1917,4.677
+Central America (GCP),,1918,4.792
+Central America (GCP),,1919,3.475
+Central America (GCP),,1920,4.642
+Central America (GCP),,1921,2.626
+Central America (GCP),,1922,2.415
+Central America (GCP),,1923,3.073
+Central America (GCP),,1924,3.289
+Central America (GCP),,1925,3.701
+Central America (GCP),,1926,3.667
+Central America (GCP),,1927,3.809
+Central America (GCP),,1928,4.897
+Central America (GCP),,1929,4.536
+Central America (GCP),,1930,5.01
+Central America (GCP),,1931,4.065
+Central America (GCP),,1932,4.069
+Central America (GCP),,1933,4.853
+Central America (GCP),,1934,5.613
+Central America (GCP),,1935,5.907
+Central America (GCP),,1936,6.681
+Central America (GCP),,1937,8.251
+Central America (GCP),,1938,9.231
+Central America (GCP),,1939,10.166
+Central America (GCP),,1940,11.434
+Central America (GCP),,1941,10.479
+Central America (GCP),,1942,11.156
+Central America (GCP),,1943,11.044
+Central America (GCP),,1944,11.324
+Central America (GCP),,1945,11.605
+Central America (GCP),,1946,11.444
+Central America (GCP),,1947,12.606
+Central America (GCP),,1948,13.154
+Central America (GCP),,1949,14.175
+Central America (GCP),,1950,18.668
+Central America (GCP),,1951,24.46
+Central America (GCP),,1952,20.384
+Central America (GCP),,1953,21.589
+Central America (GCP),,1954,29.452
+Central America (GCP),,1955,28.414
+Central America (GCP),,1956,32.025
+Central America (GCP),,1957,35.249
+Central America (GCP),,1958,39.261
+Central America (GCP),,1959,40.122
+Central America (GCP),,1960,35.898
+Central America (GCP),,1961,37.988
+Central America (GCP),,1962,44.554
+Central America (GCP),,1963,38.589
+Central America (GCP),,1964,45.139
+Central America (GCP),,1965,44.798
+Central America (GCP),,1966,44.665
+Central America (GCP),,1967,49.487
+Central America (GCP),,1968,50.967
+Central America (GCP),,1969,56.737
+Central America (GCP),,1970,67.237
+Central America (GCP),,1971,71.47
+Central America (GCP),,1972,75.205
+Central America (GCP),,1973,85.766
+Central America (GCP),,1974,84.955
+Central America (GCP),,1975,88.3
+Central America (GCP),,1976,103.729
+Central America (GCP),,1977,100.468
+Central America (GCP),,1978,97.629
+Central America (GCP),,1979,101.247
+Central America (GCP),,1980,100.348
+Central America (GCP),,1981,94.017
+Central America (GCP),,1982,96.131
+Central America (GCP),,1983,86.375
+Central America (GCP),,1984,95.24
+Central America (GCP),,1985,101.227
+Central America (GCP),,1986,86.272
+Central America (GCP),,1987,91.24
+Central America (GCP),,1988,91.209
+Central America (GCP),,1989,96.704
+Central America (GCP),,1990,92.031
+Central America (GCP),,1991,90.964
+Central America (GCP),,1992,89.977
+Central America (GCP),,1993,90.35
+Central America (GCP),,1994,93.919
+Central America (GCP),,1995,100.779
+Central America (GCP),,1996,106.297
+Central America (GCP),,1997,112.781
+Central America (GCP),,1998,113.164
+Central America (GCP),,1999,118.502
+Central America (GCP),,2000,129.545
+Central America (GCP),,2001,134.743
+Central America (GCP),,2002,139.442
+Central America (GCP),,2003,146.293
+Central America (GCP),,2004,142.732
+Central America (GCP),,2005,151.626
+Central America (GCP),,2006,162.461
+Central America (GCP),,2007,166.966
+Central America (GCP),,2008,166.0
+Central America (GCP),,2009,165.047
+Central America (GCP),,2010,171.17
+Central America (GCP),,2011,171.403
+Central America (GCP),,2012,170.354
+Central America (GCP),,2013,170.805
+Central America (GCP),,2014,173.789
+Central America (GCP),,2015,181.22
+Central America (GCP),,2016,175.069
+Central America (GCP),,2017,169.963
+Central America (GCP),,2018,170.968
+Central America (GCP),,2019,179.63
+Central America (GCP),,2020,154.65
+Central America (GCP),,2021,171.831
+Central America (GCP),,2022,178.535
+Central America (GCP),,2023,181.89
+Central America (GCP),,2024,185.166
+Europe,,1750,9.306
+Europe,,1751,9.407
+Europe,,1752,9.505
+Europe,,1753,9.61
+Europe,,1754,9.734
+Europe,,1755,9.793
+Europe,,1756,9.91
+Europe,,1757,10.094
+Europe,,1758,10.216
+Europe,,1759,10.339
+Europe,,1760,10.514
+Europe,,1761,10.748
+Europe,,1762,10.952
+Europe,,1763,11.192
+Europe,,1764,11.397
+Europe,,1765,11.643
+Europe,,1766,11.876
+Europe,,1767,12.153
+Europe,,1768,12.467
+Europe,,1769,12.78
+Europe,,1770,13.097
+Europe,,1771,13.369
+Europe,,1772,13.624
+Europe,,1773,13.808
+Europe,,1774,14.012
+Europe,,1775,14.339
+Europe,,1776,14.654
+Europe,,1777,14.96
+Europe,,1778,15.243
+Europe,,1779,15.535
+Europe,,1780,15.879
+Europe,,1781,16.234
+Europe,,1782,16.581
+Europe,,1783,17.063
+Europe,,1784,17.471
+Europe,,1785,17.961
+Europe,,1786,18.444
+Europe,,1787,18.855
+Europe,,1788,19.283
+Europe,,1789,19.86
+Europe,,1790,20.394
+Europe,,1791,20.928
+Europe,,1792,21.926
+Europe,,1793,22.294
+Europe,,1794,22.516
+Europe,,1795,22.312
+Europe,,1796,22.118
+Europe,,1797,22.086
+Europe,,1798,23.102
+Europe,,1799,27.482
+Europe,,1800,32.542
+Europe,,1801,31.715
+Europe,,1802,40.017
+Europe,,1803,29.238
+Europe,,1804,31.432
+Europe,,1805,30.907
+Europe,,1806,32.367
+Europe,,1807,35.819
+Europe,,1808,35.101
+Europe,,1809,35.926
+Europe,,1810,39.07
+Europe,,1811,39.724
+Europe,,1812,40.325
+Europe,,1813,40.679
+Europe,,1814,41.659
+Europe,,1815,42.98
+Europe,,1816,44.827
+Europe,,1817,48.552
+Europe,,1818,50.606
+Europe,,1819,50.161
+Europe,,1820,49.932
+Europe,,1821,51.224
+Europe,,1822,53.149
+Europe,,1823,55.448
+Europe,,1824,56.56
+Europe,,1825,59.588
+Europe,,1826,60.057
+Europe,,1827,64.282
+Europe,,1828,65.08
+Europe,,1829,64.502
+Europe,,1830,86.888
+Europe,,1831,80.979
+Europe,,1832,79.052
+Europe,,1833,79.704
+Europe,,1834,85.364
+Europe,,1835,93.06
+Europe,,1836,102.141
+Europe,,1837,100.865
+Europe,,1838,100.784
+Europe,,1839,104.098
+Europe,,1840,112.884
+Europe,,1841,115.893
+Europe,,1842,122.405
+Europe,,1843,124.561
+Europe,,1844,132.596
+Europe,,1845,143.794
+Europe,,1846,144.859
+Europe,,1847,155.574
+Europe,,1848,156.683
+Europe,,1849,166.587
+Europe,,1850,176.775
+Europe,,1851,173.859
+Europe,,1852,180.433
+Europe,,1853,186.703
+Europe,,1854,221.566
+Europe,,1855,221.538
+Europe,,1856,236.781
+Europe,,1857,238.33
+Europe,,1858,241.522
+Europe,,1859,254.665
+Europe,,1860,281.813
+Europe,,1861,300.48
+Europe,,1862,305.041
+Europe,,1863,321.231
+Europe,,1864,346.629
+Europe,,1865,371.216
+Europe,,1866,383.595
+Europe,,1867,401.826
+Europe,,1868,406.196
+Europe,,1869,425.362
+Europe,,1870,431.416
+Europe,,1871,459.751
+Europe,,1872,496.541
+Europe,,1873,522.507
+Europe,,1874,484.555
+Europe,,1875,534.648
+Europe,,1876,547.139
+Europe,,1877,545.947
+Europe,,1878,551.763
+Europe,,1879,569.586
+Europe,,1880,640.742
+Europe,,1881,657.774
+Europe,,1882,680.199
+Europe,,1883,718.767
+Europe,,1884,714.145
+Europe,,1885,716.66
+Europe,,1886,715.987
+Europe,,1887,743.287
+Europe,,1888,787.507
+Europe,,1889,824.559
+Europe,,1890,862.574
+Europe,,1891,893.012
+Europe,,1892,879.322
+Europe,,1893,854.88
+Europe,,1894,927.918
+Europe,,1895,952.628
+Europe,,1896,996.165
+Europe,,1897,1045.666
+Europe,,1898,1079.168
+Europe,,1899,1149.518
+Europe,,1900,1205.761
+Europe,,1901,1195.233
+Europe,,1902,1196.093
+Europe,,1903,1245.174
+Europe,,1904,1268.443
+Europe,,1905,1305.698
+Europe,,1906,1347.435
+Europe,,1907,1492.85
+Europe,,1908,1517.264
+Europe,,1909,1518.877
+Europe,,1910,1538.655
+Europe,,1911,1574.154
+Europe,,1912,1632.547
+Europe,,1913,1767.425
+Europe,,1914,1573.981
+Europe,,1915,1492.878
+Europe,,1916,1561.199
+Europe,,1917,1533.436
+Europe,,1918,1394.121
+Europe,,1919,1183.819
+Europe,,1920,1383.445
+Europe,,1921,1265.554
+Europe,,1922,1409.32
+Europe,,1923,1346.924
+Europe,,1924,1553.839
+Europe,,1925,1538.195
+Europe,,1926,1323.21
+Europe,,1927,1684.911
+Europe,,1928,1693.741
+Europe,,1929,1837.968
+Europe,,1930,1741.165
+Europe,,1931,1625.609
+Europe,,1932,1511.838
+Europe,,1933,1557.659
+Europe,,1934,1704.667
+Europe,,1935,1789.411
+Europe,,1936,1899.83
+Europe,,1937,2060.767
+Europe,,1938,2070.434
+Europe,,1939,2116.642
+Europe,,1940,2253.947
+Europe,,1941,2174.063
+Europe,,1942,2021.26
+Europe,,1943,2039.171
+Europe,,1944,1937.933
+Europe,,1945,1269.833
+Europe,,1946,1686.021
+Europe,,1947,1932.562
+Europe,,1948,2085.038
+Europe,,1949,2266.352
+Europe,,1950,2381.798
+Europe,,1951,2628.854
+Europe,,1952,2712.866
+Europe,,1953,2790.578
+Europe,,1954,2969.35
+Europe,,1955,3233.244
+Europe,,1956,3445.159
+Europe,,1957,3593.346
+Europe,,1958,3632.002
+Europe,,1959,3713.71
+Europe,,1960,3966.935
+Europe,,1961,4112.14
+Europe,,1962,4339.414
+Europe,,1963,4612.308
+Europe,,1964,4842.246
+Europe,,1965,4984.466
+Europe,,1966,5156.101
+Europe,,1967,5270.223
+Europe,,1968,5515.944
+Europe,,1969,5816.407
+Europe,,1970,6098.689
+Europe,,1971,6327.589
+Europe,,1972,6556.553
+Europe,,1973,6849.511
+Europe,,1974,6867.69
+Europe,,1975,6907.078
+Europe,,1976,7281.985
+Europe,,1977,7338.524
+Europe,,1978,7570.691
+Europe,,1979,7750.151
+Europe,,1980,7753.727
+Europe,,1981,7471.875
+Europe,,1982,7411.572
+Europe,,1983,7417.897
+Europe,,1984,7468.785
+Europe,,1985,7792.995
+Europe,,1986,7805.502
+Europe,,1987,7826.896
+Europe,,1988,7865.633
+Europe,,1989,7831.148
+Europe,,1990,8038.895
+Europe,,1991,7739.83
+Europe,,1992,7094.296
+Europe,,1993,6806.441
+Europe,,1994,6445.869
+Europe,,1995,6422.432
+Europe,,1996,6472.014
+Europe,,1997,6266.619
+Europe,,1998,6240.623
+Europe,,1999,6156.683
+Europe,,2000,6155.514
+Europe,,2001,6282.925
+Europe,,2002,6249.447
+Europe,,2003,6391.066
+Europe,,2004,6419.376
+Europe,,2005,6427.949
+Europe,,2006,6529.226
+Europe,,2007,6473.231
+Europe,,2008,6407.231
+Europe,,2009,5893.126
+Europe,,2010,6117.359
+Europe,,2011,6044.341
+Europe,,2012,5998.599
+Europe,,2013,5840.099
+Europe,,2014,5609.139
+Europe,,2015,5613.446
+Europe,,2016,5598.047
+Europe,,2017,5632.42
+Europe,,2018,5613.848
+Europe,,2019,5437.201
+Europe,,2020,5025.675
+Europe,,2021,5265.446
+Europe,,2022,5095.635
+Europe,,2023,4887.137
+Europe,,2024,4880.514
+Europe (GCP),,1850,176.775
+Europe (GCP),,1851,173.859
+Europe (GCP),,1852,180.433
+Europe (GCP),,1853,186.703
+Europe (GCP),,1854,221.566
+Europe (GCP),,1855,221.538
+Europe (GCP),,1856,236.782
+Europe (GCP),,1857,238.33
+Europe (GCP),,1858,241.522
+Europe (GCP),,1859,254.665
+Europe (GCP),,1860,281.813
+Europe (GCP),,1861,300.48
+Europe (GCP),,1862,305.041
+Europe (GCP),,1863,321.231
+Europe (GCP),,1864,346.629
+Europe (GCP),,1865,371.216
+Europe (GCP),,1866,383.595
+Europe (GCP),,1867,401.826
+Europe (GCP),,1868,406.196
+Europe (GCP),,1869,425.362
+Europe (GCP),,1870,431.416
+Europe (GCP),,1871,459.751
+Europe (GCP),,1872,496.541
+Europe (GCP),,1873,522.507
+Europe (GCP),,1874,484.555
+Europe (GCP),,1875,534.648
+Europe (GCP),,1876,547.139
+Europe (GCP),,1877,545.947
+Europe (GCP),,1878,551.763
+Europe (GCP),,1879,569.586
+Europe (GCP),,1880,640.741
+Europe (GCP),,1881,657.774
+Europe (GCP),,1882,680.199
+Europe (GCP),,1883,718.767
+Europe (GCP),,1884,714.145
+Europe (GCP),,1885,716.66
+Europe (GCP),,1886,715.987
+Europe (GCP),,1887,743.287
+Europe (GCP),,1888,787.507
+Europe (GCP),,1889,824.559
+Europe (GCP),,1890,862.574
+Europe (GCP),,1891,893.012
+Europe (GCP),,1892,879.322
+Europe (GCP),,1893,854.88
+Europe (GCP),,1894,927.918
+Europe (GCP),,1895,952.628
+Europe (GCP),,1896,996.165
+Europe (GCP),,1897,1045.666
+Europe (GCP),,1898,1079.168
+Europe (GCP),,1899,1149.518
+Europe (GCP),,1900,1205.761
+Europe (GCP),,1901,1195.233
+Europe (GCP),,1902,1196.093
+Europe (GCP),,1903,1245.174
+Europe (GCP),,1904,1268.443
+Europe (GCP),,1905,1305.698
+Europe (GCP),,1906,1347.435
+Europe (GCP),,1907,1492.85
+Europe (GCP),,1908,1517.264
+Europe (GCP),,1909,1518.877
+Europe (GCP),,1910,1538.655
+Europe (GCP),,1911,1574.154
+Europe (GCP),,1912,1632.547
+Europe (GCP),,1913,1767.425
+Europe (GCP),,1914,1573.981
+Europe (GCP),,1915,1492.878
+Europe (GCP),,1916,1561.198
+Europe (GCP),,1917,1533.436
+Europe (GCP),,1918,1394.121
+Europe (GCP),,1919,1183.819
+Europe (GCP),,1920,1383.445
+Europe (GCP),,1921,1265.555
+Europe (GCP),,1922,1409.32
+Europe (GCP),,1923,1346.924
+Europe (GCP),,1924,1553.839
+Europe (GCP),,1925,1538.195
+Europe (GCP),,1926,1323.21
+Europe (GCP),,1927,1684.911
+Europe (GCP),,1928,1693.741
+Europe (GCP),,1929,1837.968
+Europe (GCP),,1930,1741.165
+Europe (GCP),,1931,1625.609
+Europe (GCP),,1932,1511.838
+Europe (GCP),,1933,1557.659
+Europe (GCP),,1934,1704.667
+Europe (GCP),,1935,1789.411
+Europe (GCP),,1936,1899.83
+Europe (GCP),,1937,2060.767
+Europe (GCP),,1938,2070.434
+Europe (GCP),,1939,2116.642
+Europe (GCP),,1940,2253.947
+Europe (GCP),,1941,2174.063
+Europe (GCP),,1942,2021.26
+Europe (GCP),,1943,2039.171
+Europe (GCP),,1944,1937.933
+Europe (GCP),,1945,1269.833
+Europe (GCP),,1946,1686.021
+Europe (GCP),,1947,1932.562
+Europe (GCP),,1948,2085.038
+Europe (GCP),,1949,2266.352
+Europe (GCP),,1950,2381.798
+Europe (GCP),,1951,2628.854
+Europe (GCP),,1952,2712.866
+Europe (GCP),,1953,2790.577
+Europe (GCP),,1954,2969.35
+Europe (GCP),,1955,3233.244
+Europe (GCP),,1956,3445.159
+Europe (GCP),,1957,3593.346
+Europe (GCP),,1958,3632.002
+Europe (GCP),,1959,3713.71
+Europe (GCP),,1960,3966.934
+Europe (GCP),,1961,4112.14
+Europe (GCP),,1962,4339.414
+Europe (GCP),,1963,4612.308
+Europe (GCP),,1964,4842.247
+Europe (GCP),,1965,4984.466
+Europe (GCP),,1966,5156.101
+Europe (GCP),,1967,5270.223
+Europe (GCP),,1968,5515.944
+Europe (GCP),,1969,5816.407
+Europe (GCP),,1970,6098.689
+Europe (GCP),,1971,6327.588
+Europe (GCP),,1972,6556.553
+Europe (GCP),,1973,6849.511
+Europe (GCP),,1974,6867.69
+Europe (GCP),,1975,6907.078
+Europe (GCP),,1976,7281.985
+Europe (GCP),,1977,7338.524
+Europe (GCP),,1978,7570.69
+Europe (GCP),,1979,7750.151
+Europe (GCP),,1980,7753.727
+Europe (GCP),,1981,7471.875
+Europe (GCP),,1982,7411.572
+Europe (GCP),,1983,7417.897
+Europe (GCP),,1984,7468.784
+Europe (GCP),,1985,7792.995
+Europe (GCP),,1986,7805.502
+Europe (GCP),,1987,7826.896
+Europe (GCP),,1988,7865.633
+Europe (GCP),,1989,7831.148
+Europe (GCP),,1990,8038.895
+Europe (GCP),,1991,7739.83
+Europe (GCP),,1992,7094.296
+Europe (GCP),,1993,6806.441
+Europe (GCP),,1994,6445.869
+Europe (GCP),,1995,6422.432
+Europe (GCP),,1996,6472.014
+Europe (GCP),,1997,6266.619
+Europe (GCP),,1998,6240.623
+Europe (GCP),,1999,6156.683
+Europe (GCP),,2000,6155.515
+Europe (GCP),,2001,6282.925
+Europe (GCP),,2002,6249.447
+Europe (GCP),,2003,6391.066
+Europe (GCP),,2004,6419.376
+Europe (GCP),,2005,6427.949
+Europe (GCP),,2006,6529.226
+Europe (GCP),,2007,6473.231
+Europe (GCP),,2008,6407.231
+Europe (GCP),,2009,5893.126
+Europe (GCP),,2010,6117.359
+Europe (GCP),,2011,6044.341
+Europe (GCP),,2012,5998.598
+Europe (GCP),,2013,5840.099
+Europe (GCP),,2014,5609.14
+Europe (GCP),,2015,5613.446
+Europe (GCP),,2016,5598.047
+Europe (GCP),,2017,5632.42
+Europe (GCP),,2018,5613.848
+Europe (GCP),,2019,5437.201
+Europe (GCP),,2020,5025.676
+Europe (GCP),,2021,5265.446
+Europe (GCP),,2022,5095.634
+Europe (GCP),,2023,4887.137
+Europe (GCP),,2024,4880.514
+Europe (excl. EU-27),,1750,9.306
+Europe (excl. EU-27),,1751,9.407
+Europe (excl. EU-27),,1752,9.505
+Europe (excl. EU-27),,1753,9.61
+Europe (excl. EU-27),,1754,9.734
+Europe (excl. EU-27),,1755,9.793
+Europe (excl. EU-27),,1756,9.91
+Europe (excl. EU-27),,1757,10.094
+Europe (excl. EU-27),,1758,10.216
+Europe (excl. EU-27),,1759,10.339
+Europe (excl. EU-27),,1760,10.514
+Europe (excl. EU-27),,1761,10.748
+Europe (excl. EU-27),,1762,10.952
+Europe (excl. EU-27),,1763,11.192
+Europe (excl. EU-27),,1764,11.397
+Europe (excl. EU-27),,1765,11.643
+Europe (excl. EU-27),,1766,11.876
+Europe (excl. EU-27),,1767,12.153
+Europe (excl. EU-27),,1768,12.467
+Europe (excl. EU-27),,1769,12.78
+Europe (excl. EU-27),,1770,13.097
+Europe (excl. EU-27),,1771,13.369
+Europe (excl. EU-27),,1772,13.624
+Europe (excl. EU-27),,1773,13.808
+Europe (excl. EU-27),,1774,14.012
+Europe (excl. EU-27),,1775,14.339
+Europe (excl. EU-27),,1776,14.654
+Europe (excl. EU-27),,1777,14.96
+Europe (excl. EU-27),,1778,15.243
+Europe (excl. EU-27),,1779,15.535
+Europe (excl. EU-27),,1780,15.879
+Europe (excl. EU-27),,1781,16.234
+Europe (excl. EU-27),,1782,16.581
+Europe (excl. EU-27),,1783,17.063
+Europe (excl. EU-27),,1784,17.471
+Europe (excl. EU-27),,1785,17.961
+Europe (excl. EU-27),,1786,18.444
+Europe (excl. EU-27),,1787,18.855
+Europe (excl. EU-27),,1788,19.283
+Europe (excl. EU-27),,1789,19.86
+Europe (excl. EU-27),,1790,20.394
+Europe (excl. EU-27),,1791,20.928
+Europe (excl. EU-27),,1792,21.457
+Europe (excl. EU-27),,1793,21.814
+Europe (excl. EU-27),,1794,22.073
+Europe (excl. EU-27),,1795,21.865
+Europe (excl. EU-27),,1796,21.583
+Europe (excl. EU-27),,1797,21.537
+Europe (excl. EU-27),,1798,22.527
+Europe (excl. EU-27),,1799,26.855
+Europe (excl. EU-27),,1800,31.34
+Europe (excl. EU-27),,1801,30.737
+Europe (excl. EU-27),,1802,30.377
+Europe (excl. EU-27),,1803,28.241
+Europe (excl. EU-27),,1804,27.79
+Europe (excl. EU-27),,1805,29.295
+Europe (excl. EU-27),,1806,30.909
+Europe (excl. EU-27),,1807,32.584
+Europe (excl. EU-27),,1808,33.702
+Europe (excl. EU-27),,1809,34.523
+Europe (excl. EU-27),,1810,35.402
+Europe (excl. EU-27),,1811,36.155
+Europe (excl. EU-27),,1812,36.742
+Europe (excl. EU-27),,1813,37.36
+Europe (excl. EU-27),,1814,38.182
+Europe (excl. EU-27),,1815,39.019
+Europe (excl. EU-27),,1816,39.265
+Europe (excl. EU-27),,1817,41.766
+Europe (excl. EU-27),,1818,43.769
+Europe (excl. EU-27),,1819,43.316
+Europe (excl. EU-27),,1820,42.567
+Europe (excl. EU-27),,1821,43.493
+Europe (excl. EU-27),,1822,45.074
+Europe (excl. EU-27),,1823,46.676
+Europe (excl. EU-27),,1824,48.137
+Europe (excl. EU-27),,1825,49.564
+Europe (excl. EU-27),,1826,50.102
+Europe (excl. EU-27),,1827,52.048
+Europe (excl. EU-27),,1828,52.63
+Europe (excl. EU-27),,1829,53.254
+Europe (excl. EU-27),,1830,67.747
+Europe (excl. EU-27),,1831,64.508
+Europe (excl. EU-27),,1832,62.571
+Europe (excl. EU-27),,1833,61.94
+Europe (excl. EU-27),,1834,65.802
+Europe (excl. EU-27),,1835,72.212
+Europe (excl. EU-27),,1836,78.563
+Europe (excl. EU-27),,1837,75.279
+Europe (excl. EU-27),,1838,73.637
+Europe (excl. EU-27),,1839,75.826
+Europe (excl. EU-27),,1840,80.835
+Europe (excl. EU-27),,1841,81.389
+Europe (excl. EU-27),,1842,85.266
+Europe (excl. EU-27),,1843,88.632
+Europe (excl. EU-27),,1844,94.021
+Europe (excl. EU-27),,1845,99.877
+Europe (excl. EU-27),,1846,95.593
+Europe (excl. EU-27),,1847,101.926
+Europe (excl. EU-27),,1848,109.11
+Europe (excl. EU-27),,1849,117.456
+Europe (excl. EU-27),,1850,122.585
+Europe (excl. EU-27),,1851,116.561
+Europe (excl. EU-27),,1852,116.148
+Europe (excl. EU-27),,1853,115.523
+Europe (excl. EU-27),,1854,139.247
+Europe (excl. EU-27),,1855,130.716
+Europe (excl. EU-27),,1856,140.385
+Europe (excl. EU-27),,1857,137.877
+Europe (excl. EU-27),,1858,135.656
+Europe (excl. EU-27),,1859,150.667
+Europe (excl. EU-27),,1860,169.16
+Europe (excl. EU-27),,1861,176.628
+Europe (excl. EU-27),,1862,170.965
+Europe (excl. EU-27),,1863,181.743
+Europe (excl. EU-27),,1864,195.731
+Europe (excl. EU-27),,1865,207.393
+Europe (excl. EU-27),,1866,215.266
+Europe (excl. EU-27),,1867,221.336
+Europe (excl. EU-27),,1868,216.842
+Europe (excl. EU-27),,1869,228.014
+Europe (excl. EU-27),,1870,233.29
+Europe (excl. EU-27),,1871,248.17
+Europe (excl. EU-27),,1872,261.449
+Europe (excl. EU-27),,1873,270.807
+Europe (excl. EU-27),,1874,264.333
+Europe (excl. EU-27),,1875,279.731
+Europe (excl. EU-27),,1876,280.792
+Europe (excl. EU-27),,1877,286.062
+Europe (excl. EU-27),,1878,283.253
+Europe (excl. EU-27),,1879,285.327
+Europe (excl. EU-27),,1880,311.883
+Europe (excl. EU-27),,1881,327.638
+Europe (excl. EU-27),,1882,331.241
+Europe (excl. EU-27),,1883,346.115
+Europe (excl. EU-27),,1884,337.799
+Europe (excl. EU-27),,1885,335.671
+Europe (excl. EU-27),,1886,333.212
+Europe (excl. EU-27),,1887,342.322
+Europe (excl. EU-27),,1888,356.131
+Europe (excl. EU-27),,1889,369.997
+Europe (excl. EU-27),,1890,380.925
+Europe (excl. EU-27),,1891,391.679
+Europe (excl. EU-27),,1892,385.698
+Europe (excl. EU-27),,1893,352.956
+Europe (excl. EU-27),,1894,400.705
+Europe (excl. EU-27),,1895,409.316
+Europe (excl. EU-27),,1896,420.866
+Europe (excl. EU-27),,1897,437.096
+Europe (excl. EU-27),,1898,443.668
+Europe (excl. EU-27),,1899,480.17
+Europe (excl. EU-27),,1900,493.606
+Europe (excl. EU-27),,1901,485.559
+Europe (excl. EU-27),,1902,499.632
+Europe (excl. EU-27),,1903,502.086
+Europe (excl. EU-27),,1904,511.275
+Europe (excl. EU-27),,1905,509.924
+Europe (excl. EU-27),,1906,535.075
+Europe (excl. EU-27),,1907,565.343
+Europe (excl. EU-27),,1908,555.227
+Europe (excl. EU-27),,1909,563.856
+Europe (excl. EU-27),,1910,565.787
+Europe (excl. EU-27),,1911,581.439
+Europe (excl. EU-27),,1912,568.149
+Europe (excl. EU-27),,1913,621.231
+Europe (excl. EU-27),,1914,593.006
+Europe (excl. EU-27),,1915,592.847
+Europe (excl. EU-27),,1916,615.102
+Europe (excl. EU-27),,1917,595.123
+Europe (excl. EU-27),,1918,510.685
+Europe (excl. EU-27),,1919,496.864
+Europe (excl. EU-27),,1920,522.001
+Europe (excl. EU-27),,1921,371.417
+Europe (excl. EU-27),,1922,491.216
+Europe (excl. EU-27),,1923,523.518
+Europe (excl. EU-27),,1924,553.639
+Europe (excl. EU-27),,1925,526.448
+Europe (excl. EU-27),,1926,345.267
+Europe (excl. EU-27),,1927,585.529
+Europe (excl. EU-27),,1928,568.542
+Europe (excl. EU-27),,1929,602.221
+Europe (excl. EU-27),,1930,617.771
+Europe (excl. EU-27),,1931,613.852
+Europe (excl. EU-27),,1932,617.644
+Europe (excl. EU-27),,1933,635.797
+Europe (excl. EU-27),,1934,711.13
+Europe (excl. EU-27),,1935,749.372
+Europe (excl. EU-27),,1936,815.923
+Europe (excl. EU-27),,1937,840.835
+Europe (excl. EU-27),,1938,838.052
+Europe (excl. EU-27),,1939,847.552
+Europe (excl. EU-27),,1940,933.496
+Europe (excl. EU-27),,1941,872.664
+Europe (excl. EU-27),,1942,700.582
+Europe (excl. EU-27),,1943,707.489
+Europe (excl. EU-27),,1944,796.226
+Europe (excl. EU-27),,1945,776.877
+Europe (excl. EU-27),,1946,838.293
+Europe (excl. EU-27),,1947,941.726
+Europe (excl. EU-27),,1948,989.536
+Europe (excl. EU-27),,1949,1055.091
+Europe (excl. EU-27),,1950,1104.221
+Europe (excl. EU-27),,1951,1199.235
+Europe (excl. EU-27),,1952,1226.131
+Europe (excl. EU-27),,1953,1275.688
+Europe (excl. EU-27),,1954,1358.004
+Europe (excl. EU-27),,1955,1489.858
+Europe (excl. EU-27),,1956,1577.981
+Europe (excl. EU-27),,1957,1666.816
+Europe (excl. EU-27),,1958,1720.942
+Europe (excl. EU-27),,1959,1772.804
+Europe (excl. EU-27),,1960,1865.352
+Europe (excl. EU-27),,1961,1910.699
+Europe (excl. EU-27),,1962,1982.855
+Europe (excl. EU-27),,1963,2097.606
+Europe (excl. EU-27),,1964,2196.238
+Europe (excl. EU-27),,1965,2305.77
+Europe (excl. EU-27),,1966,2395.799
+Europe (excl. EU-27),,1967,2448.087
+Europe (excl. EU-27),,1968,2520.332
+Europe (excl. EU-27),,1969,2621.815
+Europe (excl. EU-27),,1970,2764.275
+Europe (excl. EU-27),,1971,2899.129
+Europe (excl. EU-27),,1972,2997.881
+Europe (excl. EU-27),,1973,3117.312
+Europe (excl. EU-27),,1974,3154.719
+Europe (excl. EU-27),,1975,3266.955
+Europe (excl. EU-27),,1976,3365.919
+Europe (excl. EU-27),,1977,3460.68
+Europe (excl. EU-27),,1978,3562.693
+Europe (excl. EU-27),,1979,3632.755
+Europe (excl. EU-27),,1980,3672.411
+Europe (excl. EU-27),,1981,3604.832
+Europe (excl. EU-27),,1982,3636.829
+Europe (excl. EU-27),,1983,3686.243
+Europe (excl. EU-27),,1984,3702.121
+Europe (excl. EU-27),,1985,3969.346
+Europe (excl. EU-27),,1986,3998.361
+Europe (excl. EU-27),,1987,3986.008
+Europe (excl. EU-27),,1988,4067.255
+Europe (excl. EU-27),,1989,3994.968
+Europe (excl. EU-27),,1990,4168.642
+Europe (excl. EU-27),,1991,3935.3
+Europe (excl. EU-27),,1992,3416.56
+Europe (excl. EU-27),,1993,3198.287
+Europe (excl. EU-27),,1994,2856.415
+Europe (excl. EU-27),,1995,2786.554
+Europe (excl. EU-27),,1996,2751.304
+Europe (excl. EU-27),,1997,2612.168
+Europe (excl. EU-27),,1998,2595.974
+Europe (excl. EU-27),,1999,2567.522
+Europe (excl. EU-27),,2000,2555.099
+Europe (excl. EU-27),,2001,2625.825
+Europe (excl. EU-27),,2002,2592.056
+Europe (excl. EU-27),,2003,2654.708
+Europe (excl. EU-27),,2004,2675.993
+Europe (excl. EU-27),,2005,2693.057
+Europe (excl. EU-27),,2006,2777.221
+Europe (excl. EU-27),,2007,2771.364
+Europe (excl. EU-27),,2008,2781.405
+Europe (excl. EU-27),,2009,2562.622
+Europe (excl. EU-27),,2010,2693.033
+Europe (excl. EU-27),,2011,2717.282
+Europe (excl. EU-27),,2012,2739.982
+Europe (excl. EU-27),,2013,2663.57
+Europe (excl. EU-27),,2014,2570.278
+Europe (excl. EU-27),,2015,2518.539
+Europe (excl. EU-27),,2016,2503.531
+Europe (excl. EU-27),,2017,2513.96
+Europe (excl. EU-27),,2018,2564.364
+Europe (excl. EU-27),,2019,2532.252
+Europe (excl. EU-27),,2020,2398.624
+Europe (excl. EU-27),,2021,2463.978
+Europe (excl. EU-27),,2022,2358.689
+Europe (excl. EU-27),,2023,2402.14
+Europe (excl. EU-27),,2024,2454.348
+Europe (excl. EU-28),,1750,0.0
+Europe (excl. EU-28),,1751,0.0
+Europe (excl. EU-28),,1752,0.0
+Europe (excl. EU-28),,1753,0.0
+Europe (excl. EU-28),,1754,0.0
+Europe (excl. EU-28),,1755,0.0
+Europe (excl. EU-28),,1756,0.0
+Europe (excl. EU-28),,1757,0.0
+Europe (excl. EU-28),,1758,0.0
+Europe (excl. EU-28),,1759,0.0
+Europe (excl. EU-28),,1760,0.0
+Europe (excl. EU-28),,1761,0.0
+Europe (excl. EU-28),,1762,0.0
+Europe (excl. EU-28),,1763,0.0
+Europe (excl. EU-28),,1764,0.0
+Europe (excl. EU-28),,1765,0.0
+Europe (excl. EU-28),,1766,0.0
+Europe (excl. EU-28),,1767,0.0
+Europe (excl. EU-28),,1768,0.0
+Europe (excl. EU-28),,1769,0.0
+Europe (excl. EU-28),,1770,0.0
+Europe (excl. EU-28),,1771,0.0
+Europe (excl. EU-28),,1772,0.0
+Europe (excl. EU-28),,1773,0.0
+Europe (excl. EU-28),,1774,0.0
+Europe (excl. EU-28),,1775,0.0
+Europe (excl. EU-28),,1776,0.0
+Europe (excl. EU-28),,1777,0.0
+Europe (excl. EU-28),,1778,0.0
+Europe (excl. EU-28),,1779,0.0
+Europe (excl. EU-28),,1780,0.0
+Europe (excl. EU-28),,1781,0.0
+Europe (excl. EU-28),,1782,0.0
+Europe (excl. EU-28),,1783,0.0
+Europe (excl. EU-28),,1784,0.0
+Europe (excl. EU-28),,1785,0.0
+Europe (excl. EU-28),,1786,0.0
+Europe (excl. EU-28),,1787,0.0
+Europe (excl. EU-28),,1788,0.0
+Europe (excl. EU-28),,1789,0.0
+Europe (excl. EU-28),,1790,0.0
+Europe (excl. EU-28),,1791,0.0
+Europe (excl. EU-28),,1792,0.0
+Europe (excl. EU-28),,1793,0.0
+Europe (excl. EU-28),,1794,0.0
+Europe (excl. EU-28),,1795,0.0
+Europe (excl. EU-28),,1796,0.0
+Europe (excl. EU-28),,1797,0.0
+Europe (excl. EU-28),,1798,0.0
+Europe (excl. EU-28),,1799,0.0
+Europe (excl. EU-28),,1800,0.0
+Europe (excl. EU-28),,1801,0.0
+Europe (excl. EU-28),,1802,0.0
+Europe (excl. EU-28),,1803,0.0
+Europe (excl. EU-28),,1804,0.0
+Europe (excl. EU-28),,1805,0.0
+Europe (excl. EU-28),,1806,0.0
+Europe (excl. EU-28),,1807,0.0
+Europe (excl. EU-28),,1808,0.0
+Europe (excl. EU-28),,1809,0.0
+Europe (excl. EU-28),,1810,0.0
+Europe (excl. EU-28),,1811,0.0
+Europe (excl. EU-28),,1812,0.0
+Europe (excl. EU-28),,1813,0.0
+Europe (excl. EU-28),,1814,0.0
+Europe (excl. EU-28),,1815,0.0
+Europe (excl. EU-28),,1816,0.0
+Europe (excl. EU-28),,1817,0.0
+Europe (excl. EU-28),,1818,0.0
+Europe (excl. EU-28),,1819,0.0
+Europe (excl. EU-28),,1820,0.0
+Europe (excl. EU-28),,1821,0.0
+Europe (excl. EU-28),,1822,0.0
+Europe (excl. EU-28),,1823,0.0
+Europe (excl. EU-28),,1824,0.0
+Europe (excl. EU-28),,1825,0.0
+Europe (excl. EU-28),,1826,0.0
+Europe (excl. EU-28),,1827,0.0
+Europe (excl. EU-28),,1828,0.0
+Europe (excl. EU-28),,1829,0.011
+Europe (excl. EU-28),,1830,0.023
+Europe (excl. EU-28),,1831,0.022
+Europe (excl. EU-28),,1832,0.012
+Europe (excl. EU-28),,1833,0.015
+Europe (excl. EU-28),,1834,0.0
+Europe (excl. EU-28),,1835,0.015
+Europe (excl. EU-28),,1836,0.018
+Europe (excl. EU-28),,1837,0.026
+Europe (excl. EU-28),,1838,0.051
+Europe (excl. EU-28),,1839,0.04
+Europe (excl. EU-28),,1840,0.044
+Europe (excl. EU-28),,1841,0.059
+Europe (excl. EU-28),,1842,0.073
+Europe (excl. EU-28),,1843,0.062
+Europe (excl. EU-28),,1844,0.066
+Europe (excl. EU-28),,1845,0.099
+Europe (excl. EU-28),,1846,0.099
+Europe (excl. EU-28),,1847,0.103
+Europe (excl. EU-28),,1848,0.132
+Europe (excl. EU-28),,1849,0.106
+Europe (excl. EU-28),,1850,0.235
+Europe (excl. EU-28),,1851,0.15
+Europe (excl. EU-28),,1852,0.15
+Europe (excl. EU-28),,1853,0.165
+Europe (excl. EU-28),,1854,0.234
+Europe (excl. EU-28),,1855,0.547
+Europe (excl. EU-28),,1856,0.304
+Europe (excl. EU-28),,1857,0.304
+Europe (excl. EU-28),,1858,0.822
+Europe (excl. EU-28),,1859,0.964
+Europe (excl. EU-28),,1860,1.209
+Europe (excl. EU-28),,1861,1.58
+Europe (excl. EU-28),,1862,1.494
+Europe (excl. EU-28),,1863,1.518
+Europe (excl. EU-28),,1864,1.821
+Europe (excl. EU-28),,1865,1.905
+Europe (excl. EU-28),,1866,3.534
+Europe (excl. EU-28),,1867,3.961
+Europe (excl. EU-28),,1868,3.623
+Europe (excl. EU-28),,1869,4.308
+Europe (excl. EU-28),,1870,4.796
+Europe (excl. EU-28),,1871,6.134
+Europe (excl. EU-28),,1872,6.46
+Europe (excl. EU-28),,1873,6.149
+Europe (excl. EU-28),,1874,7.146
+Europe (excl. EU-28),,1875,8.244
+Europe (excl. EU-28),,1876,9.773
+Europe (excl. EU-28),,1877,10.163
+Europe (excl. EU-28),,1878,12.278
+Europe (excl. EU-28),,1879,12.681
+Europe (excl. EU-28),,1880,14.758
+Europe (excl. EU-28),,1881,15.326
+Europe (excl. EU-28),,1882,16.277
+Europe (excl. EU-28),,1883,18.385
+Europe (excl. EU-28),,1884,18.701
+Europe (excl. EU-28),,1885,20.38
+Europe (excl. EU-28),,1886,20.783
+Europe (excl. EU-28),,1887,21.879
+Europe (excl. EU-28),,1888,22.963
+Europe (excl. EU-28),,1889,24.973
+Europe (excl. EU-28),,1890,27.902
+Europe (excl. EU-28),,1891,31.207
+Europe (excl. EU-28),,1892,32.69
+Europe (excl. EU-28),,1893,36.745
+Europe (excl. EU-28),,1894,38.603
+Europe (excl. EU-28),,1895,43.766
+Europe (excl. EU-28),,1896,44.884
+Europe (excl. EU-28),,1897,51.127
+Europe (excl. EU-28),,1898,56.79
+Europe (excl. EU-28),,1899,65.618
+Europe (excl. EU-28),,1900,73.866
+Europe (excl. EU-28),,1901,74.858
+Europe (excl. EU-28),,1902,72.992
+Europe (excl. EU-28),,1903,72.101
+Europe (excl. EU-28),,1904,79.282
+Europe (excl. EU-28),,1905,72.252
+Europe (excl. EU-28),,1906,81.724
+Europe (excl. EU-28),,1907,91.775
+Europe (excl. EU-28),,1908,93.262
+Europe (excl. EU-28),,1909,97.77
+Europe (excl. EU-28),,1910,96.055
+Europe (excl. EU-28),,1911,100.088
+Europe (excl. EU-28),,1912,112.263
+Europe (excl. EU-28),,1913,122.909
+Europe (excl. EU-28),,1914,109.823
+Europe (excl. EU-28),,1915,103.366
+Europe (excl. EU-28),,1916,108.03
+Europe (excl. EU-28),,1917,93.953
+Europe (excl. EU-28),,1918,43.836
+Europe (excl. EU-28),,1919,40.733
+Europe (excl. EU-28),,1920,41.528
+Europe (excl. EU-28),,1921,39.229
+Europe (excl. EU-28),,1922,51.607
+Europe (excl. EU-28),,1923,57.451
+Europe (excl. EU-28),,1924,65.398
+Europe (excl. EU-28),,1925,65.449
+Europe (excl. EU-28),,1926,84.201
+Europe (excl. EU-28),,1927,104.184
+Europe (excl. EU-28),,1928,114.089
+Europe (excl. EU-28),,1929,124.015
+Europe (excl. EU-28),,1930,156.966
+Europe (excl. EU-28),,1931,182.874
+Europe (excl. EU-28),,1932,203.079
+Europe (excl. EU-28),,1933,223.528
+Europe (excl. EU-28),,1934,265.853
+Europe (excl. EU-28),,1935,298.167
+Europe (excl. EU-28),,1936,339.388
+Europe (excl. EU-28),,1937,349.131
+Europe (excl. EU-28),,1938,365.296
+Europe (excl. EU-28),,1939,373.263
+Europe (excl. EU-28),,1940,433.413
+Europe (excl. EU-28),,1941,372.868
+Europe (excl. EU-28),,1942,207.586
+Europe (excl. EU-28),,1943,217.271
+Europe (excl. EU-28),,1944,306.555
+Europe (excl. EU-28),,1945,323.803
+Europe (excl. EU-28),,1946,373.881
+Europe (excl. EU-28),,1947,456.494
+Europe (excl. EU-28),,1948,486.026
+Europe (excl. EU-28),,1949,547.539
+Europe (excl. EU-28),,1950,604.993
+Europe (excl. EU-28),,1951,655.444
+Europe (excl. EU-28),,1952,698.719
+Europe (excl. EU-28),,1953,736.588
+Europe (excl. EU-28),,1954,805.972
+Europe (excl. EU-28),,1955,913.738
+Europe (excl. EU-28),,1956,1004.237
+Europe (excl. EU-28),,1957,1096.567
+Europe (excl. EU-28),,1958,1164.949
+Europe (excl. EU-28),,1959,1226.44
+Europe (excl. EU-28),,1960,1281.449
+Europe (excl. EU-28),,1961,1322.121
+Europe (excl. EU-28),,1962,1389.935
+Europe (excl. EU-28),,1963,1494.224
+Europe (excl. EU-28),,1964,1588.372
+Europe (excl. EU-28),,1965,1683.655
+Europe (excl. EU-28),,1966,1777.72
+Europe (excl. EU-28),,1967,1856.023
+Europe (excl. EU-28),,1968,1913.836
+Europe (excl. EU-28),,1969,1993.425
+Europe (excl. EU-28),,1970,2111.691
+Europe (excl. EU-28),,1971,2238.733
+Europe (excl. EU-28),,1972,2349.847
+Europe (excl. EU-28),,1973,2457.728
+Europe (excl. EU-28),,1974,2537.532
+Europe (excl. EU-28),,1975,2663.701
+Europe (excl. EU-28),,1976,2767.385
+Europe (excl. EU-28),,1977,2856.311
+Europe (excl. EU-28),,1978,2957.965
+Europe (excl. EU-28),,1979,2988.246
+Europe (excl. EU-28),,1980,3093.372
+Europe (excl. EU-28),,1981,3044.285
+Europe (excl. EU-28),,1982,3088.599
+Europe (excl. EU-28),,1983,3140.769
+Europe (excl. EU-28),,1984,3173.024
+Europe (excl. EU-28),,1985,3409.712
+Europe (excl. EU-28),,1986,3429.792
+Europe (excl. EU-28),,1987,3414.358
+Europe (excl. EU-28),,1988,3496.976
+Europe (excl. EU-28),,1989,3413.406
+Europe (excl. EU-28),,1990,3566.697
+Europe (excl. EU-28),,1991,3325.887
+Europe (excl. EU-28),,1992,2822.714
+Europe (excl. EU-28),,1993,2618.675
+Europe (excl. EU-28),,1994,2282.398
+Europe (excl. EU-28),,1995,2220.395
+Europe (excl. EU-28),,1996,2164.543
+Europe (excl. EU-28),,1997,2049.46
+Europe (excl. EU-28),,1998,2027.43
+Europe (excl. EU-28),,1999,2005.873
+Europe (excl. EU-28),,2000,1986.065
+Europe (excl. EU-28),,2001,2047.855
+Europe (excl. EU-28),,2002,2031.782
+Europe (excl. EU-28),,2003,2083.089
+Europe (excl. EU-28),,2004,2102.563
+Europe (excl. EU-28),,2005,2122.719
+Europe (excl. EU-28),,2006,2209.376
+Europe (excl. EU-28),,2007,2211.797
+Europe (excl. EU-28),,2008,2236.473
+Europe (excl. EU-28),,2009,2068.514
+Europe (excl. EU-28),,2010,2181.128
+Europe (excl. EU-28),,2011,2247.568
+Europe (excl. EU-28),,2012,2252.505
+Europe (excl. EU-28),,2013,2185.959
+Europe (excl. EU-28),,2014,2131.471
+Europe (excl. EU-28),,2015,2096.078
+Europe (excl. EU-28),,2016,2104.101
+Europe (excl. EU-28),,2017,2126.593
+Europe (excl. EU-28),,2018,2184.634
+Europe (excl. EU-28),,2019,2167.499
+Europe (excl. EU-28),,2020,2072.361
+Europe (excl. EU-28),,2021,2121.612
+Europe (excl. EU-28),,2022,2047.571
+Europe (excl. EU-28),,2023,2094.314
+Europe (excl. EU-28),,2024,2141.443
+European Union (27),,1792,0.469
+European Union (27),,1793,0.48
+European Union (27),,1794,0.443
+European Union (27),,1795,0.447
+European Union (27),,1796,0.535
+European Union (27),,1797,0.55
+European Union (27),,1798,0.575
+European Union (27),,1799,0.627
+European Union (27),,1800,1.202
+European Union (27),,1801,0.978
+European Union (27),,1802,9.64
+European Union (27),,1803,0.997
+European Union (27),,1804,3.642
+European Union (27),,1805,1.612
+European Union (27),,1806,1.458
+European Union (27),,1807,3.235
+European Union (27),,1808,1.4
+European Union (27),,1809,1.403
+European Union (27),,1810,3.668
+European Union (27),,1811,3.569
+European Union (27),,1812,3.583
+European Union (27),,1813,3.32
+European Union (27),,1814,3.477
+European Union (27),,1815,3.961
+European Union (27),,1816,5.562
+European Union (27),,1817,6.786
+European Union (27),,1818,6.837
+European Union (27),,1819,6.844
+European Union (27),,1820,7.365
+European Union (27),,1821,7.731
+European Union (27),,1822,8.075
+European Union (27),,1823,8.772
+European Union (27),,1824,8.424
+European Union (27),,1825,10.025
+European Union (27),,1826,9.955
+European Union (27),,1827,12.234
+European Union (27),,1828,12.45
+European Union (27),,1829,11.248
+European Union (27),,1830,19.141
+European Union (27),,1831,16.47
+European Union (27),,1832,16.481
+European Union (27),,1833,17.764
+European Union (27),,1834,19.562
+European Union (27),,1835,20.848
+European Union (27),,1836,23.578
+European Union (27),,1837,25.586
+European Union (27),,1838,27.147
+European Union (27),,1839,28.271
+European Union (27),,1840,32.049
+European Union (27),,1841,34.504
+European Union (27),,1842,37.138
+European Union (27),,1843,35.929
+European Union (27),,1844,38.575
+European Union (27),,1845,43.917
+European Union (27),,1846,49.266
+European Union (27),,1847,53.648
+European Union (27),,1848,47.573
+European Union (27),,1849,49.131
+European Union (27),,1850,54.19
+European Union (27),,1851,57.298
+European Union (27),,1852,64.285
+European Union (27),,1853,71.181
+European Union (27),,1854,82.319
+European Union (27),,1855,90.822
+European Union (27),,1856,96.396
+European Union (27),,1857,100.452
+European Union (27),,1858,105.866
+European Union (27),,1859,103.998
+European Union (27),,1860,112.653
+European Union (27),,1861,123.852
+European Union (27),,1862,134.076
+European Union (27),,1863,139.489
+European Union (27),,1864,150.897
+European Union (27),,1865,163.823
+European Union (27),,1866,168.329
+European Union (27),,1867,180.49
+European Union (27),,1868,189.354
+European Union (27),,1869,197.348
+European Union (27),,1870,198.126
+European Union (27),,1871,211.581
+European Union (27),,1872,235.093
+European Union (27),,1873,251.7
+European Union (27),,1874,220.222
+European Union (27),,1875,254.916
+European Union (27),,1876,266.346
+European Union (27),,1877,259.884
+European Union (27),,1878,268.511
+European Union (27),,1879,284.259
+European Union (27),,1880,328.859
+European Union (27),,1881,330.136
+European Union (27),,1882,348.957
+European Union (27),,1883,372.652
+European Union (27),,1884,376.346
+European Union (27),,1885,380.989
+European Union (27),,1886,382.775
+European Union (27),,1887,400.965
+European Union (27),,1888,431.376
+European Union (27),,1889,454.562
+European Union (27),,1890,481.649
+European Union (27),,1891,501.333
+European Union (27),,1892,493.624
+European Union (27),,1893,501.924
+European Union (27),,1894,527.213
+European Union (27),,1895,543.311
+European Union (27),,1896,575.299
+European Union (27),,1897,608.57
+European Union (27),,1898,635.5
+European Union (27),,1899,669.348
+European Union (27),,1900,712.155
+European Union (27),,1901,709.674
+European Union (27),,1902,696.461
+European Union (27),,1903,743.088
+European Union (27),,1904,757.167
+European Union (27),,1905,795.774
+European Union (27),,1906,812.361
+European Union (27),,1907,927.507
+European Union (27),,1908,962.037
+European Union (27),,1909,955.021
+European Union (27),,1910,972.868
+European Union (27),,1911,992.715
+European Union (27),,1912,1064.398
+European Union (27),,1913,1146.194
+European Union (27),,1914,980.976
+European Union (27),,1915,900.031
+European Union (27),,1916,946.096
+European Union (27),,1917,938.313
+European Union (27),,1918,883.437
+European Union (27),,1919,686.954
+European Union (27),,1920,861.444
+European Union (27),,1921,894.138
+European Union (27),,1922,918.104
+European Union (27),,1923,823.406
+European Union (27),,1924,1000.201
+European Union (27),,1925,1011.747
+European Union (27),,1926,977.943
+European Union (27),,1927,1099.382
+European Union (27),,1928,1125.199
+European Union (27),,1929,1235.747
+European Union (27),,1930,1123.394
+European Union (27),,1931,1011.756
+European Union (27),,1932,894.194
+European Union (27),,1933,921.863
+European Union (27),,1934,993.537
+European Union (27),,1935,1040.039
+European Union (27),,1936,1083.907
+European Union (27),,1937,1219.932
+European Union (27),,1938,1232.383
+European Union (27),,1939,1269.09
+European Union (27),,1940,1320.451
+European Union (27),,1941,1301.4
+European Union (27),,1942,1320.679
+European Union (27),,1943,1331.682
+European Union (27),,1944,1141.707
+European Union (27),,1945,492.956
+European Union (27),,1946,847.728
+European Union (27),,1947,990.837
+European Union (27),,1948,1095.502
+European Union (27),,1949,1211.261
+European Union (27),,1950,1277.578
+European Union (27),,1951,1429.619
+European Union (27),,1952,1486.735
+European Union (27),,1953,1514.889
+European Union (27),,1954,1611.346
+European Union (27),,1955,1743.386
+European Union (27),,1956,1867.177
+European Union (27),,1957,1926.531
+European Union (27),,1958,1911.06
+European Union (27),,1959,1940.906
+European Union (27),,1960,2101.583
+European Union (27),,1961,2201.441
+European Union (27),,1962,2356.559
+European Union (27),,1963,2514.701
+European Union (27),,1964,2646.008
+European Union (27),,1965,2678.696
+European Union (27),,1966,2760.302
+European Union (27),,1967,2822.135
+European Union (27),,1968,2995.612
+European Union (27),,1969,3194.592
+European Union (27),,1970,3334.414
+European Union (27),,1971,3428.46
+European Union (27),,1972,3558.672
+European Union (27),,1973,3732.199
+European Union (27),,1974,3712.971
+European Union (27),,1975,3640.123
+European Union (27),,1976,3916.067
+European Union (27),,1977,3877.844
+European Union (27),,1978,4007.999
+European Union (27),,1979,4117.395
+European Union (27),,1980,4081.316
+European Union (27),,1981,3867.043
+European Union (27),,1982,3774.743
+European Union (27),,1983,3731.654
+European Union (27),,1984,3766.663
+European Union (27),,1985,3823.649
+European Union (27),,1986,3807.142
+European Union (27),,1987,3840.889
+European Union (27),,1988,3798.377
+European Union (27),,1989,3836.181
+European Union (27),,1990,3870.253
+European Union (27),,1991,3804.53
+European Union (27),,1992,3677.736
+European Union (27),,1993,3608.154
+European Union (27),,1994,3589.454
+European Union (27),,1995,3635.878
+European Union (27),,1996,3720.71
+European Union (27),,1997,3654.451
+European Union (27),,1998,3644.649
+European Union (27),,1999,3589.161
+European Union (27),,2000,3600.416
+European Union (27),,2001,3657.1
+European Union (27),,2002,3657.391
+European Union (27),,2003,3736.359
+European Union (27),,2004,3743.384
+European Union (27),,2005,3734.892
+European Union (27),,2006,3752.005
+European Union (27),,2007,3701.867
+European Union (27),,2008,3625.826
+European Union (27),,2009,3330.504
+European Union (27),,2010,3424.327
+European Union (27),,2011,3327.059
+European Union (27),,2012,3258.616
+European Union (27),,2013,3176.529
+European Union (27),,2014,3038.861
+European Union (27),,2015,3094.906
+European Union (27),,2016,3094.515
+European Union (27),,2017,3118.46
+European Union (27),,2018,3049.484
+European Union (27),,2019,2904.949
+European Union (27),,2020,2627.051
+European Union (27),,2021,2801.469
+European Union (27),,2022,2736.946
+European Union (27),,2023,2484.997
+European Union (27),,2024,2426.166
+European Union (28),,1750,9.306
+European Union (28),,1751,9.407
+European Union (28),,1752,9.505
+European Union (28),,1753,9.61
+European Union (28),,1754,9.734
+European Union (28),,1755,9.793
+European Union (28),,1756,9.91
+European Union (28),,1757,10.094
+European Union (28),,1758,10.216
+European Union (28),,1759,10.339
+European Union (28),,1760,10.514
+European Union (28),,1761,10.748
+European Union (28),,1762,10.952
+European Union (28),,1763,11.192
+European Union (28),,1764,11.397
+European Union (28),,1765,11.643
+European Union (28),,1766,11.876
+European Union (28),,1767,12.153
+European Union (28),,1768,12.467
+European Union (28),,1769,12.78
+European Union (28),,1770,13.097
+European Union (28),,1771,13.369
+European Union (28),,1772,13.624
+European Union (28),,1773,13.808
+European Union (28),,1774,14.012
+European Union (28),,1775,14.339
+European Union (28),,1776,14.654
+European Union (28),,1777,14.96
+European Union (28),,1778,15.243
+European Union (28),,1779,15.535
+European Union (28),,1780,15.879
+European Union (28),,1781,16.234
+European Union (28),,1782,16.581
+European Union (28),,1783,17.063
+European Union (28),,1784,17.471
+European Union (28),,1785,17.961
+European Union (28),,1786,18.444
+European Union (28),,1787,18.855
+European Union (28),,1788,19.283
+European Union (28),,1789,19.86
+European Union (28),,1790,20.394
+European Union (28),,1791,20.928
+European Union (28),,1792,21.926
+European Union (28),,1793,22.294
+European Union (28),,1794,22.516
+European Union (28),,1795,22.312
+European Union (28),,1796,22.118
+European Union (28),,1797,22.086
+European Union (28),,1798,23.102
+European Union (28),,1799,27.482
+European Union (28),,1800,32.542
+European Union (28),,1801,31.715
+European Union (28),,1802,40.017
+European Union (28),,1803,29.238
+European Union (28),,1804,31.432
+European Union (28),,1805,30.907
+European Union (28),,1806,32.367
+European Union (28),,1807,35.819
+European Union (28),,1808,35.101
+European Union (28),,1809,35.926
+European Union (28),,1810,39.07
+European Union (28),,1811,39.724
+European Union (28),,1812,40.325
+European Union (28),,1813,40.679
+European Union (28),,1814,41.659
+European Union (28),,1815,42.98
+European Union (28),,1816,44.827
+European Union (28),,1817,48.552
+European Union (28),,1818,50.606
+European Union (28),,1819,50.161
+European Union (28),,1820,49.932
+European Union (28),,1821,51.224
+European Union (28),,1822,53.149
+European Union (28),,1823,55.448
+European Union (28),,1824,56.56
+European Union (28),,1825,59.588
+European Union (28),,1826,60.057
+European Union (28),,1827,64.282
+European Union (28),,1828,65.08
+European Union (28),,1829,64.491
+European Union (28),,1830,86.865
+European Union (28),,1831,80.956
+European Union (28),,1832,79.04
+European Union (28),,1833,79.688
+European Union (28),,1834,85.364
+European Union (28),,1835,93.046
+European Union (28),,1836,102.122
+European Union (28),,1837,100.839
+European Union (28),,1838,100.733
+European Union (28),,1839,104.058
+European Union (28),,1840,112.84
+European Union (28),,1841,115.834
+European Union (28),,1842,122.331
+European Union (28),,1843,124.499
+European Union (28),,1844,132.53
+European Union (28),,1845,143.695
+European Union (28),,1846,144.76
+European Union (28),,1847,155.471
+European Union (28),,1848,156.551
+European Union (28),,1849,166.481
+European Union (28),,1850,176.54
+European Union (28),,1851,173.709
+European Union (28),,1852,180.283
+European Union (28),,1853,186.539
+European Union (28),,1854,221.331
+European Union (28),,1855,220.991
+European Union (28),,1856,236.477
+European Union (28),,1857,238.025
+European Union (28),,1858,240.7
+European Union (28),,1859,253.701
+European Union (28),,1860,280.604
+European Union (28),,1861,298.9
+European Union (28),,1862,303.547
+European Union (28),,1863,319.713
+European Union (28),,1864,344.807
+European Union (28),,1865,369.311
+European Union (28),,1866,380.061
+European Union (28),,1867,397.864
+European Union (28),,1868,402.573
+European Union (28),,1869,421.054
+European Union (28),,1870,426.621
+European Union (28),,1871,453.617
+European Union (28),,1872,490.081
+European Union (28),,1873,516.358
+European Union (28),,1874,477.41
+European Union (28),,1875,526.404
+European Union (28),,1876,537.365
+European Union (28),,1877,535.784
+European Union (28),,1878,539.485
+European Union (28),,1879,556.905
+European Union (28),,1880,625.984
+European Union (28),,1881,642.448
+European Union (28),,1882,663.922
+European Union (28),,1883,700.382
+European Union (28),,1884,695.443
+European Union (28),,1885,696.28
+European Union (28),,1886,695.204
+European Union (28),,1887,721.408
+European Union (28),,1888,764.543
+European Union (28),,1889,799.586
+European Union (28),,1890,834.671
+European Union (28),,1891,861.805
+European Union (28),,1892,846.632
+European Union (28),,1893,818.135
+European Union (28),,1894,889.315
+European Union (28),,1895,908.861
+European Union (28),,1896,951.281
+European Union (28),,1897,994.54
+European Union (28),,1898,1022.378
+European Union (28),,1899,1083.9
+European Union (28),,1900,1131.896
+European Union (28),,1901,1120.375
+European Union (28),,1902,1123.101
+European Union (28),,1903,1173.073
+European Union (28),,1904,1189.16
+European Union (28),,1905,1233.446
+European Union (28),,1906,1265.711
+European Union (28),,1907,1401.075
+European Union (28),,1908,1424.001
+European Union (28),,1909,1421.107
+European Union (28),,1910,1442.6
+European Union (28),,1911,1474.066
+European Union (28),,1912,1520.284
+European Union (28),,1913,1644.516
+European Union (28),,1914,1464.158
+European Union (28),,1915,1389.512
+European Union (28),,1916,1453.168
+European Union (28),,1917,1439.482
+European Union (28),,1918,1350.285
+European Union (28),,1919,1143.086
+European Union (28),,1920,1341.917
+European Union (28),,1921,1226.326
+European Union (28),,1922,1357.713
+European Union (28),,1923,1289.473
+European Union (28),,1924,1488.441
+European Union (28),,1925,1472.746
+European Union (28),,1926,1239.009
+European Union (28),,1927,1580.726
+European Union (28),,1928,1579.652
+European Union (28),,1929,1713.953
+European Union (28),,1930,1584.199
+European Union (28),,1931,1442.735
+European Union (28),,1932,1308.759
+European Union (28),,1933,1334.132
+European Union (28),,1934,1438.815
+European Union (28),,1935,1491.244
+European Union (28),,1936,1560.442
+European Union (28),,1937,1711.635
+European Union (28),,1938,1705.138
+European Union (28),,1939,1743.379
+European Union (28),,1940,1820.534
+European Union (28),,1941,1801.196
+European Union (28),,1942,1813.674
+European Union (28),,1943,1821.9
+European Union (28),,1944,1631.377
+European Union (28),,1945,946.03
+European Union (28),,1946,1312.14
+European Union (28),,1947,1476.068
+European Union (28),,1948,1599.012
+European Union (28),,1949,1718.813
+European Union (28),,1950,1776.805
+European Union (28),,1951,1973.41
+European Union (28),,1952,2014.148
+European Union (28),,1953,2053.99
+European Union (28),,1954,2163.377
+European Union (28),,1955,2319.506
+European Union (28),,1956,2440.922
+European Union (28),,1957,2496.78
+European Union (28),,1958,2467.053
+European Union (28),,1959,2487.27
+European Union (28),,1960,2685.485
+European Union (28),,1961,2790.019
+European Union (28),,1962,2949.479
+European Union (28),,1963,3118.083
+European Union (28),,1964,3253.875
+European Union (28),,1965,3300.812
+European Union (28),,1966,3378.381
+European Union (28),,1967,3414.2
+European Union (28),,1968,3602.108
+European Union (28),,1969,3822.982
+European Union (28),,1970,3986.999
+European Union (28),,1971,4088.855
+European Union (28),,1972,4206.706
+European Union (28),,1973,4391.783
+European Union (28),,1974,4330.158
+European Union (28),,1975,4243.377
+European Union (28),,1976,4514.6
+European Union (28),,1977,4482.213
+European Union (28),,1978,4612.726
+European Union (28),,1979,4761.905
+European Union (28),,1980,4660.355
+European Union (28),,1981,4427.59
+European Union (28),,1982,4322.972
+European Union (28),,1983,4277.128
+European Union (28),,1984,4295.76
+European Union (28),,1985,4383.284
+European Union (28),,1986,4375.71
+European Union (28),,1987,4412.538
+European Union (28),,1988,4368.656
+European Union (28),,1989,4417.742
+European Union (28),,1990,4472.198
+European Union (28),,1991,4413.943
+European Union (28),,1992,4271.583
+European Union (28),,1993,4187.766
+European Union (28),,1994,4163.471
+European Union (28),,1995,4202.037
+European Union (28),,1996,4307.47
+European Union (28),,1997,4217.159
+European Union (28),,1998,4213.193
+European Union (28),,1999,4150.811
+European Union (28),,2000,4169.449
+European Union (28),,2001,4235.07
+European Union (28),,2002,4217.665
+European Union (28),,2003,4307.978
+European Union (28),,2004,4316.813
+European Union (28),,2005,4305.23
+European Union (28),,2006,4319.851
+European Union (28),,2007,4261.434
+European Union (28),,2008,4170.758
+European Union (28),,2009,3824.612
+European Union (28),,2010,3936.231
+European Union (28),,2011,3796.772
+European Union (28),,2012,3746.093
+European Union (28),,2013,3654.14
+European Union (28),,2014,3477.668
+European Union (28),,2015,3517.367
+European Union (28),,2016,3493.946
+European Union (28),,2017,3505.827
+European Union (28),,2018,3429.214
+European Union (28),,2019,3269.703
+European Union (28),,2020,2953.314
+European Union (28),,2021,3143.835
+European Union (28),,2022,3048.064
+European Union (28),,2023,2792.823
+European Union (28),,2024,2739.072
+High-income countries,,1750,9.306
+High-income countries,,1751,9.407
+High-income countries,,1752,9.505
+High-income countries,,1753,9.61
+High-income countries,,1754,9.734
+High-income countries,,1755,9.793
+High-income countries,,1756,9.91
+High-income countries,,1757,10.094
+High-income countries,,1758,10.216
+High-income countries,,1759,10.339
+High-income countries,,1760,10.514
+High-income countries,,1761,10.748
+High-income countries,,1762,10.952
+High-income countries,,1763,11.192
+High-income countries,,1764,11.397
+High-income countries,,1765,11.643
+High-income countries,,1766,11.876
+High-income countries,,1767,12.153
+High-income countries,,1768,12.467
+High-income countries,,1769,12.78
+High-income countries,,1770,13.097
+High-income countries,,1771,13.369
+High-income countries,,1772,13.624
+High-income countries,,1773,13.808
+High-income countries,,1774,14.012
+High-income countries,,1775,14.339
+High-income countries,,1776,14.654
+High-income countries,,1777,14.96
+High-income countries,,1778,15.243
+High-income countries,,1779,15.535
+High-income countries,,1780,15.879
+High-income countries,,1781,16.234
+High-income countries,,1782,16.581
+High-income countries,,1783,17.063
+High-income countries,,1784,17.471
+High-income countries,,1785,17.965
+High-income countries,,1786,18.447
+High-income countries,,1787,18.859
+High-income countries,,1788,19.286
+High-income countries,,1789,19.863
+High-income countries,,1790,20.398
+High-income countries,,1791,20.932
+High-income countries,,1792,21.929
+High-income countries,,1793,22.297
+High-income countries,,1794,22.52
+High-income countries,,1795,22.315
+High-income countries,,1796,22.121
+High-income countries,,1797,22.09
+High-income countries,,1798,23.106
+High-income countries,,1799,27.485
+High-income countries,,1800,32.798
+High-income countries,,1801,31.986
+High-income countries,,1802,40.31
+High-income countries,,1803,29.539
+High-income countries,,1804,31.769
+High-income countries,,1805,31.252
+High-income countries,,1806,32.705
+High-income countries,,1807,36.201
+High-income countries,,1808,35.498
+High-income countries,,1809,36.334
+High-income countries,,1810,39.492
+High-income countries,,1811,40.177
+High-income countries,,1812,40.815
+High-income countries,,1813,41.206
+High-income countries,,1814,42.227
+High-income countries,,1815,43.587
+High-income countries,,1816,45.497
+High-income countries,,1817,49.276
+High-income countries,,1818,51.392
+High-income countries,,1819,50.93
+High-income countries,,1820,50.733
+High-income countries,,1821,52.059
+High-income countries,,1822,54.022
+High-income countries,,1823,56.358
+High-income countries,,1824,57.584
+High-income countries,,1825,60.731
+High-income countries,,1826,61.382
+High-income countries,,1827,65.739
+High-income countries,,1828,66.682
+High-income countries,,1829,66.307
+High-income countries,,1830,88.982
+High-income countries,,1831,83.243
+High-income countries,,1832,82.086
+High-income countries,,1833,83.242
+High-income countries,,1834,88.763
+High-income countries,,1835,97.4
+High-income countries,,1836,106.894
+High-income countries,,1837,106.199
+High-income countries,,1838,105.845
+High-income countries,,1839,109.653
+High-income countries,,1840,118.809
+High-income countries,,1841,122.166
+High-income countries,,1842,129.389
+High-income countries,,1843,132.369
+High-income countries,,1844,141.966
+High-income countries,,1845,155.073
+High-income countries,,1846,157.702
+High-income countries,,1847,170.797
+High-income countries,,1848,173.643
+High-income countries,,1849,185.048
+High-income countries,,1850,196.807
+High-income countries,,1851,198.779
+High-income countries,,1852,207.595
+High-income countries,,1853,217.237
+High-income countries,,1854,255.039
+High-income countries,,1855,260.135
+High-income countries,,1856,277.549
+High-income countries,,1857,280.423
+High-income countries,,1858,284.223
+High-income countries,,1859,300.98
+High-income countries,,1860,330.564
+High-income countries,,1861,347.375
+High-income countries,,1862,354.036
+High-income countries,,1863,377.657
+High-income countries,,1864,407.321
+High-income countries,,1865,432.395
+High-income countries,,1866,445.565
+High-income countries,,1867,477.998
+High-income countries,,1868,491.58
+High-income countries,,1869,521.549
+High-income countries,,1870,532.757
+High-income countries,,1871,565.634
+High-income countries,,1872,626.48
+High-income countries,,1873,665.946
+High-income countries,,1874,623.875
+High-income countries,,1875,675.991
+High-income countries,,1876,685.257
+High-income countries,,1877,698.451
+High-income countries,,1878,701.266
+High-income countries,,1879,751.549
+High-income countries,,1880,849.098
+High-income countries,,1881,878.575
+High-income countries,,1882,927.878
+High-income countries,,1883,986.199
+High-income countries,,1884,997.297
+High-income countries,,1885,1004.603
+High-income countries,,1886,1019.624
+High-income countries,,1887,1069.38
+High-income countries,,1888,1185.261
+High-income countries,,1889,1183.591
+High-income countries,,1890,1287.467
+High-income countries,,1891,1347.635
+High-income countries,,1892,1355.56
+High-income countries,,1893,1334.408
+High-income countries,,1894,1381.841
+High-income countries,,1895,1460.823
+High-income countries,,1896,1507.843
+High-income countries,,1897,1576.314
+High-income countries,,1898,1659.457
+High-income countries,,1899,1811.933
+High-income countries,,1900,1908.875
+High-income countries,,1901,1965.819
+High-income countries,,1902,2014.857
+High-income countries,,1903,2197.625
+High-income countries,,1904,2215.083
+High-income countries,,1905,2364.047
+High-income countries,,1906,2461.632
+High-income countries,,1907,2788.543
+High-income countries,,1908,2666.229
+High-income countries,,1909,2777.307
+High-income countries,,1910,2915.88
+High-income countries,,1911,2953.627
+High-income countries,,1912,3108.921
+High-income countries,,1913,3357.25
+High-income countries,,1914,3038.707
+High-income countries,,1915,2992.13
+High-income countries,,1916,3230.255
+High-income countries,,1917,3375.877
+High-income countries,,1918,3335.957
+High-income countries,,1919,2850.114
+High-income countries,,1920,3317.021
+High-income countries,,1921,2870.36
+High-income countries,,1922,3018.954
+High-income countries,,1923,3448.123
+High-income countries,,1924,3448.028
+High-income countries,,1925,3480.948
+High-income countries,,1926,3418.768
+High-income countries,,1927,3748.442
+High-income countries,,1928,3724.907
+High-income countries,,1929,4005.931
+High-income countries,,1930,3666.609
+High-income countries,,1931,3251.876
+High-income countries,,1932,2900.039
+High-income countries,,1933,3048.384
+High-income countries,,1934,3294.649
+High-income countries,,1935,3434.512
+High-income countries,,1936,3778.37
+High-income countries,,1937,4037.917
+High-income countries,,1938,3766.591
+High-income countries,,1939,3982.256
+High-income countries,,1940,4343.899
+High-income countries,,1941,4468.472
+High-income countries,,1942,4520.686
+High-income countries,,1943,4620.289
+High-income countries,,1944,4657.917
+High-income countries,,1945,3823.324
+High-income countries,,1946,4130.24
+High-income countries,,1947,4630.737
+High-income countries,,1948,4878.433
+High-income countries,,1949,4634.994
+High-income countries,,1950,5115.646
+High-income countries,,1951,5465.522
+High-income countries,,1952,5476.447
+High-income countries,,1953,5625.542
+High-income countries,,1954,5677.407
+High-income countries,,1955,6162.75
+High-income countries,,1956,6528.571
+High-income countries,,1957,6642.084
+High-income countries,,1958,6572.725
+High-income countries,,1959,6746.243
+High-income countries,,1960,7108.723
+High-income countries,,1961,7295.227
+High-income countries,,1962,7656.946
+High-income countries,,1963,8086.051
+High-income countries,,1964,8511.005
+High-income countries,,1965,8831.183
+High-income countries,,1966,9199.361
+High-income countries,,1967,9550.461
+High-income countries,,1968,10027.139
+High-income countries,,1969,10649.794
+High-income countries,,1970,11408.807
+High-income countries,,1971,11707.312
+High-income countries,,1972,12239.941
+High-income countries,,1973,12830.88
+High-income countries,,1974,12657.726
+High-income countries,,1975,12430.597
+High-income countries,,1976,13098.839
+High-income countries,,1977,13334.148
+High-income countries,,1978,13693.098
+High-income countries,,1979,13993.646
+High-income countries,,1980,13838.115
+High-income countries,,1981,13342.396
+High-income countries,,1982,12982.38
+High-income countries,,1983,12986.074
+High-income countries,,1984,13279.111
+High-income countries,,1985,13571.279
+High-income countries,,1986,13599.714
+High-income countries,,1987,13859.903
+High-income countries,,1988,14290.124
+High-income countries,,1989,14477.019
+High-income countries,,1990,15006.094
+High-income countries,,1991,15335.967
+High-income countries,,1992,14510.799
+High-income countries,,1993,14538.071
+High-income countries,,1994,14511.072
+High-income countries,,1995,14628.97
+High-income countries,,1996,14979.279
+High-income countries,,1997,14900.45
+High-income countries,,1998,14859.571
+High-income countries,,1999,15028.272
+High-income countries,,2000,15461.338
+High-income countries,,2001,15468.816
+High-income countries,,2002,15564.075
+High-income countries,,2003,15852.178
+High-income countries,,2004,16053.765
+High-income countries,,2005,16125.542
+High-income countries,,2006,16189.988
+High-income countries,,2007,16308.89
+High-income countries,,2008,16049.812
+High-income countries,,2009,15093.003
+High-income countries,,2010,15713.739
+High-income countries,,2011,15608.247
+High-income countries,,2012,15520.974
+High-income countries,,2013,15485.766
+High-income countries,,2014,15294.128
+High-income countries,,2015,15215.524
+High-income countries,,2016,15070.386
+High-income countries,,2017,15069.183
+High-income countries,,2018,15204.227
+High-income countries,,2019,14916.665
+High-income countries,,2020,13694.959
+High-income countries,,2021,14370.719
+High-income countries,,2022,14274.797
+High-income countries,,2023,13890.804
+High-income countries,,2024,13867.993
+International aviation,,1950,3.575
+International aviation,,1951,3.949
+International aviation,,1952,4.187
+International aviation,,1953,4.897
+International aviation,,1954,5.782
+International aviation,,1955,6.604
+International aviation,,1956,7.695
+International aviation,,1957,8.45
+International aviation,,1958,9.605
+International aviation,,1959,11.038
+International aviation,,1960,14.574
+International aviation,,1961,18.088
+International aviation,,1962,21.278
+International aviation,,1963,23.065
+International aviation,,1964,26.721
+International aviation,,1965,31.001
+International aviation,,1966,36.948
+International aviation,,1967,46.08
+International aviation,,1968,53.203
+International aviation,,1969,51.708
+International aviation,,1970,74.598
+International aviation,,1971,81.961
+International aviation,,1972,86.019
+International aviation,,1973,90.442
+International aviation,,1974,84.805
+International aviation,,1975,83.017
+International aviation,,1976,84.496
+International aviation,,1977,95.445
+International aviation,,1978,98.577
+International aviation,,1979,102.515
+International aviation,,1980,104.853
+International aviation,,1981,105.62
+International aviation,,1982,105.522
+International aviation,,1983,107.985
+International aviation,,1984,115.691
+International aviation,,1985,117.394
+International aviation,,1986,124.021
+International aviation,,1987,216.499
+International aviation,,1988,225.67
+International aviation,,1989,241.417
+International aviation,,1990,188.996
+International aviation,,1991,197.357
+International aviation,,1992,218.755
+International aviation,,1993,225.995
+International aviation,,1994,240.029
+International aviation,,1995,253.752
+International aviation,,1996,268.67
+International aviation,,1997,287.073
+International aviation,,1998,306.863
+International aviation,,1999,315.129
+International aviation,,2000,320.342
+International aviation,,2001,322.69
+International aviation,,2002,341.556
+International aviation,,2003,355.306
+International aviation,,2004,386.366
+International aviation,,2005,407.806
+International aviation,,2006,421.49
+International aviation,,2007,436.283
+International aviation,,2008,442.281
+International aviation,,2009,425.129
+International aviation,,2010,448.827
+International aviation,,2011,466.316
+International aviation,,2012,480.94
+International aviation,,2013,494.792
+International aviation,,2014,494.141
+International aviation,,2015,514.844
+International aviation,,2016,536.874
+International aviation,,2017,555.845
+International aviation,,2018,593.353
+International aviation,,2019,597.521
+International aviation,,2020,258.86
+International aviation,,2021,281.429
+International aviation,,2022,407.078
+International aviation,,2023,501.516
+International aviation,,2024,569.039
+International shipping,,1950,127.138
+International shipping,,1951,151.515
+International shipping,,1952,153.94
+International shipping,,1953,158.781
+International shipping,,1954,158.299
+International shipping,,1955,181.681
+International shipping,,1956,194.386
+International shipping,,1957,215.919
+International shipping,,1958,198.829
+International shipping,,1959,202.745
+International shipping,,1960,222.079
+International shipping,,1961,243.427
+International shipping,,1962,249.769
+International shipping,,1963,260.974
+International shipping,,1964,284.644
+International shipping,,1965,290.897
+International shipping,,1966,311.402
+International shipping,,1967,326.618
+International shipping,,1968,340.866
+International shipping,,1969,360.665
+International shipping,,1970,359.846
+International shipping,,1971,376.97
+International shipping,,1972,403.573
+International shipping,,1973,433.333
+International shipping,,1974,401.568
+International shipping,,1975,362.02
+International shipping,,1976,351.659
+International shipping,,1977,350.666
+International shipping,,1978,354.643
+International shipping,,1979,352.343
+International shipping,,1980,339.462
+International shipping,,1981,304.549
+International shipping,,1982,265.864
+International shipping,,1983,248.772
+International shipping,,1984,242.461
+International shipping,,1985,248.468
+International shipping,,1986,268.159
+International shipping,,1987,309.61
+International shipping,,1988,318.639
+International shipping,,1989,322.534
+International shipping,,1990,358.873
+International shipping,,1991,345.312
+International shipping,,1992,335.062
+International shipping,,1993,331.44
+International shipping,,1994,344.801
+International shipping,,1995,363.505
+International shipping,,1996,399.846
+International shipping,,1997,416.211
+International shipping,,1998,439.391
+International shipping,,1999,458.29
+International shipping,,2000,463.178
+International shipping,,2001,454.813
+International shipping,,2002,455.289
+International shipping,,2003,473.954
+International shipping,,2004,517.1
+International shipping,,2005,531.422
+International shipping,,2006,569.105
+International shipping,,2007,611.969
+International shipping,,2008,615.9
+International shipping,,2009,588.92
+International shipping,,2010,623.205
+International shipping,,2011,639.74
+International shipping,,2012,613.153
+International shipping,,2013,615.404
+International shipping,,2014,621.706
+International shipping,,2015,637.775
+International shipping,,2016,632.205
+International shipping,,2017,645.271
+International shipping,,2018,643.022
+International shipping,,2019,642.053
+International shipping,,2020,580.691
+International shipping,,2021,597.654
+International shipping,,2022,558.591
+International shipping,,2023,581.238
+International shipping,,2024,623.424
+Kosovo,,1994,0.0
+Kosovo,,1995,0.0
+Kosovo,,1996,0.0
+Kosovo,,1997,0.0
+Kosovo,,1998,0.0
+Kosovo,,1999,0.0
+Kosovo,,2000,4.807
+Kosovo,,2001,6.093
+Kosovo,,2002,6.06
+Kosovo,,2003,6.438
+Kosovo,,2004,6.617
+Kosovo,,2005,6.435
+Kosovo,,2006,6.489
+Kosovo,,2007,6.802
+Kosovo,,2008,7.358
+Kosovo,,2009,8.109
+Kosovo,,2010,8.355
+Kosovo,,2011,8.294
+Kosovo,,2012,7.848
+Kosovo,,2013,7.966
+Kosovo,,2014,7.129
+Kosovo,,2015,8.291
+Kosovo,,2016,8.794
+Kosovo,,2017,8.023
+Kosovo,,2018,8.045
+Kosovo,,2019,8.386
+Kosovo,,2020,8.452
+Kosovo,,2021,8.816
+Kosovo,,2022,8.569
+Kosovo,,2023,8.22
+Kosovo,,2024,8.05
+Kuwaiti Oil Fires (GCP),,1991,477.925
+Kuwaiti Oil Fires (GCP),,1994,0.0
+Kuwaiti Oil Fires (GCP),,1995,0.0
+Kuwaiti Oil Fires (GCP),,1996,0.0
+Kuwaiti Oil Fires (GCP),,1997,0.0
+Kuwaiti Oil Fires (GCP),,1998,0.0
+Kuwaiti Oil Fires (GCP),,1999,0.0
+Kuwaiti Oil Fires (GCP),,2000,0.0
+Kuwaiti Oil Fires (GCP),,2001,0.0
+Kuwaiti Oil Fires (GCP),,2002,0.0
+Kuwaiti Oil Fires (GCP),,2003,0.0
+Kuwaiti Oil Fires (GCP),,2004,0.0
+Kuwaiti Oil Fires (GCP),,2005,0.0
+Kuwaiti Oil Fires (GCP),,2006,0.0
+Kuwaiti Oil Fires (GCP),,2007,0.0
+Kuwaiti Oil Fires (GCP),,2008,0.0
+Kuwaiti Oil Fires (GCP),,2009,0.0
+Kuwaiti Oil Fires (GCP),,2010,0.0
+Kuwaiti Oil Fires (GCP),,2011,0.0
+Kuwaiti Oil Fires (GCP),,2012,0.0
+Kuwaiti Oil Fires (GCP),,2013,0.0
+Kuwaiti Oil Fires (GCP),,2014,0.0
+Kuwaiti Oil Fires (GCP),,2015,0.0
+Kuwaiti Oil Fires (GCP),,2016,0.0
+Kuwaiti Oil Fires (GCP),,2017,0.0
+Kuwaiti Oil Fires (GCP),,2018,0.0
+Kuwaiti Oil Fires (GCP),,2019,0.0
+Kuwaiti Oil Fires (GCP),,2020,0.0
+Kuwaiti Oil Fires (GCP),,2021,0.0
+Kuwaiti Oil Fires (GCP),,2022,0.0
+Kuwaiti Oil Fires (GCP),,2023,0.0
+Kuwaiti Oil Fires (GCP),,2024,0.0
+Low-income countries,,1905,0.014
+Low-income countries,,1909,0.149
+Low-income countries,,1910,0.187
+Low-income countries,,1911,0.222
+Low-income countries,,1912,0.278
+Low-income countries,,1913,0.323
+Low-income countries,,1914,0.462
+Low-income countries,,1915,0.576
+Low-income countries,,1916,0.479
+Low-income countries,,1918,0.472
+Low-income countries,,1919,0.559
+Low-income countries,,1920,0.729
+Low-income countries,,1921,0.788
+Low-income countries,,1922,0.879
+Low-income countries,,1923,1.116
+Low-income countries,,1924,1.219
+Low-income countries,,1925,1.772
+Low-income countries,,1926,1.956
+Low-income countries,,1927,2.056
+Low-income countries,,1928,2.355
+Low-income countries,,1929,2.672
+Low-income countries,,1930,2.621
+Low-income countries,,1931,2.617
+Low-income countries,,1932,2.898
+Low-income countries,,1933,3.343
+Low-income countries,,1934,4.451
+Low-income countries,,1935,5.213
+Low-income countries,,1936,6.124
+Low-income countries,,1937,6.645
+Low-income countries,,1938,8.817
+Low-income countries,,1939,11.444
+Low-income countries,,1940,14.601
+Low-income countries,,1941,16.288
+Low-income countries,,1942,18.012
+Low-income countries,,1943,17.548
+Low-income countries,,1944,18.452
+Low-income countries,,1945,0.31
+Low-income countries,,1946,0.46
+Low-income countries,,1947,0.486
+Low-income countries,,1948,1.853
+Low-income countries,,1949,2.366
+Low-income countries,,1950,5.435
+Low-income countries,,1951,5.999
+Low-income countries,,1952,6.83
+Low-income countries,,1953,8.09
+Low-income countries,,1954,16.327
+Low-income countries,,1955,19.063
+Low-income countries,,1956,20.955
+Low-income countries,,1957,25.002
+Low-income countries,,1958,28.227
+Low-income countries,,1959,33.427
+Low-income countries,,1960,39.732
+Low-income countries,,1961,41.712
+Low-income countries,,1962,47.095
+Low-income countries,,1963,49.007
+Low-income countries,,1964,53.91
+Low-income countries,,1965,63.77
+Low-income countries,,1966,68.815
+Low-income countries,,1967,73.889
+Low-income countries,,1968,93.907
+Low-income countries,,1969,95.884
+Low-income countries,,1970,103.298
+Low-income countries,,1971,140.588
+Low-income countries,,1972,120.632
+Low-income countries,,1973,130.412
+Low-income countries,,1974,136.629
+Low-income countries,,1975,142.508
+Low-income countries,,1976,146.233
+Low-income countries,,1977,152.167
+Low-income countries,,1978,147.498
+Low-income countries,,1979,159.218
+Low-income countries,,1980,162.02
+Low-income countries,,1981,167.728
+Low-income countries,,1982,168.161
+Low-income countries,,1983,181.897
+Low-income countries,,1984,196.388
+Low-income countries,,1985,205.12
+Low-income countries,,1986,219.073
+Low-income countries,,1987,243.562
+Low-income countries,,1988,270.453
+Low-income countries,,1989,277.681
+Low-income countries,,1990,189.065
+Low-income countries,,1991,186.742
+Low-income countries,,1992,171.487
+Low-income countries,,1993,163.5
+Low-income countries,,1994,158.378
+Low-income countries,,1995,155.741
+Low-income countries,,1996,148.532
+Low-income countries,,1997,149.771
+Low-income countries,,1998,149.22
+Low-income countries,,1999,159.135
+Low-income countries,,2000,164.49
+Low-income countries,,2001,166.929
+Low-income countries,,2002,154.973
+Low-income countries,,2003,177.288
+Low-income countries,,2004,179.401
+Low-income countries,,2005,184.348
+Low-income countries,,2006,192.84
+Low-income countries,,2007,197.89
+Low-income countries,,2008,209.908
+Low-income countries,,2009,209.352
+Low-income countries,,2010,209.248
+Low-income countries,,2011,191.834
+Low-income countries,,2012,177.457
+Low-income countries,,2013,167.16
+Low-income countries,,2014,174.6
+Low-income countries,,2015,152.336
+Low-income countries,,2016,159.13
+Low-income countries,,2017,201.244
+Low-income countries,,2018,199.088
+Low-income countries,,2019,214.494
+Low-income countries,,2020,207.23
+Low-income countries,,2021,199.59
+Low-income countries,,2022,202.7
+Low-income countries,,2023,209.172
+Low-income countries,,2024,210.953
+Lower-middle-income countries,,1830,0.001
+Lower-middle-income countries,,1831,0.001
+Lower-middle-income countries,,1832,0.001
+Lower-middle-income countries,,1833,0.001
+Lower-middle-income countries,,1850,0.004
+Lower-middle-income countries,,1855,0.012
+Lower-middle-income countries,,1858,0.411
+Lower-middle-income countries,,1859,0.654
+Lower-middle-income countries,,1860,0.667
+Lower-middle-income countries,,1861,0.527
+Lower-middle-income countries,,1862,0.581
+Lower-middle-income countries,,1863,0.638
+Lower-middle-income countries,,1864,0.61
+Lower-middle-income countries,,1865,0.603
+Lower-middle-income countries,,1866,0.738
+Lower-middle-income countries,,1867,0.113
+Lower-middle-income countries,,1868,0.098
+Lower-middle-income countries,,1869,0.129
+Lower-middle-income countries,,1870,0.138
+Lower-middle-income countries,,1871,0.189
+Lower-middle-income countries,,1872,0.199
+Lower-middle-income countries,,1873,0.191
+Lower-middle-income countries,,1874,0.223
+Lower-middle-income countries,,1875,0.257
+Lower-middle-income countries,,1876,0.323
+Lower-middle-income countries,,1877,0.327
+Lower-middle-income countries,,1878,2.202
+Lower-middle-income countries,,1879,2.134
+Lower-middle-income countries,,1880,2.414
+Lower-middle-income countries,,1881,2.401
+Lower-middle-income countries,,1882,2.794
+Lower-middle-income countries,,1883,3.106
+Lower-middle-income countries,,1884,3.417
+Lower-middle-income countries,,1885,3.185
+Lower-middle-income countries,,1886,3.498
+Lower-middle-income countries,,1887,3.845
+Lower-middle-income countries,,1888,4.235
+Lower-middle-income countries,,1889,4.874
+Lower-middle-income countries,,1890,5.409
+Lower-middle-income countries,,1891,5.857
+Lower-middle-income countries,,1892,6.593
+Lower-middle-income countries,,1893,7.518
+Lower-middle-income countries,,1894,7.268
+Lower-middle-income countries,,1895,8.754
+Lower-middle-income countries,,1896,9.54
+Lower-middle-income countries,,1897,10.583
+Lower-middle-income countries,,1898,11.801
+Lower-middle-income countries,,1899,13.127
+Lower-middle-income countries,,1900,15.091
+Lower-middle-income countries,,1901,16.402
+Lower-middle-income countries,,1902,17.543
+Lower-middle-income countries,,1903,18.041
+Lower-middle-income countries,,1904,20.361
+Lower-middle-income countries,,1905,20.508
+Lower-middle-income countries,,1906,23.543
+Lower-middle-income countries,,1907,26.163
+Lower-middle-income countries,,1908,29.52
+Lower-middle-income countries,,1909,29.088
+Lower-middle-income countries,,1910,28.696
+Lower-middle-income countries,,1911,30.033
+Lower-middle-income countries,,1912,34.274
+Lower-middle-income countries,,1913,37.801
+Lower-middle-income countries,,1914,38.449
+Lower-middle-income countries,,1915,39.642
+Lower-middle-income countries,,1916,40.785
+Lower-middle-income countries,,1917,42.395
+Lower-middle-income countries,,1918,45.077
+Lower-middle-income countries,,1919,48.371
+Lower-middle-income countries,,1920,40.417
+Lower-middle-income countries,,1921,43.849
+Lower-middle-income countries,,1922,43.197
+Lower-middle-income countries,,1923,44.956
+Lower-middle-income countries,,1924,48.582
+Lower-middle-income countries,,1925,48.731
+Lower-middle-income countries,,1926,49.932
+Lower-middle-income countries,,1927,53.273
+Lower-middle-income countries,,1928,57.123
+Lower-middle-income countries,,1929,58.775
+Lower-middle-income countries,,1930,60.796
+Lower-middle-income countries,,1931,56.548
+Lower-middle-income countries,,1932,54.1
+Lower-middle-income countries,,1933,54.037
+Lower-middle-income countries,,1934,60.424
+Lower-middle-income countries,,1935,64.073
+Lower-middle-income countries,,1936,66.236
+Lower-middle-income countries,,1937,72.594
+Lower-middle-income countries,,1938,79.067
+Lower-middle-income countries,,1939,80.226
+Lower-middle-income countries,,1940,87.03
+Lower-middle-income countries,,1941,87.289
+Lower-middle-income countries,,1942,76.335
+Lower-middle-income countries,,1943,69.163
+Lower-middle-income countries,,1944,73.355
+Lower-middle-income countries,,1945,77.826
+Lower-middle-income countries,,1946,79.537
+Lower-middle-income countries,,1947,83.497
+Lower-middle-income countries,,1948,87.573
+Lower-middle-income countries,,1949,95.526
+Lower-middle-income countries,,1950,126.404
+Lower-middle-income countries,,1951,133.873
+Lower-middle-income countries,,1952,144.008
+Lower-middle-income countries,,1953,148.38
+Lower-middle-income countries,,1954,159.014
+Lower-middle-income countries,,1955,173.985
+Lower-middle-income countries,,1956,182.529
+Lower-middle-income countries,,1957,201.261
+Lower-middle-income countries,,1958,213.762
+Lower-middle-income countries,,1959,223.915
+Lower-middle-income countries,,1960,244.958
+Lower-middle-income countries,,1961,258.016
+Lower-middle-income countries,,1962,280.057
+Lower-middle-income countries,,1963,303.278
+Lower-middle-income countries,,1964,316.737
+Lower-middle-income countries,,1965,347.298
+Lower-middle-income countries,,1966,369.354
+Lower-middle-income countries,,1967,374.232
+Lower-middle-income countries,,1968,398.763
+Lower-middle-income countries,,1969,417.534
+Lower-middle-income countries,,1970,446.632
+Lower-middle-income countries,,1971,476.533
+Lower-middle-income countries,,1972,504.342
+Lower-middle-income countries,,1973,536.991
+Lower-middle-income countries,,1974,560.222
+Lower-middle-income countries,,1975,580.004
+Lower-middle-income countries,,1976,603.181
+Lower-middle-income countries,,1977,626.43
+Lower-middle-income countries,,1978,642.829
+Lower-middle-income countries,,1979,691.379
+Lower-middle-income countries,,1980,721.738
+Lower-middle-income countries,,1981,749.748
+Lower-middle-income countries,,1982,773.943
+Lower-middle-income countries,,1983,807.841
+Lower-middle-income countries,,1984,831.103
+Lower-middle-income countries,,1985,887.538
+Lower-middle-income countries,,1986,927.414
+Lower-middle-income countries,,1987,964.548
+Lower-middle-income countries,,1988,1029.841
+Lower-middle-income countries,,1989,1056.438
+Lower-middle-income countries,,1990,1104.19
+Lower-middle-income countries,,1991,1146.94
+Lower-middle-income countries,,1992,1214.147
+Lower-middle-income countries,,1993,1263.718
+Lower-middle-income countries,,1994,1354.623
+Lower-middle-income countries,,1995,1426.849
+Lower-middle-income countries,,1996,1537.595
+Lower-middle-income countries,,1997,1612.397
+Lower-middle-income countries,,1998,1657.266
+Lower-middle-income countries,,1999,1755.396
+Lower-middle-income countries,,2000,1826.764
+Lower-middle-income countries,,2001,1848.146
+Lower-middle-income countries,,2002,1894.994
+Lower-middle-income countries,,2003,1977.686
+Lower-middle-income countries,,2004,2084.533
+Lower-middle-income countries,,2005,2181.041
+Lower-middle-income countries,,2006,2299.004
+Lower-middle-income countries,,2007,2431.34
+Lower-middle-income countries,,2008,2569.336
+Lower-middle-income countries,,2009,2697.513
+Lower-middle-income countries,,2010,2838.991
+Lower-middle-income countries,,2011,3000.531
+Lower-middle-income countries,,2012,3160.159
+Lower-middle-income countries,,2013,3259.565
+Lower-middle-income countries,,2014,3487.512
+Lower-middle-income countries,,2015,3632.174
+Lower-middle-income countries,,2016,3854.897
+Lower-middle-income countries,,2017,4009.564
+Lower-middle-income countries,,2018,4202.012
+Lower-middle-income countries,,2019,4329.725
+Lower-middle-income countries,,2020,4174.303
+Lower-middle-income countries,,2021,4500.257
+Lower-middle-income countries,,2022,4626.043
+Lower-middle-income countries,,2023,4879.772
+Lower-middle-income countries,,2024,5089.165
+Middle East (GCP),,1850,0.0
+Middle East (GCP),,1851,0.0
+Middle East (GCP),,1852,0.0
+Middle East (GCP),,1853,0.0
+Middle East (GCP),,1854,0.0
+Middle East (GCP),,1855,0.0
+Middle East (GCP),,1856,0.0
+Middle East (GCP),,1857,0.0
+Middle East (GCP),,1858,0.0
+Middle East (GCP),,1859,0.0
+Middle East (GCP),,1860,0.0
+Middle East (GCP),,1861,0.0
+Middle East (GCP),,1862,0.0
+Middle East (GCP),,1863,0.0
+Middle East (GCP),,1864,0.0
+Middle East (GCP),,1865,0.15
+Middle East (GCP),,1866,0.209
+Middle East (GCP),,1867,0.227
+Middle East (GCP),,1868,0.176
+Middle East (GCP),,1869,0.267
+Middle East (GCP),,1870,0.158
+Middle East (GCP),,1871,0.198
+Middle East (GCP),,1872,0.245
+Middle East (GCP),,1873,0.238
+Middle East (GCP),,1874,0.256
+Middle East (GCP),,1875,0.352
+Middle East (GCP),,1876,0.275
+Middle East (GCP),,1877,0.447
+Middle East (GCP),,1878,0.326
+Middle East (GCP),,1879,0.125
+Middle East (GCP),,1880,0.139
+Middle East (GCP),,1881,0.183
+Middle East (GCP),,1882,0.154
+Middle East (GCP),,1883,0.161
+Middle East (GCP),,1884,0.176
+Middle East (GCP),,1885,0.194
+Middle East (GCP),,1886,0.136
+Middle East (GCP),,1887,0.245
+Middle East (GCP),,1888,0.267
+Middle East (GCP),,1889,0.403
+Middle East (GCP),,1890,0.366
+Middle East (GCP),,1891,0.403
+Middle East (GCP),,1892,0.41
+Middle East (GCP),,1893,0.425
+Middle East (GCP),,1894,0.392
+Middle East (GCP),,1895,0.374
+Middle East (GCP),,1896,0.443
+Middle East (GCP),,1897,0.315
+Middle East (GCP),,1898,0.524
+Middle East (GCP),,1899,0.671
+Middle East (GCP),,1900,1.037
+Middle East (GCP),,1901,0.949
+Middle East (GCP),,1902,1.048
+Middle East (GCP),,1903,1.205
+Middle East (GCP),,1904,1.367
+Middle East (GCP),,1905,1.532
+Middle East (GCP),,1906,1.583
+Middle East (GCP),,1907,1.88
+Middle East (GCP),,1908,1.722
+Middle East (GCP),,1909,1.957
+Middle East (GCP),,1910,1.883
+Middle East (GCP),,1911,2.363
+Middle East (GCP),,1912,2.25
+Middle East (GCP),,1913,2.891
+Middle East (GCP),,1914,2.836
+Middle East (GCP),,1915,2.44
+Middle East (GCP),,1916,2.521
+Middle East (GCP),,1917,3.191
+Middle East (GCP),,1918,3.906
+Middle East (GCP),,1919,5.258
+Middle East (GCP),,1920,6.841
+Middle East (GCP),,1921,8.097
+Middle East (GCP),,1922,10.237
+Middle East (GCP),,1923,13.051
+Middle East (GCP),,1924,15.957
+Middle East (GCP),,1925,16.569
+Middle East (GCP),,1926,18.067
+Middle East (GCP),,1927,20.119
+Middle East (GCP),,1928,21.093
+Middle East (GCP),,1929,20.943
+Middle East (GCP),,1930,22.896
+Middle East (GCP),,1931,22.276
+Middle East (GCP),,1932,24.537
+Middle East (GCP),,1933,27.208
+Middle East (GCP),,1934,32.352
+Middle East (GCP),,1935,35.686
+Middle East (GCP),,1936,39.331
+Middle East (GCP),,1937,45.662
+Middle East (GCP),,1938,46.182
+Middle East (GCP),,1939,52.122
+Middle East (GCP),,1940,45.519
+Middle East (GCP),,1941,36.011
+Middle East (GCP),,1942,47.469
+Middle East (GCP),,1943,52.441
+Middle East (GCP),,1944,67.704
+Middle East (GCP),,1945,86.156
+Middle East (GCP),,1946,112.804
+Middle East (GCP),,1947,134.073
+Middle East (GCP),,1948,108.715
+Middle East (GCP),,1949,41.809
+Middle East (GCP),,1950,31.822
+Middle East (GCP),,1951,26.167
+Middle East (GCP),,1952,23.568
+Middle East (GCP),,1953,27.242
+Middle East (GCP),,1954,32.736
+Middle East (GCP),,1955,50.259
+Middle East (GCP),,1956,59.26
+Middle East (GCP),,1957,61.77
+Middle East (GCP),,1958,67.166
+Middle East (GCP),,1959,70.768
+Middle East (GCP),,1960,90.276
+Middle East (GCP),,1961,94.484
+Middle East (GCP),,1962,109.295
+Middle East (GCP),,1963,123.593
+Middle East (GCP),,1964,144.773
+Middle East (GCP),,1965,172.795
+Middle East (GCP),,1966,198.951
+Middle East (GCP),,1967,205.539
+Middle East (GCP),,1968,236.683
+Middle East (GCP),,1969,268.463
+Middle East (GCP),,1970,285.36
+Middle East (GCP),,1971,334.438
+Middle East (GCP),,1972,360.851
+Middle East (GCP),,1973,428.529
+Middle East (GCP),,1974,443.753
+Middle East (GCP),,1975,434.497
+Middle East (GCP),,1976,508.131
+Middle East (GCP),,1977,534.502
+Middle East (GCP),,1978,536.66
+Middle East (GCP),,1979,569.76
+Middle East (GCP),,1980,554.905
+Middle East (GCP),,1981,552.828
+Middle East (GCP),,1982,564.996
+Middle East (GCP),,1983,595.525
+Middle East (GCP),,1984,623.953
+Middle East (GCP),,1985,672.542
+Middle East (GCP),,1986,715.504
+Middle East (GCP),,1987,731.73
+Middle East (GCP),,1988,779.401
+Middle East (GCP),,1989,824.379
+Middle East (GCP),,1990,823.26
+Middle East (GCP),,1991,893.303
+Middle East (GCP),,1992,984.961
+Middle East (GCP),,1993,1069.789
+Middle East (GCP),,1994,1128.995
+Middle East (GCP),,1995,1139.91
+Middle East (GCP),,1996,1158.876
+Middle East (GCP),,1997,1142.882
+Middle East (GCP),,1998,1183.07
+Middle East (GCP),,1999,1272.757
+Middle East (GCP),,2000,1406.76
+Middle East (GCP),,2001,1442.251
+Middle East (GCP),,2002,1453.808
+Middle East (GCP),,2003,1548.713
+Middle East (GCP),,2004,1655.777
+Middle East (GCP),,2005,1724.579
+Middle East (GCP),,2006,1831.428
+Middle East (GCP),,2007,1843.028
+Middle East (GCP),,2008,1984.284
+Middle East (GCP),,2009,2065.632
+Middle East (GCP),,2010,2178.652
+Middle East (GCP),,2011,2231.887
+Middle East (GCP),,2012,2381.427
+Middle East (GCP),,2013,2344.29
+Middle East (GCP),,2014,2387.181
+Middle East (GCP),,2015,2471.521
+Middle East (GCP),,2016,2520.702
+Middle East (GCP),,2017,2600.11
+Middle East (GCP),,2018,2596.707
+Middle East (GCP),,2019,2710.947
+Middle East (GCP),,2020,2653.588
+Middle East (GCP),,2021,2787.512
+Middle East (GCP),,2022,2790.371
+Middle East (GCP),,2023,2894.338
+Middle East (GCP),,2024,2968.607
+Non-OECD (GCP),,1850,0.112
+Non-OECD (GCP),,1851,0.0
+Non-OECD (GCP),,1852,0.0
+Non-OECD (GCP),,1853,0.0
+Non-OECD (GCP),,1854,0.0
+Non-OECD (GCP),,1855,0.341
+Non-OECD (GCP),,1856,0.722
+Non-OECD (GCP),,1857,0.798
+Non-OECD (GCP),,1858,1.727
+Non-OECD (GCP),,1859,1.972
+Non-OECD (GCP),,1860,2.227
+Non-OECD (GCP),,1861,2.453
+Non-OECD (GCP),,1862,2.506
+Non-OECD (GCP),,1863,2.506
+Non-OECD (GCP),,1864,2.894
+Non-OECD (GCP),,1865,3.015
+Non-OECD (GCP),,1866,5.313
+Non-OECD (GCP),,1867,4.903
+Non-OECD (GCP),,1868,4.873
+Non-OECD (GCP),,1869,5.611
+Non-OECD (GCP),,1870,5.988
+Non-OECD (GCP),,1871,7.508
+Non-OECD (GCP),,1872,7.962
+Non-OECD (GCP),,1873,7.726
+Non-OECD (GCP),,1874,8.848
+Non-OECD (GCP),,1875,9.444
+Non-OECD (GCP),,1876,10.865
+Non-OECD (GCP),,1877,11.106
+Non-OECD (GCP),,1878,15.708
+Non-OECD (GCP),,1879,15.91
+Non-OECD (GCP),,1880,18.127
+Non-OECD (GCP),,1881,19.128
+Non-OECD (GCP),,1882,20.406
+Non-OECD (GCP),,1883,23.414
+Non-OECD (GCP),,1884,24.559
+Non-OECD (GCP),,1885,26.064
+Non-OECD (GCP),,1886,26.718
+Non-OECD (GCP),,1887,29.044
+Non-OECD (GCP),,1888,30.922
+Non-OECD (GCP),,1889,34.77
+Non-OECD (GCP),,1890,37.595
+Non-OECD (GCP),,1891,41.006
+Non-OECD (GCP),,1892,44.471
+Non-OECD (GCP),,1893,52.08
+Non-OECD (GCP),,1894,54.15
+Non-OECD (GCP),,1895,62.527
+Non-OECD (GCP),,1896,65.383
+Non-OECD (GCP),,1897,73.71
+Non-OECD (GCP),,1898,83.384
+Non-OECD (GCP),,1899,93.225
+Non-OECD (GCP),,1900,99.709
+Non-OECD (GCP),,1901,106.672
+Non-OECD (GCP),,1902,107.359
+Non-OECD (GCP),,1903,110.248
+Non-OECD (GCP),,1904,123.017
+Non-OECD (GCP),,1905,118.787
+Non-OECD (GCP),,1906,137.426
+Non-OECD (GCP),,1907,173.417
+Non-OECD (GCP),,1908,182.136
+Non-OECD (GCP),,1909,191.228
+Non-OECD (GCP),,1910,194.844
+Non-OECD (GCP),,1911,203.415
+Non-OECD (GCP),,1912,213.909
+Non-OECD (GCP),,1913,241.106
+Non-OECD (GCP),,1914,225.192
+Non-OECD (GCP),,1915,211.74
+Non-OECD (GCP),,1916,225.964
+Non-OECD (GCP),,1917,222.416
+Non-OECD (GCP),,1918,170.914
+Non-OECD (GCP),,1919,179.761
+Non-OECD (GCP),,1920,182.395
+Non-OECD (GCP),,1921,186.131
+Non-OECD (GCP),,1922,199.61
+Non-OECD (GCP),,1923,225.98
+Non-OECD (GCP),,1924,250.635
+Non-OECD (GCP),,1925,255.49
+Non-OECD (GCP),,1926,284.168
+Non-OECD (GCP),,1927,315.914
+Non-OECD (GCP),,1928,340.989
+Non-OECD (GCP),,1929,361.913
+Non-OECD (GCP),,1930,400.967
+Non-OECD (GCP),,1931,421.916
+Non-OECD (GCP),,1932,444.153
+Non-OECD (GCP),,1933,480.619
+Non-OECD (GCP),,1934,561.724
+Non-OECD (GCP),,1935,623.342
+Non-OECD (GCP),,1936,685.229
+Non-OECD (GCP),,1937,717.553
+Non-OECD (GCP),,1938,735.959
+Non-OECD (GCP),,1939,770.217
+Non-OECD (GCP),,1940,874.855
+Non-OECD (GCP),,1941,823.058
+Non-OECD (GCP),,1942,636.198
+Non-OECD (GCP),,1943,634.148
+Non-OECD (GCP),,1944,742.393
+Non-OECD (GCP),,1945,721.895
+Non-OECD (GCP),,1946,778.914
+Non-OECD (GCP),,1947,908.659
+Non-OECD (GCP),,1948,940.96
+Non-OECD (GCP),,1949,1003.138
+Non-OECD (GCP),,1950,1129.766
+Non-OECD (GCP),,1951,1241.93
+Non-OECD (GCP),,1952,1348.384
+Non-OECD (GCP),,1953,1411.245
+Non-OECD (GCP),,1954,1561.06
+Non-OECD (GCP),,1955,1783.861
+Non-OECD (GCP),,1956,1955.155
+Non-OECD (GCP),,1957,2138.98
+Non-OECD (GCP),,1958,2511.231
+Non-OECD (GCP),,1959,2817.117
+Non-OECD (GCP),,1960,3004.149
+Non-OECD (GCP),,1961,2861.646
+Non-OECD (GCP),,1962,2892.469
+Non-OECD (GCP),,1963,3053.674
+Non-OECD (GCP),,1964,3241.076
+Non-OECD (GCP),,1965,3482.825
+Non-OECD (GCP),,1966,3705.296
+Non-OECD (GCP),,1967,3785.77
+Non-OECD (GCP),,1968,4006.294
+Non-OECD (GCP),,1969,4324.855
+Non-OECD (GCP),,1970,4779.512
+Non-OECD (GCP),,1971,5174.237
+Non-OECD (GCP),,1972,5437.049
+Non-OECD (GCP),,1973,5776.475
+Non-OECD (GCP),,1974,5964.37
+Non-OECD (GCP),,1975,6306.495
+Non-OECD (GCP),,1976,6642.769
+Non-OECD (GCP),,1977,6964.048
+Non-OECD (GCP),,1978,7351.438
+Non-OECD (GCP),,1979,7559.338
+Non-OECD (GCP),,1980,7719.243
+Non-OECD (GCP),,1981,7647.864
+Non-OECD (GCP),,1982,7894.855
+Non-OECD (GCP),,1983,8142.821
+Non-OECD (GCP),,1984,8430.647
+Non-OECD (GCP),,1985,9009.604
+Non-OECD (GCP),,1986,9272.382
+Non-OECD (GCP),,1987,9523.896
+Non-OECD (GCP),,1988,10007.497
+Non-OECD (GCP),,1989,10050.847
+Non-OECD (GCP),,1990,10130.485
+Non-OECD (GCP),,1991,10619.17
+Non-OECD (GCP),,1992,9857.377
+Non-OECD (GCP),,1993,10007.536
+Non-OECD (GCP),,1994,10023.255
+Non-OECD (GCP),,1995,10369.266
+Non-OECD (GCP),,1996,10643.44
+Non-OECD (GCP),,1997,10676.362
+Non-OECD (GCP),,1998,10538.351
+Non-OECD (GCP),,1999,10928.062
+Non-OECD (GCP),,2000,11242.157
+Non-OECD (GCP),,2001,11491.05
+Non-OECD (GCP),,2002,11949.757
+Non-OECD (GCP),,2003,13075.206
+Non-OECD (GCP),,2004,13823.908
+Non-OECD (GCP),,2005,14716.296
+Non-OECD (GCP),,2006,15710.91
+Non-OECD (GCP),,2007,16430.57
+Non-OECD (GCP),,2008,17325.91
+Non-OECD (GCP),,2009,17695.033
+Non-OECD (GCP),,2010,19017.867
+Non-OECD (GCP),,2011,20287.479
+Non-OECD (GCP),,2012,20934.553
+Non-OECD (GCP),,2013,21177.152
+Non-OECD (GCP),,2014,21552.881
+Non-OECD (GCP),,2015,21584.74
+Non-OECD (GCP),,2016,21700.916
+Non-OECD (GCP),,2017,22268.627
+Non-OECD (GCP),,2018,22922.354
+Non-OECD (GCP),,2019,23620.557
+Non-OECD (GCP),,2020,23176.334
+Non-OECD (GCP),,2021,24228.293
+Non-OECD (GCP),,2022,24901.666
+Non-OECD (GCP),,2023,25758.965
+Non-OECD (GCP),,2024,26233.051
+North America,,1785,0.004
+North America,,1786,0.004
+North America,,1787,0.004
+North America,,1788,0.004
+North America,,1789,0.004
+North America,,1790,0.004
+North America,,1791,0.004
+North America,,1792,0.004
+North America,,1793,0.004
+North America,,1794,0.004
+North America,,1795,0.004
+North America,,1796,0.004
+North America,,1797,0.004
+North America,,1798,0.004
+North America,,1799,0.004
+North America,,1800,0.256
+North America,,1801,0.271
+North America,,1802,0.293
+North America,,1803,0.3
+North America,,1804,0.337
+North America,,1805,0.344
+North America,,1806,0.337
+North America,,1807,0.381
+North America,,1808,0.396
+North America,,1809,0.407
+North America,,1810,0.421
+North America,,1811,0.451
+North America,,1812,0.487
+North America,,1813,0.524
+North America,,1814,0.564
+North America,,1815,0.605
+North America,,1816,0.667
+North America,,1817,0.722
+North America,,1818,0.784
+North America,,1819,0.766
+North America,,1820,0.795
+North America,,1821,0.832
+North America,,1822,0.868
+North America,,1823,0.905
+North America,,1824,1.019
+North America,,1825,1.14
+North America,,1826,1.319
+North America,,1827,1.451
+North America,,1828,1.598
+North America,,1829,1.799
+North America,,1830,2.092
+North America,,1831,2.268
+North America,,1832,3.026
+North America,,1833,3.532
+North America,,1834,3.386
+North America,,1835,4.32
+North America,,1836,4.734
+North America,,1837,5.309
+North America,,1838,5.034
+North America,,1839,5.522
+North America,,1840,5.877
+North America,,1841,6.218
+North America,,1842,6.921
+North America,,1843,7.768
+North America,,1844,9.31
+North America,,1845,11.208
+North America,,1846,12.736
+North America,,1847,15.103
+North America,,1848,16.825
+North America,,1849,18.269
+North America,,1850,19.852
+North America,,1851,24.703
+North America,,1852,26.875
+North America,,1853,30.265
+North America,,1854,33.284
+North America,,1855,38.311
+North America,,1856,40.609
+North America,,1857,41.639
+North America,,1858,42.266
+North America,,1859,45.961
+North America,,1860,48.122
+North America,,1861,46.591
+North America,,1862,48.634
+North America,,1863,55.906
+North America,,1864,60.117
+North America,,1865,60.45
+North America,,1866,61.101
+North America,,1867,75.109
+North America,,1868,83.909
+North America,,1869,95.07
+North America,,1870,100.494
+North America,,1871,105.425
+North America,,1872,128.8
+North America,,1873,141.792
+North America,,1874,136.607
+North America,,1875,138.314
+North America,,1876,135.278
+North America,,1877,149.839
+North America,,1878,146.595
+North America,,1879,178.436
+North America,,1880,204.775
+North America,,1881,216.661
+North America,,1882,242.977
+North America,,1883,262.347
+North America,,1884,277.188
+North America,,1885,281.432
+North America,,1886,297.307
+North America,,1887,318.908
+North America,,1888,388.686
+North America,,1889,348.532
+North America,,1890,416.106
+North America,,1891,444.136
+North America,,1892,467.781
+North America,,1893,472.058
+North America,,1894,442.609
+North America,,1895,496.786
+North America,,1896,498.858
+North America,,1897,519.146
+North America,,1898,565.556
+North America,,1899,650.26
+North America,,1900,689.275
+North America,,1901,752.325
+North America,,1902,797.931
+North America,,1903,931.599
+North America,,1904,925.116
+North America,,1905,1033.274
+North America,,1906,1085.844
+North America,,1907,1264.723
+North America,,1908,1114.123
+North America,,1909,1226.394
+North America,,1910,1340.182
+North America,,1911,1340.376
+North America,,1912,1432.892
+North America,,1913,1547.516
+North America,,1914,1409.812
+North America,,1915,1456.052
+North America,,1916,1626.382
+North America,,1917,1796.726
+North America,,1918,1880.819
+North America,,1919,1608.359
+North America,,1920,1913.852
+North America,,1921,1607.007
+North America,,1922,1604.142
+North America,,1923,2078.409
+North America,,1924,1861.293
+North America,,1925,1894.641
+North America,,1926,2039.606
+North America,,1927,1991.507
+North America,,1928,1954.095
+North America,,1929,2089.554
+North America,,1930,1864.993
+North America,,1931,1581.822
+North America,,1932,1348.416
+North America,,1933,1440.843
+North America,,1934,1540.83
+North America,,1935,1598.686
+North America,,1936,1828.469
+North America,,1937,1919.474
+North America,,1938,1635.001
+North America,,1939,1798.916
+North America,,1940,2018.419
+North America,,1941,2196.926
+North America,,1942,2359.615
+North America,,1943,2440.363
+North America,,1944,2616.9
+North America,,1945,2524.447
+North America,,1946,2432.983
+North America,,1947,2671.36
+North America,,1948,2784.729
+North America,,1949,2353.018
+North America,,1950,2744.908
+North America,,1951,2840.856
+North America,,1952,2768.36
+North America,,1953,2832.029
+North America,,1954,2718.288
+North America,,1955,2966.307
+North America,,1956,3124.125
+North America,,1957,3103.315
+North America,,1958,3022.799
+North America,,1959,3115.066
+North America,,1960,3189.234
+North America,,1961,3184.431
+North America,,1962,3309.484
+North America,,1963,3442.642
+North America,,1964,3621.586
+North America,,1965,3771.806
+North America,,1966,3956.434
+North America,,1967,4127.06
+North America,,1968,4289.618
+North America,,1969,4501.628
+North America,,1970,4862.542
+North America,,1971,4915.969
+North America,,1972,5161.936
+North America,,1973,5389.428
+North America,,1974,5238.351
+North America,,1975,5064.188
+North America,,1976,5308.195
+North America,,1977,5450.855
+North America,,1978,5632.973
+North America,,1979,5692.481
+North America,,1980,5541.655
+North America,,1981,5351.42
+North America,,1982,5126.822
+North America,,1983,5118.914
+North America,,1984,5276.948
+North America,,1985,5306.052
+North America,,1986,5282.712
+North America,,1987,5520.225
+North America,,1988,5750.681
+North America,,1989,5843.614
+North America,,1990,5999.264
+North America,,1991,5947.688
+North America,,1992,6065.276
+North America,,1993,6172.271
+North America,,1994,6286.338
+North America,,1995,6349.42
+North America,,1996,6557.365
+North America,,1997,6671.063
+North America,,1998,6760.881
+North America,,1999,6849.317
+North America,,2000,7111.529
+North America,,2001,7005.433
+North America,,2002,7062.446
+North America,,2003,7170.593
+North America,,2004,7269.826
+North America,,2005,7313.038
+North America,,2006,7249.32
+North America,,2007,7352.747
+North America,,2008,7133.122
+North America,,2009,6653.199
+North America,,2010,6851.849
+North America,,2011,6757.271
+North America,,2012,6565.685
+North America,,2013,6708.86
+North America,,2014,6754.714
+North America,,2015,6592.756
+North America,,2016,6453.526
+North America,,2017,6397.039
+North America,,2018,6576.287
+North America,,2019,6463.362
+North America,,2020,5798.35
+North America,,2021,6176.852
+North America,,2022,6236.024
+North America,,2023,6104.681
+North America,,2024,6084.276
+North America (GCP),,1850,19.852
+North America (GCP),,1851,24.703
+North America (GCP),,1852,26.875
+North America (GCP),,1853,30.265
+North America (GCP),,1854,33.284
+North America (GCP),,1855,38.311
+North America (GCP),,1856,40.224
+North America (GCP),,1857,41.279
+North America (GCP),,1858,41.928
+North America (GCP),,1859,45.643
+North America (GCP),,1860,47.824
+North America (GCP),,1861,46.149
+North America (GCP),,1862,48.042
+North America (GCP),,1863,55.535
+North America (GCP),,1864,59.506
+North America (GCP),,1865,59.861
+North America (GCP),,1866,60.51
+North America (GCP),,1867,74.475
+North America (GCP),,1868,83.309
+North America (GCP),,1869,94.385
+North America (GCP),,1870,99.854
+North America (GCP),,1871,104.814
+North America (GCP),,1872,128.177
+North America (GCP),,1873,141.149
+North America (GCP),,1874,135.954
+North America (GCP),,1875,137.661
+North America (GCP),,1876,134.715
+North America (GCP),,1877,149.245
+North America (GCP),,1878,145.9
+North America (GCP),,1879,177.733
+North America (GCP),,1880,204.177
+North America (GCP),,1881,216.05
+North America (GCP),,1882,242.36
+North America (GCP),,1883,261.745
+North America (GCP),,1884,276.593
+North America (GCP),,1885,280.815
+North America (GCP),,1886,296.722
+North America (GCP),,1887,318.259
+North America (GCP),,1888,387.959
+North America (GCP),,1889,347.713
+North America (GCP),,1890,415.281
+North America (GCP),,1891,443.153
+North America (GCP),,1892,466.687
+North America (GCP),,1893,471.034
+North America (GCP),,1894,441.481
+North America (GCP),,1895,495.711
+North America (GCP),,1896,497.968
+North America (GCP),,1897,518.309
+North America (GCP),,1898,564.653
+North America (GCP),,1899,649.253
+North America (GCP),,1900,688.264
+North America (GCP),,1901,751.237
+North America (GCP),,1902,796.87
+North America (GCP),,1903,930.297
+North America (GCP),,1904,923.678
+North America (GCP),,1905,1031.535
+North America (GCP),,1906,1083.807
+North America (GCP),,1907,1262.628
+North America (GCP),,1908,1112.049
+North America (GCP),,1909,1224.223
+North America (GCP),,1910,1337.516
+North America (GCP),,1911,1337.188
+North America (GCP),,1912,1429.164
+North America (GCP),,1913,1543.74
+North America (GCP),,1914,1406.259
+North America (GCP),,1915,1452.345
+North America (GCP),,1916,1622.104
+North America (GCP),,1917,1792.05
+North America (GCP),,1918,1876.027
+North America (GCP),,1919,1604.885
+North America (GCP),,1920,1909.21
+North America (GCP),,1921,1604.381
+North America (GCP),,1922,1601.727
+North America (GCP),,1923,2075.336
+North America (GCP),,1924,1858.004
+North America (GCP),,1925,1890.939
+North America (GCP),,1926,2035.938
+North America (GCP),,1927,1987.698
+North America (GCP),,1928,1949.198
+North America (GCP),,1929,2085.019
+North America (GCP),,1930,1859.983
+North America (GCP),,1931,1577.757
+North America (GCP),,1932,1344.347
+North America (GCP),,1933,1435.99
+North America (GCP),,1934,1535.217
+North America (GCP),,1935,1592.779
+North America (GCP),,1936,1821.788
+North America (GCP),,1937,1911.224
+North America (GCP),,1938,1625.769
+North America (GCP),,1939,1788.75
+North America (GCP),,1940,2006.985
+North America (GCP),,1941,2186.447
+North America (GCP),,1942,2348.459
+North America (GCP),,1943,2429.319
+North America (GCP),,1944,2605.576
+North America (GCP),,1945,2512.842
+North America (GCP),,1946,2421.539
+North America (GCP),,1947,2658.754
+North America (GCP),,1948,2771.574
+North America (GCP),,1949,2338.843
+North America (GCP),,1950,2726.24
+North America (GCP),,1951,2816.396
+North America (GCP),,1952,2747.976
+North America (GCP),,1953,2810.44
+North America (GCP),,1954,2688.836
+North America (GCP),,1955,2937.892
+North America (GCP),,1956,3092.1
+North America (GCP),,1957,3068.066
+North America (GCP),,1958,2983.538
+North America (GCP),,1959,3074.944
+North America (GCP),,1960,3153.337
+North America (GCP),,1961,3146.443
+North America (GCP),,1962,3264.93
+North America (GCP),,1963,3404.053
+North America (GCP),,1964,3576.447
+North America (GCP),,1965,3727.009
+North America (GCP),,1966,3911.769
+North America (GCP),,1967,4077.573
+North America (GCP),,1968,4238.654
+North America (GCP),,1969,4444.891
+North America (GCP),,1970,4795.305
+North America (GCP),,1971,4844.499
+North America (GCP),,1972,5086.731
+North America (GCP),,1973,5303.662
+North America (GCP),,1974,5153.396
+North America (GCP),,1975,4975.888
+North America (GCP),,1976,5204.466
+North America (GCP),,1977,5350.388
+North America (GCP),,1978,5535.344
+North America (GCP),,1979,5591.233
+North America (GCP),,1980,5441.307
+North America (GCP),,1981,5257.41
+North America (GCP),,1982,5030.694
+North America (GCP),,1983,5032.542
+North America (GCP),,1984,5181.712
+North America (GCP),,1985,5204.828
+North America (GCP),,1986,5196.444
+North America (GCP),,1987,5428.988
+North America (GCP),,1988,5659.479
+North America (GCP),,1989,5746.918
+North America (GCP),,1990,5907.24
+North America (GCP),,1991,5856.732
+North America (GCP),,1992,5975.306
+North America (GCP),,1993,6081.933
+North America (GCP),,1994,6192.43
+North America (GCP),,1995,6248.651
+North America (GCP),,1996,6451.079
+North America (GCP),,1997,6558.293
+North America (GCP),,1998,6647.728
+North America (GCP),,1999,6730.827
+North America (GCP),,2000,6981.995
+North America (GCP),,2001,6870.7
+North America (GCP),,2002,6923.014
+North America (GCP),,2003,7024.311
+North America (GCP),,2004,7127.101
+North America (GCP),,2005,7161.424
+North America (GCP),,2006,7086.87
+North America (GCP),,2007,7185.792
+North America (GCP),,2008,6967.133
+North America (GCP),,2009,6488.163
+North America (GCP),,2010,6680.689
+North America (GCP),,2011,6585.878
+North America (GCP),,2012,6395.342
+North America (GCP),,2013,6538.066
+North America (GCP),,2014,6580.936
+North America (GCP),,2015,6411.546
+North America (GCP),,2016,6278.472
+North America (GCP),,2017,6227.086
+North America (GCP),,2018,6405.33
+North America (GCP),,2019,6283.747
+North America (GCP),,2020,5643.71
+North America (GCP),,2021,6005.028
+North America (GCP),,2022,6057.5
+North America (GCP),,2023,5922.802
+North America (GCP),,2024,5899.122
+North America (excl. USA),,1785,0.004
+North America (excl. USA),,1786,0.004
+North America (excl. USA),,1787,0.004
+North America (excl. USA),,1788,0.004
+North America (excl. USA),,1789,0.004
+North America (excl. USA),,1790,0.004
+North America (excl. USA),,1791,0.004
+North America (excl. USA),,1792,0.004
+North America (excl. USA),,1793,0.004
+North America (excl. USA),,1794,0.004
+North America (excl. USA),,1795,0.004
+North America (excl. USA),,1796,0.004
+North America (excl. USA),,1797,0.004
+North America (excl. USA),,1798,0.004
+North America (excl. USA),,1799,0.004
+North America (excl. USA),,1800,0.004
+North America (excl. USA),,1801,0.004
+North America (excl. USA),,1802,0.004
+North America (excl. USA),,1803,0.004
+North America (excl. USA),,1804,0.004
+North America (excl. USA),,1805,0.004
+North America (excl. USA),,1806,0.004
+North America (excl. USA),,1807,0.004
+North America (excl. USA),,1808,0.004
+North America (excl. USA),,1809,0.004
+North America (excl. USA),,1810,0.004
+North America (excl. USA),,1811,0.004
+North America (excl. USA),,1812,0.004
+North America (excl. USA),,1813,0.004
+North America (excl. USA),,1814,0.004
+North America (excl. USA),,1815,0.004
+North America (excl. USA),,1816,0.004
+North America (excl. USA),,1817,0.004
+North America (excl. USA),,1818,0.004
+North America (excl. USA),,1819,0.004
+North America (excl. USA),,1820,0.004
+North America (excl. USA),,1821,0.004
+North America (excl. USA),,1822,0.004
+North America (excl. USA),,1823,0.004
+North America (excl. USA),,1824,0.004
+North America (excl. USA),,1825,0.004
+North America (excl. USA),,1826,0.004
+North America (excl. USA),,1827,0.004
+North America (excl. USA),,1828,0.004
+North America (excl. USA),,1829,0.004
+North America (excl. USA),,1830,0.004
+North America (excl. USA),,1831,0.004
+North America (excl. USA),,1832,0.004
+North America (excl. USA),,1833,0.004
+North America (excl. USA),,1834,0.004
+North America (excl. USA),,1835,0.004
+North America (excl. USA),,1836,0.004
+North America (excl. USA),,1837,0.004
+North America (excl. USA),,1838,0.004
+North America (excl. USA),,1839,0.004
+North America (excl. USA),,1840,0.004
+North America (excl. USA),,1841,0.004
+North America (excl. USA),,1842,0.004
+North America (excl. USA),,1843,0.004
+North America (excl. USA),,1844,0.004
+North America (excl. USA),,1845,0.004
+North America (excl. USA),,1846,0.026
+North America (excl. USA),,1847,0.033
+North America (excl. USA),,1848,0.04
+North America (excl. USA),,1849,0.048
+North America (excl. USA),,1850,0.059
+North America (excl. USA),,1851,0.07
+North America (excl. USA),,1852,0.084
+North America (excl. USA),,1853,0.103
+North America (excl. USA),,1854,0.125
+North America (excl. USA),,1855,0.15
+North America (excl. USA),,1856,0.572
+North America (excl. USA),,1857,0.584
+North America (excl. USA),,1858,0.618
+North America (excl. USA),,1859,0.641
+North America (excl. USA),,1860,0.684
+North America (excl. USA),,1861,0.912
+North America (excl. USA),,1862,1.186
+North America (excl. USA),,1863,1.096
+North America (excl. USA),,1864,1.46
+North America (excl. USA),,1865,1.628
+North America (excl. USA),,1866,1.869
+North America (excl. USA),,1867,2.243
+North America (excl. USA),,1868,1.557
+North America (excl. USA),,1869,1.374
+North America (excl. USA),,1870,1.874
+North America (excl. USA),,1871,2.404
+North America (excl. USA),,1872,2.494
+North America (excl. USA),,1873,2.286
+North America (excl. USA),,1874,2.31
+North America (excl. USA),,1875,2.567
+North America (excl. USA),,1876,2.458
+North America (excl. USA),,1877,2.664
+North America (excl. USA),,1878,2.691
+North America (excl. USA),,1879,2.968
+North America (excl. USA),,1880,5.918
+North America (excl. USA),,1881,6.261
+North America (excl. USA),,1882,7.313
+North America (excl. USA),,1883,8.116
+North America (excl. USA),,1884,9.266
+North America (excl. USA),,1885,8.926
+North America (excl. USA),,1886,9.47
+North America (excl. USA),,1887,10.972
+North America (excl. USA),,1888,14.271
+North America (excl. USA),,1889,12.409
+North America (excl. USA),,1890,13.694
+North America (excl. USA),,1891,16.029
+North America (excl. USA),,1892,16.605
+North America (excl. USA),,1893,17.298
+North America (excl. USA),,1894,16.864
+North America (excl. USA),,1895,16.113
+North America (excl. USA),,1896,17.186
+North America (excl. USA),,1897,17.946
+North America (excl. USA),,1898,19.228
+North America (excl. USA),,1899,23.437
+North America (excl. USA),,1900,25.143
+North America (excl. USA),,1901,29.133
+North America (excl. USA),,1902,31.279
+North America (excl. USA),,1903,34.646
+North America (excl. USA),,1904,40.313
+North America (excl. USA),,1905,43.283
+North America (excl. USA),,1906,45.88
+North America (excl. USA),,1907,56.236
+North America (excl. USA),,1908,56.602
+North America (excl. USA),,1909,54.743
+North America (excl. USA),,1910,61.653
+North America (excl. USA),,1911,74.6
+North America (excl. USA),,1912,81.875
+North America (excl. USA),,1913,96.661
+North America (excl. USA),,1914,83.868
+North America (excl. USA),,1915,80.6
+North America (excl. USA),,1916,99.142
+North America (excl. USA),,1917,117.395
+North America (excl. USA),,1918,126.702
+North America (excl. USA),,1919,121.926
+North America (excl. USA),,1920,166.685
+North America (excl. USA),,1921,174.528
+North America (excl. USA),,1922,158.129
+North America (excl. USA),,1923,169.374
+North America (excl. USA),,1924,149.606
+North America (excl. USA),,1925,136.455
+North America (excl. USA),,1926,133.557
+North America (excl. USA),,1927,128.668
+North America (excl. USA),,1928,123.13
+North America (excl. USA),,1929,126.048
+North America (excl. USA),,1930,120.076
+North America (excl. USA),,1931,96.863
+North America (excl. USA),,1932,90.602
+North America (excl. USA),,1933,91.966
+North America (excl. USA),,1934,104.591
+North America (excl. USA),,1935,106.365
+North America (excl. USA),,1936,115.057
+North America (excl. USA),,1937,126.864
+North America (excl. USA),,1938,119.251
+North America (excl. USA),,1939,127.996
+North America (excl. USA),,1940,143.434
+North America (excl. USA),,1941,153.341
+North America (excl. USA),,1942,161.35
+North America (excl. USA),,1943,168.303
+North America (excl. USA),,1944,171.996
+North America (excl. USA),,1945,164.895
+North America (excl. USA),,1946,175.489
+North America (excl. USA),,1947,185.506
+North America (excl. USA),,1948,202.17
+North America (excl. USA),,1949,188.156
+North America (excl. USA),,1950,203.423
+North America (excl. USA),,1951,222.152
+North America (excl. USA),,1952,217.144
+North America (excl. USA),,1953,219.058
+North America (excl. USA),,1954,228.826
+North America (excl. USA),,1955,237.798
+North America (excl. USA),,1956,264.137
+North America (excl. USA),,1957,267.543
+North America (excl. USA),,1958,275.691
+North America (excl. USA),,1959,283.158
+North America (excl. USA),,1960,291.927
+North America (excl. USA),,1961,297.569
+North America (excl. USA),,1962,315.585
+North America (excl. USA),,1963,316.158
+North America (excl. USA),,1964,357.28
+North America (excl. USA),,1965,372.267
+North America (excl. USA),,1966,385.016
+North America (excl. USA),,1967,421.599
+North America (excl. USA),,1968,448.695
+North America (excl. USA),,1969,466.472
+North America (excl. USA),,1970,522.837
+North America (excl. USA),,1971,550.486
+North America (excl. USA),,1972,588.902
+North America (excl. USA),,1973,611.703
+North America (excl. USA),,1974,629.889
+North America (excl. USA),,1975,649.733
+North America (excl. USA),,1976,686.656
+North America (excl. USA),,1977,701.354
+North America (excl. USA),,1978,735.634
+North America (excl. USA),,1979,783.715
+North America (excl. USA),,1980,811.436
+North America (excl. USA),,1981,807.787
+North America (excl. USA),,1982,814.903
+North America (excl. USA),,1983,772.532
+North America (excl. USA),,1984,797.569
+North America (excl. USA),,1985,810.673
+North America (excl. USA),,1986,784.577
+North America (excl. USA),,1987,828.295
+North America (excl. USA),,1988,852.904
+North America (excl. USA),,1989,883.377
+North America (excl. USA),,1990,867.503
+North America (excl. USA),,1991,871.276
+North America (excl. USA),,1992,886.506
+North America (excl. USA),,1993,892.751
+North America (excl. USA),,1994,924.475
+North America (excl. USA),,1995,923.582
+North America (excl. USA),,1996,956.271
+North America (excl. USA),,1997,997.919
+North America (excl. USA),,1998,1024.521
+North America (excl. USA),,1999,1049.036
+North America (excl. USA),,2000,1088.371
+North America (excl. USA),,2001,1101.87
+North America (excl. USA),,2002,1114.626
+North America (excl. USA),,2003,1164.153
+North America (excl. USA),,2004,1158.281
+North America (excl. USA),,2005,1186.135
+North America (excl. USA),,2006,1203.994
+North America (excl. USA),,2007,1231.204
+North America (excl. USA),,2008,1213.901
+North America (excl. USA),,2009,1167.095
+North America (excl. USA),,2010,1182.599
+North America (excl. USA),,2011,1218.298
+North America (excl. USA),,2012,1234.218
+North America (excl. USA),,2013,1235.424
+North America (excl. USA),,2014,1223.329
+North America (excl. USA),,2015,1224.259
+North America (excl. USA),,2016,1208.164
+North America (excl. USA),,2017,1201.621
+North America (excl. USA),,2018,1215.051
+North America (excl. USA),,2019,1227.45
+North America (excl. USA),,2020,1108.396
+North America (excl. USA),,2021,1156.741
+North America (excl. USA),,2022,1180.621
+North America (excl. USA),,2023,1186.274
+North America (excl. USA),,2024,1180.156
+OECD (GCP),,1850,196.735
+OECD (GCP),,1851,198.779
+OECD (GCP),,1852,207.595
+OECD (GCP),,1853,217.237
+OECD (GCP),,1854,255.039
+OECD (GCP),,1855,259.919
+OECD (GCP),,1856,277.524
+OECD (GCP),,1857,280.383
+OECD (GCP),,1858,283.822
+OECD (GCP),,1859,300.6
+OECD (GCP),,1860,330.071
+OECD (GCP),,1861,346.737
+OECD (GCP),,1862,353.485
+OECD (GCP),,1863,377.029
+OECD (GCP),,1864,406.631
+OECD (GCP),,1865,431.837
+OECD (GCP),,1866,443.754
+OECD (GCP),,1867,475.911
+OECD (GCP),,1868,489.62
+OECD (GCP),,1869,519.12
+OECD (GCP),,1870,530.135
+OECD (GCP),,1871,562.269
+OECD (GCP),,1872,623.0
+OECD (GCP),,1873,662.741
+OECD (GCP),,1874,619.814
+OECD (GCP),,1875,671.604
+OECD (GCP),,1876,679.717
+OECD (GCP),,1877,692.927
+OECD (GCP),,1878,693.941
+OECD (GCP),,1879,743.884
+OECD (GCP),,1880,840.101
+OECD (GCP),,1881,869.044
+OECD (GCP),,1882,917.752
+OECD (GCP),,1883,974.448
+OECD (GCP),,1884,985.203
+OECD (GCP),,1885,991.425
+OECD (GCP),,1886,1006.269
+OECD (GCP),,1887,1055.239
+OECD (GCP),,1888,1170.42
+OECD (GCP),,1889,1167.327
+OECD (GCP),,1890,1269.661
+OECD (GCP),,1891,1328.592
+OECD (GCP),,1892,1336.065
+OECD (GCP),,1893,1311.1
+OECD (GCP),,1894,1358.078
+OECD (GCP),,1895,1433.436
+OECD (GCP),,1896,1480.068
+OECD (GCP),,1897,1544.695
+OECD (GCP),,1898,1623.583
+OECD (GCP),,1899,1771.199
+OECD (GCP),,1900,1863.175
+OECD (GCP),,1901,1918.956
+OECD (GCP),,1902,1969.597
+OECD (GCP),,1903,2154.344
+OECD (GCP),,1904,2167.238
+OECD (GCP),,1905,2321.783
+OECD (GCP),,1906,2411.552
+OECD (GCP),,1907,2731.532
+OECD (GCP),,1908,2608.259
+OECD (GCP),,1909,2715.884
+OECD (GCP),,1910,2855.429
+OECD (GCP),,1911,2893.793
+OECD (GCP),,1912,3040.02
+OECD (GCP),,1913,3283.74
+OECD (GCP),,1914,2972.558
+OECD (GCP),,1915,2936.29
+OECD (GCP),,1916,3174.268
+OECD (GCP),,1917,3334.083
+OECD (GCP),,1918,3335.171
+OECD (GCP),,1919,2861.352
+OECD (GCP),,1920,3364.363
+OECD (GCP),,1921,2928.863
+OECD (GCP),,1922,3065.107
+OECD (GCP),,1923,3477.016
+OECD (GCP),,1924,3465.508
+OECD (GCP),,1925,3485.143
+OECD (GCP),,1926,3393.239
+OECD (GCP),,1927,3697.032
+OECD (GCP),,1928,3655.322
+OECD (GCP),,1929,3926.297
+OECD (GCP),,1930,3557.128
+OECD (GCP),,1931,3117.402
+OECD (GCP),,1932,2748.437
+OECD (GCP),,1933,2882.063
+OECD (GCP),,1934,3094.462
+OECD (GCP),,1935,3212.399
+OECD (GCP),,1936,3522.7
+OECD (GCP),,1937,3779.161
+OECD (GCP),,1938,3493.657
+OECD (GCP),,1939,3699.915
+OECD (GCP),,1940,4009.806
+OECD (GCP),,1941,4176.032
+OECD (GCP),,1942,4346.326
+OECD (GCP),,1943,4441.125
+OECD (GCP),,1944,4420.092
+OECD (GCP),,1945,3567.417
+OECD (GCP),,1946,3829.632
+OECD (GCP),,1947,4256.545
+OECD (GCP),,1948,4506.922
+OECD (GCP),,1949,4200.896
+OECD (GCP),,1950,4669.927
+OECD (GCP),,1951,4984.257
+OECD (GCP),,1952,4961.189
+OECD (GCP),,1953,5076.116
+OECD (GCP),,1954,5064.592
+OECD (GCP),,1955,5471.957
+OECD (GCP),,1956,5769.04
+OECD (GCP),,1957,5822.627
+OECD (GCP),,1958,5697.853
+OECD (GCP),,1959,5824.212
+OECD (GCP),,1960,6146.15
+OECD (GCP),,1961,6291.829
+OECD (GCP),,1962,6583.725
+OECD (GCP),,1963,6929.065
+OECD (GCP),,1964,7272.028
+OECD (GCP),,1965,7505.879
+OECD (GCP),,1966,7808.979
+OECD (GCP),,1967,8078.903
+OECD (GCP),,1968,8504.911
+OECD (GCP),,1969,9024.569
+OECD (GCP),,1970,9685.183
+OECD (GCP),,1971,9870.694
+OECD (GCP),,1972,10297.938
+OECD (GCP),,1973,10777.036
+OECD (GCP),,1974,10547.168
+OECD (GCP),,1975,10236.945
+OECD (GCP),,1976,10783.566
+OECD (GCP),,1977,10947.88
+OECD (GCP),,1978,11220.084
+OECD (GCP),,1979,11494.394
+OECD (GCP),,1980,11246.234
+OECD (GCP),,1981,10821.723
+OECD (GCP),,1982,10463.501
+OECD (GCP),,1983,10402.196
+OECD (GCP),,1984,10668.451
+OECD (GCP),,1985,10769.397
+OECD (GCP),,1986,10773.483
+OECD (GCP),,1987,11056.187
+OECD (GCP),,1988,11366.951
+OECD (GCP),,1989,11585.415
+OECD (GCP),,1990,12053.789
+OECD (GCP),,1991,12043.75
+OECD (GCP),,1992,12109.229
+OECD (GCP),,1993,12184.901
+OECD (GCP),,1994,12366.514
+OECD (GCP),,1995,12530.114
+OECD (GCP),,1996,12921.521
+OECD (GCP),,1997,13000.677
+OECD (GCP),,1998,13011.106
+OECD (GCP),,1999,13136.289
+OECD (GCP),,2000,13485.808
+OECD (GCP),,2001,13424.44
+OECD (GCP),,2002,13518.729
+OECD (GCP),,2003,13748.225
+OECD (GCP),,2004,13882.649
+OECD (GCP),,2005,13943.427
+OECD (GCP),,2006,13892.646
+OECD (GCP),,2007,14020.433
+OECD (GCP),,2008,13665.57
+OECD (GCP),,2009,12803.931
+OECD (GCP),,2010,13227.773
+OECD (GCP),,2011,13086.457
+OECD (GCP),,2012,12926.088
+OECD (GCP),,2013,12988.472
+OECD (GCP),,2014,12796.966
+OECD (GCP),,2015,12666.168
+OECD (GCP),,2016,12522.836
+OECD (GCP),,2017,12504.867
+OECD (GCP),,2018,12575.275
+OECD (GCP),,2019,12226.434
+OECD (GCP),,2020,11142.346
+OECD (GCP),,2021,11759.488
+OECD (GCP),,2022,11660.435
+OECD (GCP),,2023,11252.323
+OECD (GCP),,2024,11173.062
+Oceania,,1750,0.0
+Oceania,,1751,0.0
+Oceania,,1752,0.0
+Oceania,,1753,0.0
+Oceania,,1754,0.0
+Oceania,,1755,0.0
+Oceania,,1756,0.0
+Oceania,,1757,0.0
+Oceania,,1758,0.0
+Oceania,,1759,0.0
+Oceania,,1760,0.0
+Oceania,,1761,0.0
+Oceania,,1762,0.0
+Oceania,,1763,0.0
+Oceania,,1764,0.0
+Oceania,,1765,0.0
+Oceania,,1766,0.0
+Oceania,,1767,0.0
+Oceania,,1768,0.0
+Oceania,,1769,0.0
+Oceania,,1770,0.0
+Oceania,,1771,0.0
+Oceania,,1772,0.0
+Oceania,,1773,0.0
+Oceania,,1774,0.0
+Oceania,,1775,0.0
+Oceania,,1776,0.0
+Oceania,,1777,0.0
+Oceania,,1778,0.0
+Oceania,,1779,0.0
+Oceania,,1780,0.0
+Oceania,,1781,0.0
+Oceania,,1782,0.0
+Oceania,,1783,0.0
+Oceania,,1784,0.0
+Oceania,,1785,0.0
+Oceania,,1786,0.0
+Oceania,,1787,0.0
+Oceania,,1788,0.0
+Oceania,,1789,0.0
+Oceania,,1790,0.0
+Oceania,,1791,0.0
+Oceania,,1792,0.0
+Oceania,,1793,0.0
+Oceania,,1794,0.0
+Oceania,,1795,0.0
+Oceania,,1796,0.0
+Oceania,,1797,0.0
+Oceania,,1798,0.0
+Oceania,,1799,0.0
+Oceania,,1800,0.0
+Oceania,,1801,0.0
+Oceania,,1802,0.0
+Oceania,,1803,0.0
+Oceania,,1804,0.0
+Oceania,,1805,0.0
+Oceania,,1806,0.001
+Oceania,,1807,0.001
+Oceania,,1808,0.001
+Oceania,,1809,0.001
+Oceania,,1810,0.001
+Oceania,,1811,0.002
+Oceania,,1812,0.002
+Oceania,,1813,0.003
+Oceania,,1814,0.003
+Oceania,,1815,0.003
+Oceania,,1816,0.002
+Oceania,,1817,0.002
+Oceania,,1818,0.002
+Oceania,,1819,0.004
+Oceania,,1820,0.006
+Oceania,,1821,0.003
+Oceania,,1822,0.004
+Oceania,,1823,0.005
+Oceania,,1824,0.005
+Oceania,,1825,0.003
+Oceania,,1826,0.006
+Oceania,,1827,0.006
+Oceania,,1828,0.004
+Oceania,,1829,0.006
+Oceania,,1830,0.006
+Oceania,,1831,0.001
+Oceania,,1832,0.011
+Oceania,,1833,0.011
+Oceania,,1834,0.013
+Oceania,,1835,0.019
+Oceania,,1836,0.02
+Oceania,,1837,0.025
+Oceania,,1838,0.027
+Oceania,,1839,0.033
+Oceania,,1840,0.048
+Oceania,,1841,0.055
+Oceania,,1842,0.063
+Oceania,,1843,0.041
+Oceania,,1844,0.036
+Oceania,,1845,0.035
+Oceania,,1846,0.061
+Oceania,,1847,0.064
+Oceania,,1848,0.072
+Oceania,,1849,0.076
+Oceania,,1850,0.112
+Oceania,,1851,0.106
+Oceania,,1852,0.106
+Oceania,,1853,0.152
+Oceania,,1854,0.184
+Oceania,,1855,0.216
+Oceania,,1856,0.299
+Oceania,,1857,0.331
+Oceania,,1858,0.34
+Oceania,,1859,0.485
+Oceania,,1860,0.6
+Oceania,,1861,0.561
+Oceania,,1862,0.788
+Oceania,,1863,0.72
+Oceania,,1864,0.903
+Oceania,,1865,0.974
+Oceania,,1866,1.28
+Oceania,,1867,1.24
+Oceania,,1868,1.532
+Oceania,,1869,1.465
+Oceania,,1870,1.402
+Oceania,,1871,1.441
+Oceania,,1872,1.637
+Oceania,,1873,1.931
+Oceania,,1874,2.126
+Oceania,,1875,2.143
+Oceania,,1876,2.158
+Oceania,,1877,2.372
+Oceania,,1878,2.917
+Oceania,,1879,3.084
+Oceania,,1880,3.073
+Oceania,,1881,3.642
+Oceania,,1882,4.278
+Oceania,,1883,5.074
+Oceania,,1884,5.591
+Oceania,,1885,6.0
+Oceania,,1886,6.009
+Oceania,,1887,6.261
+Oceania,,1888,6.972
+Oceania,,1889,7.562
+Oceania,,1890,6.872
+Oceania,,1891,8.376
+Oceania,,1892,7.962
+Oceania,,1893,7.316
+Oceania,,1894,8.13
+Oceania,,1895,8.374
+Oceania,,1896,8.937
+Oceania,,1897,9.783
+Oceania,,1898,10.536
+Oceania,,1899,10.873
+Oceania,,1900,12.608
+Oceania,,1901,14.18
+Oceania,,1902,14.436
+Oceania,,1903,14.394
+Oceania,,1904,14.977
+Oceania,,1905,15.592
+Oceania,,1906,18.22
+Oceania,,1907,19.572
+Oceania,,1908,20.943
+Oceania,,1909,18.845
+Oceania,,1910,22.609
+Oceania,,1911,24.136
+Oceania,,1912,26.073
+Oceania,,1913,27.015
+Oceania,,1914,30.004
+Oceania,,1915,27.201
+Oceania,,1916,24.892
+Oceania,,1917,25.951
+Oceania,,1918,27.908
+Oceania,,1919,26.315
+Oceania,,1920,29.864
+Oceania,,1921,27.284
+Oceania,,1922,28.483
+Oceania,,1923,29.521
+Oceania,,1924,32.181
+Oceania,,1925,33.721
+Oceania,,1926,33.859
+Oceania,,1927,35.765
+Oceania,,1928,33.733
+Oceania,,1929,31.8
+Oceania,,1930,30.765
+Oceania,,1931,26.79
+Oceania,,1932,26.59
+Oceania,,1933,28.328
+Oceania,,1934,30.191
+Oceania,,1935,33.109
+Oceania,,1936,35.69
+Oceania,,1937,38.137
+Oceania,,1938,37.942
+Oceania,,1939,42.445
+Oceania,,1940,40.105
+Oceania,,1941,44.335
+Oceania,,1942,47.123
+Oceania,,1943,46.564
+Oceania,,1944,46.496
+Oceania,,1945,44.779
+Oceania,,1946,48.272
+Oceania,,1947,50.228
+Oceania,,1948,52.515
+Oceania,,1949,53.673
+Oceania,,1950,64.611
+Oceania,,1951,69.709
+Oceania,,1952,72.459
+Oceania,,1953,72.235
+Oceania,,1954,77.786
+Oceania,,1955,82.424
+Oceania,,1956,86.718
+Oceania,,1957,87.256
+Oceania,,1958,89.267
+Oceania,,1959,94.413
+Oceania,,1960,100.295
+Oceania,,1961,100.181
+Oceania,,1962,103.294
+Oceania,,1963,109.548
+Oceania,,1964,118.718
+Oceania,,1965,129.479
+Oceania,,1966,132.279
+Oceania,,1967,138.611
+Oceania,,1968,145.432
+Oceania,,1969,153.719
+Oceania,,1970,166.216
+Oceania,,1971,170.644
+Oceania,,1972,174.019
+Oceania,,1973,193.618
+Oceania,,1974,190.731
+Oceania,,1975,196.82
+Oceania,,1976,194.206
+Oceania,,1977,207.57
+Oceania,,1978,213.847
+Oceania,,1979,213.96
+Oceania,,1980,227.392
+Oceania,,1981,235.788
+Oceania,,1982,241.296
+Oceania,,1983,230.603
+Oceania,,1984,241.782
+Oceania,,1985,251.884
+Oceania,,1986,252.363
+Oceania,,1987,264.343
+Oceania,,1988,271.77
+Oceania,,1989,287.941
+Oceania,,1990,309.442
+Oceania,,1991,311.575
+Oceania,,1992,318.601
+Oceania,,1993,322.868
+Oceania,,1994,328.002
+Oceania,,1995,339.459
+Oceania,,1996,347.998
+Oceania,,1997,358.441
+Oceania,,1998,371.734
+Oceania,,1999,382.515
+Oceania,,2000,390.034
+Oceania,,2001,400.263
+Oceania,,2002,405.901
+Oceania,,2003,416.901
+Oceania,,2004,428.453
+Oceania,,2005,433.427
+Oceania,,2006,439.754
+Oceania,,2007,448.106
+Oceania,,2008,453.125
+Oceania,,2009,452.832
+Oceania,,2010,451.56
+Oceania,,2011,450.377
+Oceania,,2012,452.248
+Oceania,,2013,445.004
+Oceania,,2014,442.693
+Oceania,,2015,451.376
+Oceania,,2016,460.059
+Oceania,,2017,465.087
+Oceania,,2018,467.919
+Oceania,,2019,468.925
+Oceania,,2020,449.486
+Oceania,,2021,439.095
+Oceania,,2022,433.49
+Oceania,,2023,433.177
+Oceania,,2024,436.897
+Oceania (GCP),,1850,0.112
+Oceania (GCP),,1851,0.106
+Oceania (GCP),,1852,0.106
+Oceania (GCP),,1853,0.152
+Oceania (GCP),,1854,0.184
+Oceania (GCP),,1855,0.216
+Oceania (GCP),,1856,0.299
+Oceania (GCP),,1857,0.331
+Oceania (GCP),,1858,0.34
+Oceania (GCP),,1859,0.485
+Oceania (GCP),,1860,0.6
+Oceania (GCP),,1861,0.561
+Oceania (GCP),,1862,0.788
+Oceania (GCP),,1863,0.72
+Oceania (GCP),,1864,0.903
+Oceania (GCP),,1865,0.974
+Oceania (GCP),,1866,1.28
+Oceania (GCP),,1867,1.24
+Oceania (GCP),,1868,1.532
+Oceania (GCP),,1869,1.465
+Oceania (GCP),,1870,1.402
+Oceania (GCP),,1871,1.441
+Oceania (GCP),,1872,1.637
+Oceania (GCP),,1873,1.931
+Oceania (GCP),,1874,2.126
+Oceania (GCP),,1875,2.143
+Oceania (GCP),,1876,2.158
+Oceania (GCP),,1877,2.372
+Oceania (GCP),,1878,2.917
+Oceania (GCP),,1879,3.084
+Oceania (GCP),,1880,3.073
+Oceania (GCP),,1881,3.642
+Oceania (GCP),,1882,4.278
+Oceania (GCP),,1883,5.074
+Oceania (GCP),,1884,5.591
+Oceania (GCP),,1885,6.0
+Oceania (GCP),,1886,6.009
+Oceania (GCP),,1887,6.261
+Oceania (GCP),,1888,6.972
+Oceania (GCP),,1889,7.562
+Oceania (GCP),,1890,6.872
+Oceania (GCP),,1891,8.376
+Oceania (GCP),,1892,7.962
+Oceania (GCP),,1893,7.316
+Oceania (GCP),,1894,8.13
+Oceania (GCP),,1895,8.374
+Oceania (GCP),,1896,8.937
+Oceania (GCP),,1897,9.783
+Oceania (GCP),,1898,10.536
+Oceania (GCP),,1899,10.873
+Oceania (GCP),,1900,12.608
+Oceania (GCP),,1901,14.18
+Oceania (GCP),,1902,14.436
+Oceania (GCP),,1903,14.394
+Oceania (GCP),,1904,14.977
+Oceania (GCP),,1905,15.592
+Oceania (GCP),,1906,18.22
+Oceania (GCP),,1907,19.572
+Oceania (GCP),,1908,20.943
+Oceania (GCP),,1909,18.845
+Oceania (GCP),,1910,22.609
+Oceania (GCP),,1911,24.136
+Oceania (GCP),,1912,26.073
+Oceania (GCP),,1913,27.015
+Oceania (GCP),,1914,30.004
+Oceania (GCP),,1915,27.201
+Oceania (GCP),,1916,24.892
+Oceania (GCP),,1917,25.951
+Oceania (GCP),,1918,27.908
+Oceania (GCP),,1919,26.315
+Oceania (GCP),,1920,29.864
+Oceania (GCP),,1921,27.284
+Oceania (GCP),,1922,28.483
+Oceania (GCP),,1923,29.521
+Oceania (GCP),,1924,32.181
+Oceania (GCP),,1925,33.721
+Oceania (GCP),,1926,33.859
+Oceania (GCP),,1927,35.765
+Oceania (GCP),,1928,33.733
+Oceania (GCP),,1929,31.8
+Oceania (GCP),,1930,30.765
+Oceania (GCP),,1931,26.79
+Oceania (GCP),,1932,26.59
+Oceania (GCP),,1933,28.328
+Oceania (GCP),,1934,30.191
+Oceania (GCP),,1935,33.109
+Oceania (GCP),,1936,35.69
+Oceania (GCP),,1937,38.137
+Oceania (GCP),,1938,37.942
+Oceania (GCP),,1939,42.445
+Oceania (GCP),,1940,40.105
+Oceania (GCP),,1941,44.335
+Oceania (GCP),,1942,47.123
+Oceania (GCP),,1943,46.564
+Oceania (GCP),,1944,46.496
+Oceania (GCP),,1945,44.779
+Oceania (GCP),,1946,48.272
+Oceania (GCP),,1947,50.228
+Oceania (GCP),,1948,52.515
+Oceania (GCP),,1949,53.673
+Oceania (GCP),,1950,64.556
+Oceania (GCP),,1951,69.646
+Oceania (GCP),,1952,72.375
+Oceania (GCP),,1953,72.14
+Oceania (GCP),,1954,77.691
+Oceania (GCP),,1955,82.295
+Oceania (GCP),,1956,86.59
+Oceania (GCP),,1957,87.109
+Oceania (GCP),,1958,89.12
+Oceania (GCP),,1959,94.252
+Oceania (GCP),,1960,100.116
+Oceania (GCP),,1961,99.98
+Oceania (GCP),,1962,103.096
+Oceania (GCP),,1963,109.292
+Oceania (GCP),,1964,118.45
+Oceania (GCP),,1965,129.175
+Oceania (GCP),,1966,131.938
+Oceania (GCP),,1967,138.175
+Oceania (GCP),,1968,144.93
+Oceania (GCP),,1969,153.162
+Oceania (GCP),,1970,165.593
+Oceania (GCP),,1971,169.904
+Oceania (GCP),,1972,172.836
+Oceania (GCP),,1973,192.343
+Oceania (GCP),,1974,189.269
+Oceania (GCP),,1975,195.424
+Oceania (GCP),,1976,192.758
+Oceania (GCP),,1977,206.083
+Oceania (GCP),,1978,212.264
+Oceania (GCP),,1979,212.264
+Oceania (GCP),,1980,225.662
+Oceania (GCP),,1981,233.96
+Oceania (GCP),,1982,239.423
+Oceania (GCP),,1983,228.676
+Oceania (GCP),,1984,239.737
+Oceania (GCP),,1985,249.758
+Oceania (GCP),,1986,250.301
+Oceania (GCP),,1987,262.009
+Oceania (GCP),,1988,269.571
+Oceania (GCP),,1989,285.908
+Oceania (GCP),,1990,307.288
+Oceania (GCP),,1991,309.402
+Oceania (GCP),,1992,316.41
+Oceania (GCP),,1993,320.673
+Oceania (GCP),,1994,325.816
+Oceania (GCP),,1995,337.408
+Oceania (GCP),,1996,345.8
+Oceania (GCP),,1997,355.83
+Oceania (GCP),,1998,368.198
+Oceania (GCP),,1999,379.966
+Oceania (GCP),,2000,387.096
+Oceania (GCP),,2001,396.927
+Oceania (GCP),,2002,402.235
+Oceania (GCP),,2003,412.848
+Oceania (GCP),,2004,423.766
+Oceania (GCP),,2005,428.444
+Oceania (GCP),,2006,434.703
+Oceania (GCP),,2007,441.525
+Oceania (GCP),,2008,447.581
+Oceania (GCP),,2009,447.568
+Oceania (GCP),,2010,446.845
+Oceania (GCP),,2011,445.078
+Oceania (GCP),,2012,447.875
+Oceania (GCP),,2013,440.472
+Oceania (GCP),,2014,436.568
+Oceania (GCP),,2015,445.06
+Oceania (GCP),,2016,453.035
+Oceania (GCP),,2017,458.537
+Oceania (GCP),,2018,460.323
+Oceania (GCP),,2019,461.343
+Oceania (GCP),,2020,441.576
+Oceania (GCP),,2021,431.222
+Oceania (GCP),,2022,425.054
+Oceania (GCP),,2023,424.819
+Oceania (GCP),,2024,428.551
+Ryukyu Islands (GCP),,1965,0.051
+Ryukyu Islands (GCP),,1966,0.062
+Ryukyu Islands (GCP),,1967,0.073
+Ryukyu Islands (GCP),,1968,0.124
+Ryukyu Islands (GCP),,1969,0.127
+Ryukyu Islands (GCP),,1970,0.127
+Ryukyu Islands (GCP),,1971,0.127
+Ryukyu Islands (GCP),,1972,0.127
+Ryukyu Islands (GCP),,1994,0.0
+Ryukyu Islands (GCP),,1995,0.0
+Ryukyu Islands (GCP),,1996,0.0
+Ryukyu Islands (GCP),,1997,0.0
+Ryukyu Islands (GCP),,1998,0.0
+Ryukyu Islands (GCP),,1999,0.0
+Ryukyu Islands (GCP),,2000,0.0
+Ryukyu Islands (GCP),,2001,0.0
+Ryukyu Islands (GCP),,2002,0.0
+Ryukyu Islands (GCP),,2003,0.0
+Ryukyu Islands (GCP),,2004,0.0
+Ryukyu Islands (GCP),,2005,0.0
+Ryukyu Islands (GCP),,2006,0.0
+Ryukyu Islands (GCP),,2007,0.0
+Ryukyu Islands (GCP),,2008,0.0
+Ryukyu Islands (GCP),,2009,0.0
+Ryukyu Islands (GCP),,2010,0.0
+Ryukyu Islands (GCP),,2011,0.0
+Ryukyu Islands (GCP),,2012,0.0
+Ryukyu Islands (GCP),,2013,0.0
+Ryukyu Islands (GCP),,2014,0.0
+Ryukyu Islands (GCP),,2015,0.0
+Ryukyu Islands (GCP),,2016,0.0
+Ryukyu Islands (GCP),,2017,0.0
+Ryukyu Islands (GCP),,2018,0.0
+Ryukyu Islands (GCP),,2019,0.0
+Ryukyu Islands (GCP),,2020,0.0
+Ryukyu Islands (GCP),,2021,0.0
+Ryukyu Islands (GCP),,2022,0.0
+Ryukyu Islands (GCP),,2023,0.0
+Ryukyu Islands (GCP),,2024,0.0
+South America,,1844,0.024
+South America,,1845,0.036
+South America,,1846,0.046
+South America,,1847,0.056
+South America,,1848,0.064
+South America,,1849,0.116
+South America,,1850,0.094
+South America,,1851,0.11
+South America,,1852,0.181
+South America,,1853,0.117
+South America,,1854,0.005
+South America,,1855,0.151
+South America,,1856,0.557
+South America,,1857,0.881
+South America,,1858,0.963
+South America,,1859,0.759
+South America,,1860,1.033
+South America,,1861,0.95
+South America,,1862,0.877
+South America,,1863,0.962
+South America,,1864,1.182
+South America,,1865,1.383
+South America,,1866,1.886
+South America,,1867,2.004
+South America,,1868,2.33
+South America,,1869,2.088
+South America,,1870,2.135
+South America,,1871,2.262
+South America,,1872,3.013
+South America,,1873,3.309
+South America,,1874,3.742
+South America,,1875,3.244
+South America,,1876,3.202
+South America,,1877,2.987
+South America,,1878,2.919
+South America,,1879,3.02
+South America,,1880,3.453
+South America,,1881,3.751
+South America,,1882,3.832
+South America,,1883,4.075
+South America,,1884,4.633
+South America,,1885,4.83
+South America,,1886,4.53
+South America,,1887,5.25
+South America,,1888,6.387
+South America,,1889,7.538
+South America,,1890,6.33
+South America,,1891,6.584
+South America,,1892,6.728
+South America,,1893,6.726
+South America,,1894,8.401
+South America,,1895,8.548
+South America,,1896,9.217
+South America,,1897,8.562
+South America,,1898,9.187
+South America,,1899,9.629
+South America,,1900,8.933
+South America,,1901,9.644
+South America,,1902,10.29
+South America,,1903,10.493
+South America,,1904,10.93
+South America,,1905,12.767
+South America,,1906,15.509
+South America,,1907,17.71
+South America,,1908,18.71
+South America,,1909,18.441
+South America,,1910,20.673
+South America,,1911,23.954
+South America,,1912,24.731
+South America,,1913,25.968
+South America,,1914,21.571
+South America,,1915,15.675
+South America,,1916,14.647
+South America,,1917,13.086
+South America,,1918,11.65
+South America,,1919,13.631
+South America,,1920,16.128
+South America,,1921,15.377
+South America,,1922,17.538
+South America,,1923,19.904
+South America,,1924,24.938
+South America,,1925,26.465
+South America,,1926,27.506
+South America,,1927,30.159
+South America,,1928,31.607
+South America,,1929,34.773
+South America,,1930,29.602
+South America,,1931,27.015
+South America,,1932,30.424
+South America,,1933,34.372
+South America,,1934,38.439
+South America,,1935,41.465
+South America,,1936,40.897
+South America,,1937,51.13
+South America,,1938,47.639
+South America,,1939,46.572
+South America,,1940,50.913
+South America,,1941,51.506
+South America,,1942,48.387
+South America,,1943,49.034
+South America,,1944,54.083
+South America,,1945,54.756
+South America,,1946,57.635
+South America,,1947,62.899
+South America,,1948,70.073
+South America,,1949,71.233
+South America,,1950,113.414
+South America,,1951,131.277
+South America,,1952,141.469
+South America,,1953,140.632
+South America,,1954,151.041
+South America,,1955,170.066
+South America,,1956,184.168
+South America,,1957,192.907
+South America,,1958,178.736
+South America,,1959,196.974
+South America,,1960,199.141
+South America,,1961,201.759
+South America,,1962,215.628
+South America,,1963,219.376
+South America,,1964,230.142
+South America,,1965,240.086
+South America,,1966,251.981
+South America,,1967,267.318
+South America,,1968,287.591
+South America,,1969,311.219
+South America,,1970,337.805
+South America,,1971,346.519
+South America,,1972,362.537
+South America,,1973,392.646
+South America,,1974,416.509
+South America,,1975,411.638
+South America,,1976,419.311
+South America,,1977,434.796
+South America,,1978,462.105
+South America,,1979,494.345
+South America,,1980,508.381
+South America,,1981,489.758
+South America,,1982,490.925
+South America,,1983,485.903
+South America,,1984,491.551
+South America,,1985,501.907
+South America,,1986,529.881
+South America,,1987,557.404
+South America,,1988,580.438
+South America,,1989,579.902
+South America,,1990,598.367
+South America,,1991,606.069
+South America,,1992,617.997
+South America,,1993,652.739
+South America,,1994,655.626
+South America,,1995,689.658
+South America,,1996,719.899
+South America,,1997,766.825
+South America,,1998,791.081
+South America,,1999,812.94
+South America,,2000,812.035
+South America,,2001,791.451
+South America,,2002,819.743
+South America,,2003,820.544
+South America,,2004,857.033
+South America,,2005,881.901
+South America,,2006,909.778
+South America,,2007,944.883
+South America,,2008,988.743
+South America,,2009,961.341
+South America,,2010,1072.125
+South America,,2011,1088.221
+South America,,2012,1142.114
+South America,,2013,1205.618
+South America,,2014,1221.043
+South America,,2015,1186.978
+South America,,2016,1142.483
+South America,,2017,1125.792
+South America,,2018,1082.037
+South America,,2019,1094.835
+South America,,2020,983.97
+South America,,2021,1110.535
+South America,,2022,1100.028
+South America,,2023,1107.388
+South America,,2024,1109.841
+South America (GCP),,1850,0.094
+South America (GCP),,1851,0.11
+South America (GCP),,1852,0.181
+South America (GCP),,1853,0.117
+South America (GCP),,1854,0.005
+South America (GCP),,1855,0.151
+South America (GCP),,1856,0.557
+South America (GCP),,1857,0.881
+South America (GCP),,1858,0.963
+South America (GCP),,1859,0.759
+South America (GCP),,1860,1.033
+South America (GCP),,1861,0.95
+South America (GCP),,1862,0.877
+South America (GCP),,1863,0.962
+South America (GCP),,1864,1.182
+South America (GCP),,1865,1.383
+South America (GCP),,1866,1.886
+South America (GCP),,1867,2.004
+South America (GCP),,1868,2.33
+South America (GCP),,1869,2.088
+South America (GCP),,1870,2.135
+South America (GCP),,1871,2.262
+South America (GCP),,1872,3.013
+South America (GCP),,1873,3.309
+South America (GCP),,1874,3.742
+South America (GCP),,1875,3.244
+South America (GCP),,1876,3.202
+South America (GCP),,1877,2.987
+South America (GCP),,1878,2.919
+South America (GCP),,1879,3.02
+South America (GCP),,1880,3.453
+South America (GCP),,1881,3.751
+South America (GCP),,1882,3.832
+South America (GCP),,1883,4.075
+South America (GCP),,1884,4.633
+South America (GCP),,1885,4.83
+South America (GCP),,1886,4.53
+South America (GCP),,1887,5.25
+South America (GCP),,1888,6.387
+South America (GCP),,1889,7.538
+South America (GCP),,1890,6.33
+South America (GCP),,1891,6.584
+South America (GCP),,1892,6.728
+South America (GCP),,1893,6.726
+South America (GCP),,1894,8.401
+South America (GCP),,1895,8.548
+South America (GCP),,1896,9.217
+South America (GCP),,1897,8.562
+South America (GCP),,1898,9.187
+South America (GCP),,1899,9.629
+South America (GCP),,1900,8.933
+South America (GCP),,1901,9.644
+South America (GCP),,1902,10.29
+South America (GCP),,1903,10.493
+South America (GCP),,1904,10.93
+South America (GCP),,1905,12.767
+South America (GCP),,1906,15.509
+South America (GCP),,1907,17.71
+South America (GCP),,1908,18.71
+South America (GCP),,1909,18.441
+South America (GCP),,1910,20.673
+South America (GCP),,1911,23.954
+South America (GCP),,1912,24.731
+South America (GCP),,1913,25.968
+South America (GCP),,1914,21.571
+South America (GCP),,1915,15.675
+South America (GCP),,1916,14.647
+South America (GCP),,1917,13.086
+South America (GCP),,1918,11.65
+South America (GCP),,1919,13.631
+South America (GCP),,1920,16.128
+South America (GCP),,1921,15.377
+South America (GCP),,1922,17.538
+South America (GCP),,1923,19.904
+South America (GCP),,1924,24.938
+South America (GCP),,1925,26.465
+South America (GCP),,1926,27.506
+South America (GCP),,1927,30.159
+South America (GCP),,1928,31.607
+South America (GCP),,1929,34.773
+South America (GCP),,1930,29.602
+South America (GCP),,1931,27.015
+South America (GCP),,1932,30.424
+South America (GCP),,1933,34.372
+South America (GCP),,1934,38.439
+South America (GCP),,1935,41.465
+South America (GCP),,1936,40.897
+South America (GCP),,1937,51.13
+South America (GCP),,1938,47.639
+South America (GCP),,1939,46.572
+South America (GCP),,1940,50.913
+South America (GCP),,1941,51.506
+South America (GCP),,1942,48.387
+South America (GCP),,1943,49.034
+South America (GCP),,1944,54.083
+South America (GCP),,1945,54.756
+South America (GCP),,1946,57.635
+South America (GCP),,1947,62.899
+South America (GCP),,1948,70.073
+South America (GCP),,1949,71.233
+South America (GCP),,1950,113.414
+South America (GCP),,1951,131.277
+South America (GCP),,1952,141.469
+South America (GCP),,1953,140.632
+South America (GCP),,1954,151.041
+South America (GCP),,1955,170.066
+South America (GCP),,1956,184.168
+South America (GCP),,1957,192.907
+South America (GCP),,1958,178.736
+South America (GCP),,1959,196.974
+South America (GCP),,1960,199.141
+South America (GCP),,1961,201.759
+South America (GCP),,1962,215.628
+South America (GCP),,1963,219.376
+South America (GCP),,1964,230.142
+South America (GCP),,1965,240.086
+South America (GCP),,1966,251.981
+South America (GCP),,1967,267.318
+South America (GCP),,1968,287.591
+South America (GCP),,1969,311.219
+South America (GCP),,1970,337.805
+South America (GCP),,1971,346.519
+South America (GCP),,1972,362.537
+South America (GCP),,1973,392.646
+South America (GCP),,1974,416.509
+South America (GCP),,1975,411.638
+South America (GCP),,1976,419.311
+South America (GCP),,1977,434.796
+South America (GCP),,1978,462.105
+South America (GCP),,1979,494.345
+South America (GCP),,1980,508.381
+South America (GCP),,1981,489.758
+South America (GCP),,1982,490.925
+South America (GCP),,1983,485.903
+South America (GCP),,1984,491.551
+South America (GCP),,1985,501.907
+South America (GCP),,1986,529.882
+South America (GCP),,1987,557.404
+South America (GCP),,1988,580.438
+South America (GCP),,1989,579.902
+South America (GCP),,1990,598.367
+South America (GCP),,1991,606.069
+South America (GCP),,1992,617.997
+South America (GCP),,1993,652.739
+South America (GCP),,1994,655.626
+South America (GCP),,1995,689.658
+South America (GCP),,1996,719.899
+South America (GCP),,1997,766.825
+South America (GCP),,1998,791.081
+South America (GCP),,1999,812.94
+South America (GCP),,2000,812.035
+South America (GCP),,2001,791.451
+South America (GCP),,2002,819.743
+South America (GCP),,2003,820.544
+South America (GCP),,2004,857.033
+South America (GCP),,2005,881.901
+South America (GCP),,2006,909.778
+South America (GCP),,2007,944.883
+South America (GCP),,2008,988.743
+South America (GCP),,2009,961.342
+South America (GCP),,2010,1072.125
+South America (GCP),,2011,1088.221
+South America (GCP),,2012,1142.114
+South America (GCP),,2013,1205.618
+South America (GCP),,2014,1221.043
+South America (GCP),,2015,1186.978
+South America (GCP),,2016,1142.484
+South America (GCP),,2017,1125.792
+South America (GCP),,2018,1082.037
+South America (GCP),,2019,1094.835
+South America (GCP),,2020,983.969
+South America (GCP),,2021,1110.535
+South America (GCP),,2022,1100.028
+South America (GCP),,2023,1107.388
+South America (GCP),,2024,1109.841
+Upper-middle-income countries,,1830,0.006
+Upper-middle-income countries,,1831,0.007
+Upper-middle-income countries,,1832,0.005
+Upper-middle-income countries,,1833,0.006
+Upper-middle-income countries,,1850,0.037
+Upper-middle-income countries,,1855,0.112
+Upper-middle-income countries,,1856,0.697
+Upper-middle-income countries,,1857,0.758
+Upper-middle-income countries,,1858,0.914
+Upper-middle-income countries,,1859,0.938
+Upper-middle-income countries,,1860,1.067
+Upper-middle-income countries,,1861,1.288
+Upper-middle-income countries,,1862,1.373
+Upper-middle-income countries,,1863,1.24
+Upper-middle-income countries,,1864,1.595
+Upper-middle-income countries,,1865,1.853
+Upper-middle-income countries,,1866,2.764
+Upper-middle-income countries,,1867,2.703
+Upper-middle-income countries,,1868,2.816
+Upper-middle-income countries,,1869,3.053
+Upper-middle-income countries,,1870,3.229
+Upper-middle-income countries,,1871,3.953
+Upper-middle-income countries,,1872,4.283
+Upper-middle-income countries,,1873,4.331
+Upper-middle-income countries,,1874,4.565
+Upper-middle-income countries,,1875,4.799
+Upper-middle-income countries,,1876,5.003
+Upper-middle-income countries,,1877,5.255
+Upper-middle-income countries,,1878,6.181
+Upper-middle-income countries,,1879,6.111
+Upper-middle-income countries,,1880,6.716
+Upper-middle-income countries,,1881,7.197
+Upper-middle-income countries,,1882,7.486
+Upper-middle-income countries,,1883,8.557
+Upper-middle-income countries,,1884,9.048
+Upper-middle-income countries,,1885,9.701
+Upper-middle-income countries,,1886,9.866
+Upper-middle-income countries,,1887,11.058
+Upper-middle-income countries,,1888,11.846
+Upper-middle-income countries,,1889,13.632
+Upper-middle-income countries,,1890,14.38
+Upper-middle-income countries,,1891,16.106
+Upper-middle-income countries,,1892,18.383
+Upper-middle-income countries,,1893,21.253
+Upper-middle-income countries,,1894,23.119
+Upper-middle-income countries,,1895,26.387
+Upper-middle-income countries,,1896,28.068
+Upper-middle-income countries,,1897,31.508
+Upper-middle-income countries,,1898,35.709
+Upper-middle-income countries,,1899,39.364
+Upper-middle-income countries,,1900,38.918
+Upper-middle-income countries,,1901,43.407
+Upper-middle-income countries,,1902,44.555
+Upper-middle-income countries,,1903,48.925
+Upper-middle-income countries,,1904,54.811
+Upper-middle-income countries,,1905,56.002
+Upper-middle-income countries,,1906,63.803
+Upper-middle-income countries,,1907,90.243
+Upper-middle-income countries,,1908,94.647
+Upper-middle-income countries,,1909,100.568
+Upper-middle-income countries,,1910,105.51
+Upper-middle-income countries,,1911,113.325
+Upper-middle-income countries,,1912,110.456
+Upper-middle-income countries,,1913,129.471
+Upper-middle-income countries,,1914,120.132
+Upper-middle-income countries,,1915,115.683
+Upper-middle-income countries,,1916,128.714
+Upper-middle-income countries,,1917,138.227
+Upper-middle-income countries,,1918,124.579
+Upper-middle-income countries,,1919,142.069
+Upper-middle-income countries,,1920,188.59
+Upper-middle-income countries,,1921,199.997
+Upper-middle-income countries,,1922,201.687
+Upper-middle-income countries,,1923,208.802
+Upper-middle-income countries,,1924,218.313
+Upper-middle-income countries,,1925,209.182
+Upper-middle-income countries,,1926,206.751
+Upper-middle-income countries,,1927,209.176
+Upper-middle-income countries,,1928,211.925
+Upper-middle-income countries,,1929,220.832
+Upper-middle-income countries,,1930,228.069
+Upper-middle-income countries,,1931,228.278
+Upper-middle-income countries,,1932,235.553
+Upper-middle-income countries,,1933,256.918
+Upper-middle-income countries,,1934,296.662
+Upper-middle-income countries,,1935,331.943
+Upper-middle-income countries,,1936,357.199
+Upper-middle-income countries,,1937,379.557
+Upper-middle-income countries,,1938,375.141
+Upper-middle-income countries,,1939,396.207
+Upper-middle-income countries,,1940,439.131
+Upper-middle-income countries,,1941,427.041
+Upper-middle-income countries,,1942,367.49
+Upper-middle-income countries,,1943,368.274
+Upper-middle-income countries,,1944,412.762
+Upper-middle-income countries,,1945,387.852
+Upper-middle-income countries,,1946,398.309
+Upper-middle-income countries,,1947,450.483
+Upper-middle-income countries,,1948,480.024
+Upper-middle-income countries,,1949,471.148
+Upper-middle-income countries,,1950,552.079
+Upper-middle-income countries,,1951,620.591
+Upper-middle-income countries,,1952,682.151
+Upper-middle-income countries,,1953,705.199
+Upper-middle-income countries,,1954,772.628
+Upper-middle-income countries,,1955,899.782
+Upper-middle-income countries,,1956,991.845
+Upper-middle-income countries,,1957,1093.042
+Upper-middle-income countries,,1958,1394.173
+Upper-middle-income countries,,1959,1637.511
+Upper-middle-income countries,,1960,1756.677
+Upper-middle-income countries,,1961,1558.293
+Upper-middle-income countries,,1962,1491.861
+Upper-middle-income countries,,1963,1544.173
+Upper-middle-income countries,,1964,1631.213
+Upper-middle-income countries,,1965,1746.193
+Upper-middle-income countries,,1966,1876.477
+Upper-middle-income countries,,1967,1865.769
+Upper-middle-income countries,,1968,1991.043
+Upper-middle-income countries,,1969,2185.802
+Upper-middle-income countries,,1970,2505.436
+Upper-middle-income countries,,1971,2719.985
+Upper-middle-income countries,,1972,2869.543
+Upper-middle-income countries,,1973,3054.847
+Upper-middle-income countries,,1974,3156.543
+Upper-middle-income countries,,1975,3389.974
+Upper-middle-income countries,,1976,3577.541
+Upper-middle-income countries,,1977,3798.818
+Upper-middle-income countries,,1978,4087.761
+Upper-middle-income countries,,1979,4209.14
+Upper-middle-income countries,,1980,4243.259
+Upper-middle-income countries,,1981,4209.323
+Upper-middle-income countries,,1982,4433.509
+Upper-middle-income countries,,1983,4568.922
+Upper-middle-income countries,,1984,4792.184
+Upper-middle-income countries,,1985,5114.714
+Upper-middle-income countries,,1986,5299.506
+Upper-middle-income countries,,1987,5511.91
+Upper-middle-income countries,,1988,5783.85
+Upper-middle-income countries,,1989,5824.869
+Upper-middle-income countries,,1990,5884.587
+Upper-middle-income countries,,1991,5992.938
+Upper-middle-income countries,,1992,6069.856
+Upper-middle-income countries,,1993,6226.802
+Upper-middle-income countries,,1994,6365.352
+Upper-middle-income countries,,1995,6687.493
+Upper-middle-income countries,,1996,6899.219
+Upper-middle-income countries,,1997,7014.104
+Upper-middle-income countries,,1998,6883.152
+Upper-middle-income countries,,1999,7121.256
+Upper-middle-income countries,,2000,7275.023
+Upper-middle-income countries,,2001,7431.237
+Upper-middle-income countries,,2002,7854.075
+Upper-middle-income countries,,2003,8815.91
+Upper-middle-income countries,,2004,9388.462
+Upper-middle-income countries,,2005,10168.379
+Upper-middle-income countries,,2006,10921.29
+Upper-middle-income countries,,2007,11512.429
+Upper-middle-income countries,,2008,12161.976
+Upper-middle-income countries,,2009,12498.653
+Upper-middle-income countries,,2010,13483.229
+Upper-middle-income countries,,2011,14572.88
+Upper-middle-income countries,,2012,15001.586
+Upper-middle-income countries,,2013,15252.664
+Upper-middle-income countries,,2014,15393.135
+Upper-middle-income countries,,2015,15250.371
+Upper-middle-income countries,,2016,15138.848
+Upper-middle-income countries,,2017,15493.023
+Upper-middle-income countries,,2018,15891.828
+Upper-middle-income countries,,2019,16385.607
+Upper-middle-income countries,,2020,16241.722
+Upper-middle-income countries,,2021,16916.74
+Upper-middle-income countries,,2022,17458.07
+Upper-middle-income countries,,2023,18031.051
+Upper-middle-income countries,,2024,18237.494
+World,,1750,9.306
+World,,1751,9.407
+World,,1752,9.505
+World,,1753,9.61
+World,,1754,9.734
+World,,1755,9.793
+World,,1756,9.91
+World,,1757,10.094
+World,,1758,10.216
+World,,1759,10.339
+World,,1760,10.514
+World,,1761,10.748
+World,,1762,10.952
+World,,1763,11.192
+World,,1764,11.397
+World,,1765,11.643
+World,,1766,11.876
+World,,1767,12.153
+World,,1768,12.467
+World,,1769,12.78
+World,,1770,13.097
+World,,1771,13.369
+World,,1772,13.624
+World,,1773,13.808
+World,,1774,14.012
+World,,1775,14.339
+World,,1776,14.654
+World,,1777,14.96
+World,,1778,15.243
+World,,1779,15.535
+World,,1780,15.879
+World,,1781,16.234
+World,,1782,16.581
+World,,1783,17.063
+World,,1784,17.471
+World,,1785,17.965
+World,,1786,18.447
+World,,1787,18.859
+World,,1788,19.286
+World,,1789,19.863
+World,,1790,20.398
+World,,1791,20.932
+World,,1792,21.929
+World,,1793,22.297
+World,,1794,22.52
+World,,1795,22.315
+World,,1796,22.121
+World,,1797,22.09
+World,,1798,23.106
+World,,1799,27.485
+World,,1800,32.798
+World,,1801,31.986
+World,,1802,40.31
+World,,1803,29.539
+World,,1804,31.769
+World,,1805,31.252
+World,,1806,32.705
+World,,1807,36.201
+World,,1808,35.498
+World,,1809,36.334
+World,,1810,39.492
+World,,1811,40.177
+World,,1812,40.815
+World,,1813,41.206
+World,,1814,42.227
+World,,1815,43.587
+World,,1816,45.497
+World,,1817,49.276
+World,,1818,51.392
+World,,1819,50.93
+World,,1820,50.733
+World,,1821,52.059
+World,,1822,54.022
+World,,1823,56.358
+World,,1824,57.584
+World,,1825,60.731
+World,,1826,61.382
+World,,1827,65.739
+World,,1828,66.682
+World,,1829,66.307
+World,,1830,88.988
+World,,1831,83.251
+World,,1832,82.092
+World,,1833,83.249
+World,,1834,88.763
+World,,1835,97.4
+World,,1836,106.894
+World,,1837,106.199
+World,,1838,105.845
+World,,1839,109.653
+World,,1840,118.809
+World,,1841,122.166
+World,,1842,129.389
+World,,1843,132.369
+World,,1844,141.966
+World,,1845,155.073
+World,,1846,157.702
+World,,1847,170.797
+World,,1848,173.643
+World,,1849,185.048
+World,,1850,196.848
+World,,1851,198.779
+World,,1852,207.595
+World,,1853,217.237
+World,,1854,255.039
+World,,1855,260.26
+World,,1856,278.246
+World,,1857,281.181
+World,,1858,285.548
+World,,1859,302.572
+World,,1860,332.298
+World,,1861,349.19
+World,,1862,355.991
+World,,1863,379.535
+World,,1864,409.525
+World,,1865,434.851
+World,,1866,449.067
+World,,1867,480.814
+World,,1868,494.494
+World,,1869,524.731
+World,,1870,536.123
+World,,1871,569.777
+World,,1872,630.961
+World,,1873,670.467
+World,,1874,628.662
+World,,1875,681.048
+World,,1876,690.583
+World,,1877,704.033
+World,,1878,709.65
+World,,1879,759.794
+World,,1880,858.228
+World,,1881,888.173
+World,,1882,938.158
+World,,1883,997.862
+World,,1884,1009.762
+World,,1885,1017.489
+World,,1886,1032.987
+World,,1887,1084.283
+World,,1888,1201.342
+World,,1889,1202.098
+World,,1890,1307.255
+World,,1891,1369.598
+World,,1892,1380.536
+World,,1893,1363.18
+World,,1894,1412.227
+World,,1895,1495.964
+World,,1896,1545.451
+World,,1897,1618.405
+World,,1898,1706.967
+World,,1899,1864.424
+World,,1900,1962.884
+World,,1901,2025.628
+World,,1902,2076.956
+World,,1903,2264.592
+World,,1904,2290.255
+World,,1905,2440.571
+World,,1906,2548.978
+World,,1907,2904.949
+World,,1908,2790.395
+World,,1909,2907.112
+World,,1910,3050.273
+World,,1911,3097.207
+World,,1912,3253.929
+World,,1913,3524.846
+World,,1914,3197.75
+World,,1915,3148.031
+World,,1916,3400.232
+World,,1917,3556.499
+World,,1918,3506.085
+World,,1919,3041.113
+World,,1920,3546.758
+World,,1921,3114.994
+World,,1922,3264.717
+World,,1923,3702.996
+World,,1924,3716.143
+World,,1925,3740.633
+World,,1926,3677.407
+World,,1927,4012.947
+World,,1928,3996.311
+World,,1929,4288.21
+World,,1930,3958.094
+World,,1931,3539.319
+World,,1932,3192.59
+World,,1933,3362.682
+World,,1934,3656.186
+World,,1935,3835.741
+World,,1936,4207.929
+World,,1937,4496.713
+World,,1938,4229.617
+World,,1939,4470.132
+World,,1940,4884.662
+World,,1941,4999.09
+World,,1942,4982.523
+World,,1943,5075.272
+World,,1944,5162.486
+World,,1945,4289.312
+World,,1946,4608.545
+World,,1947,5165.204
+World,,1948,5447.883
+World,,1949,5204.033
+World,,1950,5930.406
+World,,1951,6381.651
+World,,1952,6467.7
+World,,1953,6651.039
+World,,1954,6789.734
+World,,1955,7444.103
+World,,1956,7926.275
+World,,1957,8185.976
+World,,1958,8417.517
+World,,1959,8855.112
+World,,1960,9386.951
+World,,1961,9414.99
+World,,1962,9747.241
+World,,1963,10266.777
+World,,1964,10824.47
+World,,1965,11310.603
+World,,1966,11862.625
+World,,1967,12237.371
+World,,1968,12905.273
+World,,1969,13761.798
+World,,1970,14899.139
+World,,1971,15503.862
+World,,1972,16224.579
+World,,1973,17077.285
+World,,1974,16997.912
+World,,1975,16988.477
+World,,1976,17862.492
+World,,1977,18358.039
+World,,1978,19024.742
+World,,1979,19508.59
+World,,1980,19409.793
+World,,1981,18879.756
+World,,1982,18729.742
+World,,1983,18901.775
+World,,1984,19457.25
+World,,1985,20144.863
+World,,1986,20438.045
+World,,1987,21106.189
+World,,1988,21918.756
+World,,1989,22200.213
+World,,1990,22732.145
+World,,1991,23205.592
+World,,1992,22520.424
+World,,1993,22749.873
+World,,1994,22974.598
+World,,1995,23516.639
+World,,1996,24233.477
+World,,1997,24380.322
+World,,1998,24295.713
+World,,1999,24837.771
+World,,2000,25511.482
+World,,2001,25692.994
+World,,2002,26265.332
+World,,2003,27652.691
+World,,2004,28610.023
+World,,2005,29598.951
+World,,2006,30594.152
+World,,2007,31499.256
+World,,2008,32049.66
+World,,2009,31513.014
+World,,2010,33317.672
+World,,2011,34479.988
+World,,2012,34954.734
+World,,2013,35275.82
+World,,2014,35465.695
+World,,2015,35403.527
+World,,2016,35392.832
+World,,2017,35974.609
+World,,2018,36734.004
+World,,2019,37086.566
+World,,2020,35158.23
+World,,2021,36866.863
+World,,2022,37527.773
+World,,2023,38094.039
+World,,2024,38598.578

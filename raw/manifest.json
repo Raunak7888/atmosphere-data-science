@@ -1,0 +1,83 @@
+[
+  {
+    "name": "co2_mlo_monthly",
+    "url": "https://gml.noaa.gov/webdata/ccgg/trends/co2/co2_mm_mlo.txt",
+    "file": "raw\\noaa\\co2_mm_mlo.txt",
+    "status": 200,
+    "bytes": 59608,
+    "sha256": "c9a91a170d09d16afaaad56c4f383ed4fcb7fa0da967998694842d5c8168bcf3",
+    "downloaded_utc": "2026-10-07T14:24:10+00:00"
+  },
+  {
+    "name": "co2_global_monthly",
+    "url": "https://gml.noaa.gov/webdata/ccgg/trends/co2/co2_mm_gl.txt",
+    "file": "raw\\noaa\\co2_mm_gl.txt",
+    "status": 200,
+    "bytes": 50275,
+    "sha256": "a84af32cda802bd1f74b50a17769743d0070cf977a73b70bee165e343bea1edb",
+    "downloaded_utc": "2026-10-07T14:24:14+00:00"
+  },
+  {
+    "name": "ch4_global_monthly",
+    "url": "https://gml.noaa.gov/aftp/products/trends/ch4/ch4_mm_gl.txt",
+    "file": "raw\\noaa\\ch4_mm_gl.txt",
+    "status": 200,
+    "bytes": 45989,
+    "sha256": "2802d43edae02e8d4101ab9351b10baa4ebe7ccfc927cd718ad290c1793f895f",
+    "downloaded_utc": "2026-10-07T14:24:17+00:00"
+  },
+  {
+    "name": "n2o_global_monthly",
+    "url": "https://gml.noaa.gov/aftp/products/trends/n2o/n2o_mm_gl.txt",
+    "file": "raw\\noaa\\n2o_mm_gl.txt",
+    "status": 200,
+    "bytes": 28139,
+    "sha256": "84cf87377bc83939a9eefd43f60148b606138a4efbe5c0bcd97751eca8f0170f",
+    "downloaded_utc": "2026-10-07T14:24:20+00:00"
+  },
+  {
+    "name": "gistemp_global",
+    "url": "https://data.giss.nasa.gov/gistemp/tabledata_v4/GLB.Ts+dSST.csv",
+    "file": "raw\\nasa\\GLB.Ts+dSST.csv",
+    "status": 200,
+    "bytes": 12887,
+    "sha256": "c9ce0750ca93a8241c42fe86cd5bf54d07b28b21ae650b0ae49a206907018cd9",
+    "downloaded_utc": "2026-10-07T14:24:24+00:00"
+  },
+  {
+    "name": "owid_co2",
+    "url": "https://raw.githubusercontent.com/owid/co2-data/master/owid-co2-data.csv",
+    "file": "raw\\owid\\owid-co2-data.csv",
+    "status": 200,
+    "bytes": 14377942,
+    "sha256": "7f78e2b218ce4bb8c538bbec04fdc9a7982e8d40bff972e650df603899edd5f6",
+    "downloaded_utc": "2026-10-07T14:24:30+00:00"
+  },
+  {
+    "name": "owid_codebook",
+    "url": "https://raw.githubusercontent.com/owid/co2-data/master/owid-co2-codebook.csv",
+    "file": "raw\\owid\\owid-co2-codebook.csv",
+    "status": 200,
+    "bytes": 24149,
+    "sha256": "33b4f5e00efd58c7b83863f736beba1af4df946b43642b0400c3ec38648e0e8e",
+    "downloaded_utc": "2026-10-07T14:24:33+00:00"
+  },
+  {
+    "name": "wb_pm25_json",
+    "url": "https://api.worldbank.org/v2/country/all/indicator/EN.ATM.PM25.MC.M3?format=json&per_page=20000",
+    "file": "raw\\worldbank\\pm25.json",
+    "status": 200,
+    "bytes": 4586324,
+    "sha256": "f437564441e74f3ee3438e13910a8697ad2358f769af970d3dfbe04dd3afeb35",
+    "downloaded_utc": "2026-10-07T14:24:35+00:00"
+  },
+  {
+    "name": "wb_country_meta",
+    "url": "https://api.worldbank.org/v2/country?format=json&per_page=400",
+    "file": "raw\\worldbank\\countries.json",
+    "status": 200,
+    "bytes": 113954,
+    "sha256": "c9acf3932785191a649cbc04c3056af4cf64a236e5c3b49d49be25ddb0440bce",
+    "downloaded_utc": "2026-10-07T14:24:37+00:00"
+  }
+]

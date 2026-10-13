@@ -1,0 +1,4 @@
+gas,gwp20,gwp100,owid_gwp_used,source_note
+CH4,82.5,29.8,29.8,IPCC AR6 WGI Table 7.15 fossil methane (GWP20 82.5; GWP100 29.8). OWID applies 29.8 to fossil and 27.2 to agriculture and land-use methane so the OWID methane column is a mix
+CO2,1.0,1.0,1.0,CO2 is 1 by definition
+N2O,273.0,273.0,273.0,IPCC AR6 WGI Table 7.15 (GWP20 273; GWP100 273). OWID applies 273 to fossil and 273 to agriculture and land-use N2O so the OWID N2O column is a mix
