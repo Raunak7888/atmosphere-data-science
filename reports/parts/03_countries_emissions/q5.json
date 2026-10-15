@@ -1,0 +1,9 @@
+{
+  "topic": "countries_emissions",
+  "qid": "q5",
+  "question": "Which regions and income groups changed their share most over 1990 to now?",
+  "images": [
+    "q5_1.png"
+  ],
+  "summary": "The centre of gravity of global emissions has shifted between 1990 and 2024. By region, the biggest gains were East Asia & Pacific (21.6% to 44.4%, +22.8 pp), South Asia (2.7% to 9.0%, +6.3 pp), Middle East, North Africa, Afghanistan & Pakistan (4.4% to 8.8%, +4.4 pp); the biggest losses were Europe & Central Asia (39.4% to 16.1%, -23.4 pp), North America (25.3% to 14.6%, -10.7 pp). By income group, the gains were Upper middle income (26.5% to 50.4%, +23.9 pp), Lower middle income (5.2% to 12.4%, +7.2 pp), while the losses were High income (67.5% to 36.6%, -30.8 pp), Low income (0.9% to 0.6%, -0.3 pp)."
+}

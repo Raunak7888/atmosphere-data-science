@@ -1,0 +1,9 @@
+{
+  "topic": "data_quality",
+  "qid": "q2",
+  "question": "Do the country sums match the world totals?",
+  "images": [
+    "q2_1.png"
+  ],
+  "summary": "Summing countries gives, on average, a 0.8% difference from the reported world total, with the largest gap in 2018 (-3.4%). In 205 of 275 years the two agree within 2%. Differences typically come from international aviation and shipping, territories without ISO codes, and missing country-years."
+}

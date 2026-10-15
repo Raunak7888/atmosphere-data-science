@@ -1,0 +1,9 @@
+{
+  "topic": "emissions_temperature",
+  "qid": "q1",
+  "question": "How strongly do emissions correlate with temperature?",
+  "images": [
+    "q1_1.png"
+  ],
+  "summary": "Over 1880-2024, temperature correlates strongly with cumulative emissions (r = 0.96) and also with annual emissions (r = 0.93). Each additional 1,000 Gt of CO2 is associated with about 0.76 °C of warming. Both series trend upward, so correlation alone overstates certainty, but the cumulative relationship matches the physical expectation that warming tracks total CO2 added."
+}

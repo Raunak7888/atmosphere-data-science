@@ -1,0 +1,9 @@
+{
+  "topic": "emissions_temperature",
+  "qid": "q2",
+  "question": "Does temperature respond with a delay to CO2?",
+  "images": [
+    "q2_1.png"
+  ],
+  "summary": "Using smoothed year-to-year changes, the strongest correlation appears at a lag of 18 years (r = 0.23); at zero lag r = 0.09. This suggests temperature lags emissions changes. Annual temperature is noisy (El Nino, volcanoes), so treat the exact lag as indicative rather than precise."
+}

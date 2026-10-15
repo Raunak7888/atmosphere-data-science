@@ -1,0 +1,9 @@
+{
+  "topic": "gases_warming",
+  "qid": "q2",
+  "question": "How does the picture change if you compare over 20 years instead of 100 years (GWP20 vs GWP100)?",
+  "images": [
+    "q2_1.png"
+  ],
+  "summary": "The ranking stays the same (CO2, CH4, N2O), but the gap narrows sharply. Methane has a GWP of 82.5 over 20 years against 29.8 over 100, because it traps heat strongly but breaks down in about a decade. Using 2024 emissions as the baseline, methane's contribution rises from about 19% to 39%, while CO2 falls from 75% to 56%. N2O moves from 5.9% to 4.4%, because the total grows when the short-lived gas is weighted more."
+}

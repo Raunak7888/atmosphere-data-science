@@ -1,0 +1,9 @@
+{
+  "topic": "policy_events",
+  "qid": "q3",
+  "question": "Which countries saw the biggest CO2 drop after 2008-09 and recovered fastest?",
+  "images": [
+    "q3_1.png"
+  ],
+  "summary": "Among large emitters, the steepest falls were Romania (-17.9%), Uzbekistan (-14.9%), Ukraine (-14.8%). The fastest to regain their 2008 emissions were Russia (2011), Uzbekistan (2024). Countries with the deepest drops did not always recover fastest; recovery depended on whether the fall was cyclical (demand) or structural (fuel switching, deindustrialisation)."
+}

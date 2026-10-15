@@ -19,7 +19,7 @@ import pandas as pd
 from common import CLEANED, PipelineError, dedupe, finalize, log, read_source, run_standalone
 
 NAME = "country_ref"
-CSV_NAME = "table4.csv"
+CSV_NAME = "country_ref.csv"
 KEY = ["iso_code"]
 DEPENDS = []
 

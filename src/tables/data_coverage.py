@@ -14,10 +14,10 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 import pandas as pd
 
 from common import PipelineError, finalize, get_table, log, run_standalone
-from tables import table1, table3
+from tables import country_yearly, global_monthly
 
 NAME = "data_coverage"
-CSV_NAME = "table9.csv"
+CSV_NAME = "data_coverage.csv"
 KEY = ["source", "variable", "decade"]
 DEPENDS = []          # soft: uses whatever tables exist
 
@@ -80,13 +80,13 @@ def build(ctx=None) -> pd.DataFrame:
     ctx = {} if ctx is None else ctx
     frames = []
 
-    monthly = get_table(ctx, table1, required=False)
+    monthly = get_table(ctx, global_monthly, required=False)
     if monthly is not None:
         frames.append(_coverage(monthly, GLOBAL_VARIABLES, by_country=False))
     else:
         log.warning("%s: global_monthly not available, its variables are not covered", NAME)
 
-    countries = get_table(ctx, table3, required=False)
+    countries = get_table(ctx, country_yearly, required=False)
     if countries is not None:
         frames.append(_coverage(countries, COUNTRY_VARIABLES, by_country=True))
     else:

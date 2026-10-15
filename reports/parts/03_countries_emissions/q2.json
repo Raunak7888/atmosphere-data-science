@@ -1,0 +1,9 @@
+{
+  "topic": "countries_emissions",
+  "qid": "q2",
+  "question": "Which countries contributed the most cumulatively since 1850?",
+  "images": [
+    "q2_1.png"
+  ],
+  "summary": "History tells a different story from today. United States leads with 434,867 Mt (24.1% of all historical CO2), ahead of China at 285,087 Mt (15.8%). Russia (6.8%), Germany (5.3%) and United Kingdom (4.4%) follow, which shows the lasting weight of early industrializers. Among today's three largest emitters, China ranks #2 (15.8%), United States ranks #1 (24.1%), India ranks #7 (3.7%) historically. The top 10 account for 69.9% of all cumulative emissions, and United States carries roughly 1.5 times the historical emissions of China."
+}

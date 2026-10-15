@@ -1,0 +1,9 @@
+{
+  "topic": "countries_emissions",
+  "qid": "q1",
+  "question": "Which countries emit the most today?",
+  "images": [
+    "q1_1.png"
+  ],
+  "summary": "Emissions are highly concentrated. China emits 12,289 Mt, or 31.8% of the global total. United States is second at 4,904 Mt (12.7%) and India third at 3,193 Mt (8.3%). Together these three emit about 53% of world CO2. The top 10 countries produce 68.9%, so action by a small group of countries has an outsized effect on global totals."
+}

@@ -1,0 +1,9 @@
+{
+  "topic": "air_pollution",
+  "qid": "q3",
+  "question": "Where PM2.5 fell sharply, what changed (policy events)?",
+  "images": [
+    "q3_1.png"
+  ],
+  "summary": "The biggest declines since 1990 were in Bolivia (-70%), Estonia (-69%), Lithuania (-66%). Policy events recorded for these countries: EU Emissions Trading System launched (2005); Global financial crisis (2008-09) (2008); Kyoto Protocol enters into force (2005). Matching an event to a decline shows timing overlap, not proof; check each country's PM2.5 curve around the event year."
+}

@@ -1,0 +1,9 @@
+{
+  "topic": "gases_warming",
+  "qid": "q3",
+  "question": "Which emission sources dominate CO2 gas?",
+  "images": [
+    "q3_1.png"
+  ],
+  "summary": "Coal and Oil dominate, together producing about 73% of fossil and industrial CO2 in 2024. Coal is the largest single source at 42.7% (15,800 Mt), compared with 35.6% in 1974. Gas gained the most share over the 50 years (13.7% to 21.7%), while Oil lost the most (46.3% to 30.5%). Cement (4.0%) and Flaring (1.1%) are minor sources. The mix has shifted between fuels, which means power generation and industry as well as transport drive the largest shares of CO2."
+}

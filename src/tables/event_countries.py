@@ -21,12 +21,12 @@ import pandas as pd
 
 from common import (MANUAL_DIR, ManualInputPending, PipelineError, dedupe, ensure_manual_template,
                     finalize, get_table, log, read_manual, run_standalone)
-from tables import table3, table7
+from tables import country_yearly, events
 
 NAME = "event_countries"
-CSV_NAME = "table8.csv"
+CSV_NAME = "event_countries.csv"
 KEY = ["event_id", "iso_code"]
-DEPENDS = [table3, table7]
+DEPENDS = [country_yearly, events]
 
 SCHEMA = {
     "event_id": "string",
@@ -51,8 +51,8 @@ ROLES = {"treated", "control"}
 
 def build(ctx=None) -> pd.DataFrame:
     ctx = {} if ctx is None else ctx
-    events = get_table(ctx, table7)
-    countries = get_table(ctx, table3)
+    events_df = get_table(ctx, events)
+    countries = get_table(ctx, country_yearly)
 
     ensure_manual_template(FILE, pd.DataFrame(columns=COLUMNS))
     df = read_manual(FILE, COLUMNS)
@@ -71,7 +71,7 @@ def build(ctx=None) -> pd.DataFrame:
     bad_role = sorted(set(df["role"]) - ROLES)
     if bad_role:
         problems.append(f"role must be treated or control, found {bad_role}")
-    bad_event = sorted(set(df["event_id"]) - set(events["event_id"]))
+    bad_event = sorted(set(df["event_id"]) - set(events_df["event_id"]))
     if bad_event:
         problems.append(f"event_id not in events table: {bad_event}")
     bad_iso = sorted(set(df["iso_code"]) - set(countries["iso_code"]))

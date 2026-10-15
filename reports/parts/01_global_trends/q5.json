@@ -1,0 +1,9 @@
+{
+  "topic": "global_trends",
+  "qid": "q5",
+  "question": "How did global temperature anomaly change by decade, and which decade jumped most?",
+  "images": [
+    "q5_1.png"
+  ],
+  "summary": "Global temperature anomalies show a clear long-term warming trend, rising from an average of -0.217 °C in the 1880s to +1.067 °C in the 2020s, a difference of 1.284 °C between the two decade averages. The largest increase between consecutive decade averages occurred from the 2010s to the 2020s, rising by 0.261 °C. Note that the 2020s cover only 6 years so far, so that decade is incomplete. The linear trend across decade averages is +0.087 °C per decade."
+}

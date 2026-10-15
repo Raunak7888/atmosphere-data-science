@@ -1,0 +1,9 @@
+{
+  "topic": "countries_emissions",
+  "qid": "q4",
+  "question": "Which countries decoupled emissions from GDP growth?",
+  "images": [
+    "q4_1.png"
+  ],
+  "summary": "Decoupling is real but not universal: 52 of 153 countries (about 34%) grew GDP while cutting CO2 between 2012 and 2022. Large emitters on the list include United States (GDP +23.1%, CO2 -5.2%), Russia (GDP +8.5%, CO2 -1.4%), Japan (GDP +5.4%, CO2 -20.9%), Germany (GDP +12.3%, CO2 -18.0%), South Korea (GDP +29.7%, CO2 -3.4%). The strongest cuts came from Greece (GDP +6.5%, CO2 -37.0%), United Kingdom (GDP +16.0%, CO2 -36.2%), Estonia (GDP +32.6%, CO2 -32.6%), Finland (GDP +10.8%, CO2 -29.0%). Among the largest emitters that did not decouple are China (GDP +82.5%, CO2 +19.9%), India (GDP +73.1%, CO2 +46.9%), Iran (GDP +18.7%, CO2 +28.0%), Indonesia (GDP +51.6%, CO2 +47.0%). Some decouplers cut emissions only marginally, so a decoupled flag does not always mean meaningful reductions."
+}

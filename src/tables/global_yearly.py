@@ -20,12 +20,12 @@ import pandas as pd
 
 from common import PipelineError, finalize, get_table, log, run_standalone
 from owid import load_owid
-from tables import table1
+from tables import global_monthly
 
 NAME = "global_yearly"
-CSV_NAME = "table2.csv"
+CSV_NAME = "global_yearly.csv"
 KEY = ["year"]
-DEPENDS = [table1]
+DEPENDS = [global_monthly]
 
 MIN_MONTHS = 12
 
@@ -111,7 +111,7 @@ def _load_world() -> pd.DataFrame:
 
 def build(ctx=None) -> pd.DataFrame:
     ctx = {} if ctx is None else ctx
-    monthly = get_table(ctx, table1)
+    monthly = get_table(ctx, global_monthly)
 
     yearly = pd.DataFrame({col: _yearly_mean(monthly, col) for col in MEAN_COLUMNS})
     yearly["is_complete_year"] = monthly.groupby("year")["temp_anomaly"].count() == 12

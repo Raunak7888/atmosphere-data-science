@@ -17,7 +17,7 @@ from common import PipelineError, dedupe, finalize, log, run_standalone
 from owid import owid_aggregates
 
 NAME = "aggregates_yearly"
-CSV_NAME = "table5.csv"
+CSV_NAME = "aggregates_yearly.csv"
 KEY = ["entity", "year"]
 DEPENDS = []
 

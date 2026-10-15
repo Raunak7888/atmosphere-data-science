@@ -1,0 +1,9 @@
+{
+  "topic": "air_pollution",
+  "qid": "q2",
+  "question": "Do countries with higher CO2 per capita have higher PM2.5?",
+  "images": [
+    "q2_1.png"
+  ],
+  "summary": "Across 192 countries in 1994, the rank correlation is -0.22, i.e. a weak or negative relationship. High-income, high-CO2 countries often have relatively clean air because of emission controls, while many low-emitting countries face high PM2.5 from solid-fuel cooking, dust and industry. CO2 per capita is therefore a poor predictor of local air quality."
+}

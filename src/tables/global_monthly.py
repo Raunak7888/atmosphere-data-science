@@ -22,7 +22,7 @@ from common import (CLEANED, PipelineError, clean_int_keys, coerce_numeric, dedu
                     finalize, log, positive_only, read_source, run_standalone)
 
 NAME = "global_monthly"
-CSV_NAME = "table1.csv"
+CSV_NAME = "global_monthly.csv"
 KEY = ["year", "month"]
 DEPENDS = []
 

@@ -21,10 +21,10 @@ import pandas as pd
 from common import (CLEANED, PipelineError, clean_int_keys, coerce_numeric, dedupe,
                     finalize, get_table, log, read_source, run_standalone)
 from owid import owid_countries
-from tables import table4
+from tables import country_ref
 
 NAME = "country_yearly"
-CSV_NAME = "table3.csv"
+CSV_NAME = "country_yearly.csv"
 KEY = ["iso_code", "year"]
 DEPENDS = []          # Table 4 is only used for a soft check
 
@@ -159,7 +159,7 @@ def build(ctx=None) -> pd.DataFrame:
 
     df = finalize(df, SCHEMA, KEY, NAME)
 
-    ref = get_table(ctx, table4, required=False)      # soft check, never blocks
+    ref = get_table(ctx, country_ref, required=False)      # soft check, never blocks
     if ref is not None:
         unmatched = sorted(set(df["iso_code"].dropna()) - set(ref["iso_code"]))
         if unmatched:

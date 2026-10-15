@@ -21,7 +21,7 @@ from common import (MANUAL_DIR, ManualInputPending, PipelineError, coerce_numeri
                     ensure_manual_template, finalize, log, read_manual, run_standalone)
 
 NAME = "gwp_constants"
-CSV_NAME = "table6.csv"
+CSV_NAME = "gwp_constants.csv"
 KEY = ["gas"]
 DEPENDS = []
 

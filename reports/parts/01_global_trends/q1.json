@@ -1,0 +1,9 @@
+{
+  "topic": "global_trends",
+  "qid": "q1",
+  "question": "How has CO2 changed from 1960 to now?",
+  "images": [
+    "q1_1.png"
+  ],
+  "summary": "Atmospheric CO2 rose from about 316.9 ppm in 1960 to about 427.4 ppm in 2025, an increase of roughly 110.4 ppm (about 35%). The rise has been continuous: no year shows a decline."
+}

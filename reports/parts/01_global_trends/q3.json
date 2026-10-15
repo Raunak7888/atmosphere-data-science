@@ -1,0 +1,9 @@
+{
+  "topic": "global_trends",
+  "qid": "q3",
+  "question": "What is the seasonal cycle of CO2 and which month peaks?",
+  "images": [
+    "q3_1.png"
+  ],
+  "summary": "Atmospheric CO2 follows a regular seasonal cycle. After removing the long-term trend with a 12-month moving average, the median across 46 complete years shows CO2 peaking in Apr (+1.80 ppm above trend), with May close behind (+1.61 ppm). It then falls through the summer to its lowest point in Sep (-2.65 ppm), with Aug almost equal (-2.62 ppm). The seasonal swing is about 4.45 ppm from peak to trough. The cycle arises because plants absorb CO2 during the summer growing season and release it through decay in autumn and winter. This swing is small compared with the long-term rise of 110 ppm since 1960."
+}

@@ -1,0 +1,9 @@
+{
+  "topic": "countries_emissions",
+  "qid": "q3",
+  "question": "Who emits the most per person?",
+  "images": [
+    "q3_1.png"
+  ],
+  "summary": "The highest per-person emitters among countries with 1M+ people are Qatar (41.3 t), Kuwait (26.2 t), Bahrain (24.3 t), Trinidad and Tobago (22.9 t), Saudi Arabia (20.4 t), United Arab Emirates (20.1 t). The leader, Qatar, emits 9.0 times the world average of 4.59 tonnes per person. Among the six largest total emitters, per-person levels are: China 8.7 t, United States 14.2 t, India 2.2 t, Russia 12.3 t, Japan 7.8 t, Indonesia 2.9 t. Total and per-person rankings therefore tell very different stories: a country can dominate world totals while its per-person level is moderate, or the reverse."
+}

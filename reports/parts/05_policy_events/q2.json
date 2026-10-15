@@ -1,0 +1,9 @@
+{
+  "topic": "policy_events",
+  "qid": "q2",
+  "question": "Did the 2020 COVID drop in CO2 show up, how large was it, and how quickly did emissions rebound?",
+  "images": [
+    "q2_1.png"
+  ],
+  "summary": "Global CO2 emissions fell from 35.84 Gt in 2019 to 34.31 Gt in 2020, a drop of 1.53 Gt (-4.3%), the sharpest single-year fall in the recent record. Emissions rebounded 4.9% in 2021 and returned to the 2019 level in 2021. The drop was therefore real but temporary: it reflected lockdown-related demand, not structural change."
+}

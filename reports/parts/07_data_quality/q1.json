@@ -1,0 +1,10 @@
+{
+  "topic": "data_quality",
+  "qid": "q1",
+  "question": "Which variables have the most missing data and in which years/countries?",
+  "images": [
+    "q1_1.png",
+    "q1_2.png"
+  ],
+  "summary": "The most incomplete variable is \"pm25_exposure\" (84% missing), followed by \"flaring_co2\" (71%) and \"gdp_change_10yr_pct\" (68%). Gaps concentrate in the earliest decades, and 23 countries have no \"pm25_exposure\" values at all. Any analysis using these variables is effectively limited to later years and a subset of countries."
+}

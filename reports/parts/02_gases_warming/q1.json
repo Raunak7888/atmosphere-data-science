@@ -1,0 +1,9 @@
+{
+  "topic": "gases_warming",
+  "qid": "q1",
+  "question": "Which gases contribute most to warming?",
+  "images": [
+    "q1_1.png"
+  ],
+  "summary": "CO2 is the largest contributor to warming. In 2024 it accounts for about 75.0% of the combined three-gas total (CO2, methane and nitrous oxide). Methane (CH4) is second at 19.1%, and Nitrous oxide (N2O) is third at 5.9%. Together, the two non-CO2 gases contribute about 25% of the total, so cutting CO2 matters most, but methane is the second lever. These shares assume the methane and N2O columns are already in CO2-equivalent using the dataset's GWP100 factors."
+}

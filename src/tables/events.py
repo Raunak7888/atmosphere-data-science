@@ -18,7 +18,7 @@ from common import (MANUAL_DIR, PipelineError, dedupe, ensure_manual_template,
                     finalize, log, read_manual, run_standalone)
 
 NAME = "events"
-CSV_NAME = "table7.csv"
+CSV_NAME = "events.csv"
 KEY = ["event_id"]
 DEPENDS = []
 

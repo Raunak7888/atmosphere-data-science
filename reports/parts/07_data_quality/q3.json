@@ -1,0 +1,9 @@
+{
+  "topic": "data_quality",
+  "qid": "q3",
+  "question": "How does the choice of baseline period change the temperature story?",
+  "images": [
+    "q3_1.png"
+  ],
+  "summary": "Rebasing the same temperature series changes the headline number: the 2025 anomaly is 1.42 °C vs 1880-1900 (pre-industrial), 1.19 °C vs 1951-1980, 0.58 °C vs 1991-2020. The shape and the warming trend are identical; only the zero line moves. A recent baseline makes warming look smaller and a pre-industrial baseline makes it look larger, so the baseline must always be stated when quoting an anomaly."
+}

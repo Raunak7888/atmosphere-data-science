@@ -1,0 +1,9 @@
+{
+  "topic": "air_pollution",
+  "qid": "q1",
+  "question": "Which countries have the highest PM2.5 exposure, and how has it changed since 1990?",
+  "images": [
+    "q1_1.png"
+  ],
+  "summary": "In 2023, the highest PM2.5 exposure was in Qatar (108 µg/m³), Saudi Arabia (74 µg/m³), Bangladesh (69 µg/m³), several times the WHO guideline of 5 µg/m³. Since 1990, 4 of these 15 countries improved while 11 worsened, so high exposure is persistent and not uniformly improving."
+}

@@ -1,0 +1,9 @@
+{
+  "topic": "global_trends",
+  "qid": "q2",
+  "question": "Is the growth rate of CO2 itself accelerating?",
+  "images": [
+    "q2_1.png"
+  ],
+  "summary": "Yes: the average annual growth rate of atmospheric CO2 moved from 0.86 ppm/yr in the 1960s to 2.62 ppm/yr in the 2020s (about 3.0 times higher). A linear trend changes the growth rate by 0.029 ppm/yr every year (about 0.29 ppm/yr per decade, R2 = 0.61). Short-term spikes and dips are mainly driven by El Nino and volcanic events (for example the 1991 Pinatubo eruption) on top of this long-term trend."
+}

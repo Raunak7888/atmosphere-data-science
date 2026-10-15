@@ -1,0 +1,9 @@
+{
+  "topic": "policy_events",
+  "qid": "q1",
+  "question": "What happens to emissions after major energy-policy changes?",
+  "images": [
+    "q1_1.png"
+  ],
+  "summary": "Of 4 events analysed, 0 were followed by lower average emissions in the countries involved. The largest decline followed \"Global financial crisis (2008-09)\" (2008, 3.0%), while \"China air-pollution action plan\" (2013) saw a +12.8% change. This is a before/after comparison, not proof of causation, since the wider economy and other policies move at the same time."
+}
